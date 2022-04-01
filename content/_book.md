@@ -29,7 +29,43 @@ readingOrder:
   - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: vec_makropulos_005.html
+        title: Předmluva vydavatele
+        hiddenTitle: false
+      - link: vec_makropulos_007.html
+        title: Předmluva
+        hiddenTitle: false
+      - link: vec_makropulos_008.html
+        title: OSOBY
+        hiddenTitle: false
+      - link: vec_makropulos_009.html
+        title: DĚJSTVÍ PRVNÍ
+        hiddenTitle: false
+      - link: vec_makropulos_010.html
+        title: DĚJSTVÍ DRUHÉ
+        hiddenTitle: false
+      - link: vec_makropulos_011.html
+        title: DĚJSTVÍ TŘETÍ
+        hiddenTitle: false
+      - link: vec_makropulos_012.html
+        title: PROMĚNA
+        hiddenTitle: false
+      - link: vec_makropulos_013.html
+        title: |-
+          Ediční
+          poznámka
+        hiddenTitle: false
+      - link: vec_makropulos_014.html
+        title: |-
+          Život a doba spisovatele
+          Karla Čapka v datech
+        hiddenTitle: false
+      - link: vec_makropulos_015.html
+        title: |-
+          První
+          vydání knih Karla Čapka
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
