@@ -1,553 +1,558 @@
 ---
+title: DĚJSTVÍ TŘETÍ
 contentType: prose
 ---
 
-## DĚJSTVÍ TŘETÍ
+_Hotelový pokoj. Vlevo okno, vpravo dveře na chodbu. Ve středu vchod do ložnice Emiliiny, oddělené závěsem._
 
-Hotelový pokoj. Vlevo okno, vpravo dveře na chodbu. Ve středu vchod do ložnice Emiliiny, oddělené závěsem.
+  
 
-(Emilia vychází z ložnice v peignoiru. Za ní Prus ve smokingu, ale bez límce. Prus usedne mlčky vpravo. Emilia jde k oknu a vytáhne roletu. Slabý ranní úsvit.)
+  
 
-EMILIA (obrátí se od okna): Nu? (Pauza. Jde blíže.) Dejte mi ji.
+  
 
-(Pauza.) Slyšíte? Dejte mi tu obálku.
+_(Emilia vychází z ložnice v peignoiru. Za ní Prus ve smokingu, ale bez límce. Prus usedne mlčky vpravo. Emilia jde k oknu a vytáhne roletu. Slabý ranní úsvit.)_
 
-(Prus mlčky vytáhne z náprsní kapsy koženou tobolku, z ní vyjme zapečetěnou obálku a beze slova ji hodí na stolek.)
+_EMILIA_ _(obrátí se od okna)_: Nu? _(Pauza. Jde blíže.)_ Dejte mi ji.
 
-EMILIA (vezme obálku a jde s ní k toaletnímu stolku; zde usedne, rozsvítí lampičku a prohlíží pečeti na obálce; váhá, pak rychle vlásničkou roztrhne obálku a vyjme z ní zežloutlý složený rukopis. Čte, prudký výdech radosti, pak složí rychle rukopis a skryje jej za ňadry. Vstane.): Dobrá! (Pauza.)
+_(Pauza.)_ Slyšíte? Dejte mi tu obálku.
 
-PRUS (tiše): Okradla jste mě.
+_(Prus mlčky vytáhne z náprsní kapsy koženou tobolku, z ní vyjme zapečetěnou obálku a beze slova ji hodí na stolek.)_
 
-EMILIA: Měl jste,… co jste chtěl.
+_EMILIA_ _(vezme obálku a jde s ní k toaletnímu stolku; zde usedne, rozsvítí lampičku a prohlíží pečeti na obálce; váhá, pak rychle vlásničkou roztrhne obálku a vyjme z ní zežloutlý složený rukopis. Čte, prudký výdech radosti, pak složí rychle rukopis a skryje jej za ňadry. Vstane.)_: Dobrá! _(Pauza.)_
 
-PRUS: Okradla jste mě. Studená jako led. Jako bych držel mrtvou… (Zachvěje se.) A proto jsem zpronevěřil cizí papíry! Děkuju pěkně!
+_PRUS_ _(tiše)_: Okradla jste mě.
 
-EMILIA: Je vám líto zavřené obálky?
+_EMILIA_: Měl jste,… co jste chtěl.
 
-PRUS: Je mně líto, že jsem vás poznal… Neměl jsem ji dávat. Jako bych ji byl ukradl. Hnus! Hnus!
+_PRUS_: Okradla jste mě. Studená jako led. Jako bych držel mrtvou… _(Zachvěje se.)_ A proto jsem zpronevěřil cizí papíry! Děkuju pěkně!
 
-EMILIA: Chcete snídat?
+_EMILIA_: Je vám líto zavřené obálky?
 
-PRUS: Nechci nic. Nic. (Vstane a jde k ní.) Ukažte se! Ukažte se, ať vidím! – Nevím, co jsem vám vlastně dal; snad to má nějakou cenu, ale… i kdyby to mělo jen tu cenu, že to bylo zapečetěno, jen tu cenu, že jsem to neznal – (Mávne rukou.)
+_PRUS_: Je mně líto, že jsem vás poznal… Neměl jsem ji dávat. Jako bych ji byl ukradl. Hnus! Hnus!
 
-EMILIA (vstane): Chcete mně naplivat do tváře?
+_EMILIA_: Chcete snídat?
 
-PRUS: Ne, ale sobě.
+_PRUS_: Nechci nic. Nic. _(Vstane a jde k ní.)_ Ukažte se! Ukažte se, ať vidím! – Nevím, co jsem vám vlastně dal; snad to má nějakou cenu, ale… i kdyby to mělo jen tu cenu, že to bylo zapečetěno, jen tu cenu, že jsem to neznal – _(Mávne rukou.)_
 
-EMILIA: Oh poslužte si. (Klepání. Jde ke dveřím.) Kdo je to?
+_EMILIA_ _(vstane)_: Chcete mně naplivat do tváře?
 
-KOMORNÁ (za scénou): Já, slečno.
+_PRUS_: Ne, ale sobě.
 
-EMILIA: Pojď dál. (Odemkne.) Něco jíst!
+_EMILIA_: Oh poslužte si. _(Klepání. Jde ke dveřím.)_ Kdo je to?
 
-KOMORNÁ (vejde v nočním kabátku a spodničce, udýchaná): Prosím, slečno, není tady pan Prus?
+_KOMORNÁ_ _(za scénou)_: Já, slečno.
 
-PRUS (otočí se): Co je?
+_EMILIA_: Pojď dál. _(Odemkne.)_ Něco jíst!
 
-KOMORNÁ: Je tu sluha pana Pruse. Že s ním musí mluvit. Že mu něco nese.
+_KOMORNÁ_ _(vejde v nočním kabátku a spodničce, udýchaná)_: Prosím, slečno, není tady pan Prus?
 
-PRUS: Jak u čerta ví – Řekněte, ať počká. Ne, zůstaňte. (Odejde do ložnice.)
+_PRUS_ _(otočí se)_: Co je?
 
-EMILIA: Učešeš mne. (Usedne před toaletním stolkem.)
+_KOMORNÁ_: Je tu sluha pana Pruse. Že s ním musí mluvit. Že mu něco nese.
 
-KOMORNÁ (rozpouští jí vlasy): Bože to jsem se lekla! Pro mne přiběh portýr, že tu je ten sluha a že chce k vám. A on vám ten sluha je zrovna bez sebe, ani mluvit nemůže. A do mne jako když střelí. Něco se muselo stát, slečno.
+_PRUS_: Jak u čerta ví – Řekněte, ať počká. Ne, zůstaňte. _(Odejde do ložnice.)_
 
-EMILIA: Pozor, taháš.
+_EMILIA_: Učešeš mne. _(Usedne před toaletním stolkem.)_
 
-KOMORNÁ: A bledý je jako stěna, ten sluha. Já se tak lekla –
+_KOMORNÁ_ _(rozpouští jí vlasy)_: Bože to jsem se lekla! Pro mne přiběh portýr, že tu je ten sluha a že chce k vám. A on vám ten sluha je zrovna bez sebe, ani mluvit nemůže. A do mne jako když střelí. Něco se muselo stát, slečno.
 
-PRUS (vyjde spěšně z ložnice v límci a kravatě): Pardon, okamžik. (Odejde vpravo.)
+_EMILIA_: Pozor, taháš.
 
-KOMORNÁ (kartáčuje vlasy): To je velký pán, že? Já bych hrozně chtěla vědět, co se stalo. Kdybyste viděla, slečno, jak se ten sluha třás…
+_KOMORNÁ_: A bledý je jako stěna, ten sluha. Já se tak lekla –
 
-EMILIA: Dáš mi pak udělat vajíčka.
+_PRUS_ _(vyjde spěšně z ložnice v límci a kravatě)_: Pardon, okamžik. _(Odejde vpravo.)_
 
-KOMORNÁ: A měl v ruce nějaké psaní či co. Měla bych jít poslouchat?
+_KOMORNÁ_ _(kartáčuje vlasy)_: To je velký pán, že? Já bych hrozně chtěla vědět, co se stalo. Kdybyste viděla, slečno, jak se ten sluha třás…
 
-EMILIA (zívá): Kolik je hodin?
+_EMILIA_: Dáš mi pak udělat vajíčka.
 
-KOMORNÁ: Sedm pryč.
+_KOMORNÁ_: A měl v ruce nějaké psaní či co. Měla bych jít poslouchat?
 
-EMILIA: Zhas to světlo a mlč. (Pauza.)
+_EMILIA_ _(zívá)_: Kolik je hodin?
 
-KOMORNÁ: A pysky měl zrovna modré, ten sluha.
+_KOMORNÁ_: Sedm pryč.
 
-EMILIA: Vždyť mě vytrháš vlasy, ty pitomá! Ukaž hřeben! Na, koukej, co tu je vyškubaných vlasů!
+_EMILIA_: Zhas to světlo a mlč. _(Pauza.)_
 
-KOMORNÁ: Když se mně třesou ruce! Něco se muselo stát –
+_KOMORNÁ_: A pysky měl zrovna modré, ten sluha.
 
-EMILIA: Proto si nenechám trhat vlasy. Dělej! (Pauza.)
+_EMILIA_: Vždyť mě vytrháš vlasy, ty pitomá! Ukaž hřeben! Na, koukej, co tu je vyškubaných vlasů!
 
-(Prus vrací se z chodby, v ruce neotevřený list, jejž mechanicky uhlazuje.)
+_KOMORNÁ_: Když se mně třesou ruce! Něco se muselo stát –
 
-EMILIA: To bylo krátké.
+_EMILIA_: Proto si nenechám trhat vlasy. Dělej! _(Pauza.)_
 
-(Prus hledá rukou židli a usedá.)
+_(Prus vrací se z chodby, v ruce neotevřený list, jejž mechanicky uhlazuje.)_
 
-EMILIA: Co budete snídat?
+_EMILIA_: To bylo krátké.
 
-PRUS (chraptivě): Pošlete… to děvče…
+_(Prus hledá rukou židli a usedá.)_
 
-EMILIA: Jdi tedy. Až zazvoním. Jdi!
+_EMILIA_: Co budete snídat?
 
-(Komorná odejde.)
+_PRUS_ _(chraptivě)_: Pošlete… to děvče…
 
-EMILIA (po pauze): Nu tedy?
+_EMILIA_: Jdi tedy. Až zazvoním. Jdi!
 
-PRUS: Janek… se zastřelil.
+_(Komorná odejde.)_
 
-EMILIA: Jděte!
+_EMILIA_ _(po pauze)_: Nu tedy?
 
-PRUS: Hlavu… rozbitou. K nepoznání. Je mrtev.
+_PRUS_: Janek… se zastřelil.
 
-EMILIA: Chudáček. Kdo vám to píše?
+_EMILIA_: Jděte!
 
-PRUS: Sluha to řekl. Tohle… psal Janek. Našli to u něho… Tady, krev –
+_PRUS_: Hlavu… rozbitou. K nepoznání. Je mrtev.
 
-EMILIA: Co píše?
+_EMILIA_: Chudáček. Kdo vám to píše?
 
-PRUS: Bojím se… otevřít… Jak, jak, jak jen mohl vědět, že jsem u vás? Proč mně to poslal sem? Myslíte, že…
+_PRUS_: Sluha to řekl. Tohle… psal Janek. Našli to u něho… Tady, krev –
 
-EMILIA: Že vás viděl.
+_EMILIA_: Co píše?
 
-PRUS: Proč to udělal? Proč… se zabil?
+_PRUS_: Bojím se… otevřít… Jak, jak, jak jen mohl vědět, že jsem u vás? Proč mně to poslal sem? Myslíte, že…
 
-EMILIA: Přečtěte si to.
+_EMILIA_: Že vás viděl.
 
-PRUS: Nechcete si to… vy přečíst dříve?
+_PRUS_: Proč to udělal? Proč… se zabil?
 
-EMILIA: Ne.
+_EMILIA_: Přečtěte si to.
 
-PRUS: Myslím, – že se to týká také vás – Otevřte to vy –
+_PRUS_: Nechcete si to… vy přečíst dříve?
 
-EMILIA: Ah ne –
+_EMILIA_: Ne.
 
-PRUS: Měl bych jít za ním – Měl bych… Mám to otevřít?
+_PRUS_: Myslím, – že se to týká také vás – Otevřte to vy –
 
-EMILIA: Ale ano.
+_EMILIA_: Ah ne –
 
-PRUS: Budiž. (Roztrhne obálku a vyjme list.)
+_PRUS_: Měl bych jít za ním – Měl bych… Mám to otevřít?
 
-(Emilia dělá si manikúru.)
+_EMILIA_: Ale ano.
 
-PRUS (potichu čte): O! (Upustí dopis.)
+_PRUS_: Budiž. _(Roztrhne obálku a vyjme list.)_
 
-EMILIA: Kolik že mu bylo let?
+_(Emilia dělá si manikúru.)_
 
-PRUS: Proto, proto tedy!
+_PRUS_ _(potichu čte)_: O! _(Upustí dopis.)_
 
-EMILIA: Ubohý Janek!
+_EMILIA_: Kolik že mu bylo let?
 
-PRUS: Miloval vás…
+_PRUS_: Proto, proto tedy!
 
-EMILIA: Ah?
+_EMILIA_: Ubohý Janek!
 
-PRUS (zavzlyká): Můj jediný, můj jediný – (Zakryje si tváře. Pauza.) Osmnáct let, osmnáct let mu bylo! Janku! Můj chlapče! (Pauza.) Kriste, Kriste, býval jsem… příliš tvrdý k němu! Nikdy jsem ho nepohladil, nikdy… nepolaskal, nikdy nepochválil… A když mne to táhlo, abych ho… aspoň políbil, myslel jsem: ne, ať je tvrdý… tvrdý jako já… tvrdý pro život… Já ho vůbec neznal! Ó bože, jak mne ten chlapec zbožňoval!
+_PRUS_: Miloval vás…
 
-EMILIA: To jste nevěděl?
+_EMILIA_: Ah?
 
-PRUS: Kriste, kdyby byl ještě živ! Tak hloupě, tak nesmyslně se zamiluje – – Viděl mne jít k vám… dvě hodiny čekal u vrat… pak jde domů a…
+_PRUS_ _(zavzlyká)_: Můj jediný, můj jediný – _(Zakryje si tváře. Pauza.)_ Osmnáct let, osmnáct let mu bylo! Janku! Můj chlapče! _(Pauza.)_ Kriste, Kriste, býval jsem… příliš tvrdý k němu! Nikdy jsem ho nepohladil, nikdy… nepolaskal, nikdy nepochválil… A když mne to táhlo, abych ho… aspoň políbil, myslel jsem: ne, ať je tvrdý… tvrdý jako já… tvrdý pro život… Já ho vůbec neznal! Ó bože, jak mne ten chlapec zbožňoval!
 
-EMILIA (vezme hřeben a češe se): Chudáček.
+_EMILIA_: To jste nevěděl?
 
-PRUS: V osmnácti letech! Můj Janek, mé dítě… Mrtev, k nepoznání… A takovým dětským písmem píše: „… táto, poznal jsem život, táto, buď šťasten, ale já…“ (Vstane.) Co to děláte?
+_PRUS_: Kriste, kdyby byl ještě živ! Tak hloupě, tak nesmyslně se zamiluje – – Viděl mne jít k vám… dvě hodiny čekal u vrat… pak jde domů a…
 
-EMILIA (vlásničky v ústech): Češu se.
+_EMILIA_ _(vezme hřeben a češe se)_: Chudáček.
 
-PRUS: Snad jste… nepochopila. Janek vás miloval! Zabil se pro vás!
+_PRUS_: V osmnácti letech! Můj Janek, mé dítě… Mrtev, k nepoznání… A takovým dětským písmem píše: „… táto, poznal jsem život, táto, buď šťasten, ale já…“ _(Vstane.)_ Co to děláte?
 
-EMILIA: Bah, tolik se jich zabíjí!
+_EMILIA_ _(vlásničky v ústech)_: Češu se.
 
-PRUS: A vy se můžete česat?
+_PRUS_: Snad jste… nepochopila. Janek vás miloval! Zabil se pro vás!
 
-EMILIA: Mám snad kvůli tomu běhat rozcuchaná?
+_EMILIA_: Bah, tolik se jich zabíjí!
 
-PRUS: Pro vás se zabil! Slyšíte?
+_PRUS_: A vy se můžete česat?
 
-EMILIA: Copak já za to mohu? Pro vás taky! Mám si snad trhat vlasy? Dost mně jich vytrhá komorná.
+_EMILIA_: Mám snad kvůli tomu běhat rozcuchaná?
 
-PRUS (couvá): Mlčte, nebo – (Zaklepání.)
+_PRUS_: Pro vás se zabil! Slyšíte?
 
-EMILIA: Dále.
+_EMILIA_: Copak já za to mohu? Pro vás taky! Mám si snad trhat vlasy? Dost mně jich vytrhá komorná.
 
-KOMORNÁ (vejde, již ustrojena): Pan Hauk-Šendorf prosí, slečno.
+_PRUS_ _(couvá)_: Mlčte, nebo – _(Zaklepání.)_
 
-EMILIA: Přiveď ho sem! (Komorná odejde.)
+_EMILIA_: Dále.
 
-PRUS: Vy – vy ho přijmete – teď? přede mnou?
+_KOMORNÁ_ _(vejde, již ustrojena)_: Pan Hauk-Šendorf prosí, slečno.
 
-EMILIA: Jděte zatím vedle.
+_EMILIA_: Přiveď ho sem! _(Komorná odejde.)_
 
-PRUS (zvedá portiéru): – – Canaille! (Zajde.)
+_PRUS_: Vy – vy ho přijmete – teď? přede mnou?
 
-(Hauk-Šendorf vejde.)
+_EMILIA_: Jděte zatím vedle.
 
-EMILIA: Buenos dias, Maxi. Co tak časně?
+_PRUS_ _(zvedá portiéru)_: – – Canaille! _(Zajde.)_
 
-HAUK: Psst! Psst! (Po špičkách k ní, políbí ji na šíji.) Ustrojte se, Eugenia. Jedeme.
+_(Hauk-Šendorf vejde.)_
 
-EMILIA: Kam?
+_EMILIA_: Buenos dias, Maxi. Co tak časně?
 
-HAUK: Domů, do Španěl. Hih, má žena nic neví. Račte rozumět, já se k ní už nevrátím. Por dios Eugenia, pospěšte si!
+_HAUK_: Psst! Psst! _(Po špičkách k ní, políbí ji na šíji.)_ Ustrojte se, Eugenia. Jedeme.
 
-EMILIA: Blázníte?
+_EMILIA_: Kam?
 
-HAUK: Zcela správně. Já jsem totiž pod kuratelou, račte vědět; mne by zadrželi a poslali zpátky, sss, jako balík, víte? Eh? Já jim chci totiž utéci. A vy mne odvezete.
+_HAUK_: Domů, do Španěl. Hih, má žena nic neví. Račte rozumět, já se k ní už nevrátím. Por dios Eugenia, pospěšte si!
 
-EMILIA: Do Španěl? Co bych tam dělala?
+_EMILIA_: Blázníte?
 
-HAUK: Ola! tančila přece! Mi dios hija, jak jsem vždycky žárlil! Vy budete tančit, sabe? a já, já budu tleskat do dlaní – (Vyjme z kapsy kastaněty.) Ay salero! Vaya, querida! (Zpívá.) La lala la lala – (Zarazí se.) Kdo tady pláče?
+_HAUK_: Zcela správně. Já jsem totiž pod kuratelou, račte vědět; mne by zadrželi a poslali zpátky, sss, jako balík, víte? Eh? Já jim chci totiž utéci. A vy mne odvezete.
 
-EMILIA: Ah nikdo.
+_EMILIA_: Do Španěl? Co bych tam dělala?
 
-HAUK: Sss, jako by někdo plakal. Mužský hlas. Chite, escucha –
+_HAUK_: Ola! tančila přece! Mi dios hija, jak jsem vždycky žárlil! Vy budete tančit, sabe? a já, já budu tleskat do dlaní – _(Vyjme z kapsy kastaněty.)_ Ay salero! Vaya, querida! _(Zpívá.)_ La lala la lala – _(Zarazí se.)_ Kdo tady pláče?
 
-EMILIA: Ah ano. Někdo vedle bydlí. Prý mu zemřel syn či co.
+_EMILIA_: Ah nikdo.
 
-HAUK: Jak prosím? umřel? A to je smutné. Vamos, Gitana! Vidíte, co s sebou vezu? Šperky. Matyldiny šperky. Račte rozumět, Matylda je má žena, eh? Je stará, víš? Je ošklivé být stár. Hrozné, hrozné je být stár. Já už byl taky stár, ale co jste se vrátila vy – – Chiquirritica, mně je dvacet let, eh? Nevěříte?
+_HAUK_: Sss, jako by někdo plakal. Mužský hlas. Chite, escucha –
 
-EMILIA: Sí, sí, seňor.
+_EMILIA_: Ah ano. Někdo vedle bydlí. Prý mu zemřel syn či co.
 
-HAUK: A vy jste taky nezestárla. Poslyšte, člověk nemá stárnout. Víte, že blázni mají dlouhý věk? Ó já budu dlouho živ! A pokud člověka těší milovat… (Chřestí kastanětami.) Užívej lásky! La lala la la – Kš, Cikánko! Pojedeš?
+_HAUK_: Jak prosím? umřel? A to je smutné. Vamos, Gitana! Vidíte, co s sebou vezu? Šperky. Matyldiny šperky. Račte rozumět, Matylda je má žena, eh? Je stará, víš? Je ošklivé být stár. Hrozné, hrozné je být stár. Já už byl taky stár, ale co jste se vrátila vy – – Chiquirritica, mně je dvacet let, eh? Nevěříte?
 
-EMILIA: Ano.
+_EMILIA_: Sí, sí, seňor.
 
-HAUK: Nový život, co? Začneme zase od dvaceti, niňa. Víš, rozkoš, rozkoš! Jen si vzpomeň! Haha, pamatuješ? Všecko ostatní je nic. Nada. Pojedeme?
+_HAUK_: A vy jste taky nezestárla. Poslyšte, člověk nemá stárnout. Víte, že blázni mají dlouhý věk? Ó já budu dlouho živ! A pokud člověka těší milovat… _(Chřestí kastanětami.)_ Užívej lásky! La lala la la – Kš, Cikánko! Pojedeš?
 
-EMILIA: Sí. Ven aquí, chucho! (Zaklepání.) Vstupte!
+_EMILIA_: Ano.
 
-KOMORNÁ (vstrčí hlavu): Pan Gregor prosí.
+_HAUK_: Nový život, co? Začneme zase od dvaceti, niňa. Víš, rozkoš, rozkoš! Jen si vzpomeň! Haha, pamatuješ? Všecko ostatní je nic. Nada. Pojedeme?
 
-EMILIA: Ať vejde!
+_EMILIA_: Sí. Ven aquí, chucho! _(Zaklepání.)_ Vstupte!
 
-HAUK: Co tu chce? Mi dios utečme!
+_KOMORNÁ_ _(vstrčí hlavu)_: Pan Gregor prosí.
 
-EMILIA: Počkejte.
+_EMILIA_: Ať vejde!
 
-(Vejde Gregor, Kolenatý, Kristina a Vítek.)
+_HAUK_: Co tu chce? Mi dios utečme!
 
-EMILIA: Dobrý den, Bertíku. Prosím tě, koho mi sem vedeš?
+_EMILIA_: Počkejte.
 
-GREGOR: Nejste sama?
+_(Vejde Gregor, Kolenatý, Kristina a Vítek.)_
 
-HAUK: Aá, pan Gregor! Bože to mám radost.
+_EMILIA_: Dobrý den, Bertíku. Prosím tě, koho mi sem vedeš?
 
-GREGOR (postrčí Kristinu před Emilii): Podívejte se tomu dítěti do očí! Víte, co se stalo?
+_GREGOR_: Nejste sama?
 
-EMILIA: Janek.
+_HAUK_: Aá, pan Gregor! Bože to mám radost.
 
-GREGOR: A víte proč?
+_GREGOR_ _(postrčí Kristinu před Emilii)_: Podívejte se tomu dítěti do očí! Víte, co se stalo?
 
-EMILIA: Pah!
+_EMILIA_: Janek.
 
-GREGOR: Toho chlapce máte vy na svědomí, rozumíte?
+_GREGOR_: A víte proč?
 
-EMILIA: A proto sem taháš tolik lidí i s advokátem?
+_EMILIA_: Pah!
 
-GREGOR: Ne jenom proto. A prosím, abyste mi netykala.
+_GREGOR_: Toho chlapce máte vy na svědomí, rozumíte?
 
-EMILIA (vzkypí): Tak se podívejme! Co tu chceš?
+_EMILIA_: A proto sem taháš tolik lidí i s advokátem?
 
-GREGOR: Uvidíte. (Bez okolků si sedne.) Jak se vlastně jmenujete?
+_GREGOR_: Ne jenom proto. A prosím, abyste mi netykala.
 
-EMILIA: Ty mne vyslýcháš?
+_EMILIA_ _(vzkypí)_: Tak se podívejme! Co tu chceš?
 
-KOLENATÝ: Kdepak, slečno. To je jen přátelská beseda.
+_GREGOR_: Uvidíte. _(Bez okolků si sedne.)_ Jak se vlastně jmenujete?
 
-GREGOR: Ukažte, Vítku! (Bere od Vítka fotografii.) Podepsala jste slečně Kristince tuhle fotografii? Je to váš podpis?
+_EMILIA_: Ty mne vyslýcháš?
 
-EMILIA: Je.
+_KOLENATÝ_: Kdepak, slečno. To je jen přátelská beseda.
 
-KOLENATÝ: Výborně. A račte dovolit: poslala jste mi včera tuhle listinu? Je to vlastnoruční prohlášení jakési Elliany Mac Gregorové, že je matkou Ferdinanda Gregora. Datum osmnáct set třicet šest. Je to pravé?
+_GREGOR_: Ukažte, Vítku! _(Bere od Vítka fotografii.)_ Podepsala jste slečně Kristince tuhle fotografii? Je to váš podpis?
 
-EMILIA: Je.
+_EMILIA_: Je.
 
-GREGOR: Ale psáno je to alizarinovým inkoustem. Víte, co to znamená? He? Že je to falzifikát, velectěná!
+_KOLENATÝ_: Výborně. A račte dovolit: poslala jste mi včera tuhle listinu? Je to vlastnoruční prohlášení jakési Elliany Mac Gregorové, že je matkou Ferdinanda Gregora. Datum osmnáct set třicet šest. Je to pravé?
 
-EMILIA: Jak to mám vědět?
+_EMILIA_: Je.
 
-GREGOR: Inkoust je čerstvý. Prosím, pánové. (Nasliní prst a přejede listinu.) Ještě se rozpíjí. Co tomu říkáte, vy?
+_GREGOR_: Ale psáno je to alizarinovým inkoustem. Víte, co to znamená? He? Že je to falzifikát, velectěná!
 
-EMILIA: Nic.
+_EMILIA_: Jak to mám vědět?
 
-GREGOR: Bylo to psáno včera, rozumíte? A k tomu touže rukou, která podepsala tuhle fotografii. Náramně zvláštní písmo.
+_GREGOR_: Inkoust je čerstvý. Prosím, pánové. _(Nasliní prst a přejede listinu.)_ Ještě se rozpíjí. Co tomu říkáte, vy?
 
-KOLENATÝ: Jakoby řecké, na mou duši. Například tohle alfa –
+_EMILIA_: Nic.
 
-GREGOR: Psala jste tu listinu, nebo ne?
+_GREGOR_: Bylo to psáno včera, rozumíte? A k tomu touže rukou, která podepsala tuhle fotografii. Náramně zvláštní písmo.
 
-EMILIA: Tobě se nebudu zpovídat.
+_KOLENATÝ_: Jakoby řecké, na mou duši. Například tohle alfa –
 
-HAUK: Ale pánové, pánové, račte dovolit –
+_GREGOR_: Psala jste tu listinu, nebo ne?
 
-KOLENATÝ: Nechat, pane, nechat; to jsou moc zajímavé věci. Slečno, můžete nám aspoň říci, kde jste vzala tohle lejstro?
+_EMILIA_: Tobě se nebudu zpovídat.
 
-EMILIA: Já přísahám, že to psala Ellian Mac Gregor!
+_HAUK_: Ale pánové, pánové, račte dovolit –
 
-KOLENATÝ: Kdy? Včera ráno?
+_KOLENATÝ_: Nechat, pane, nechat; to jsou moc zajímavé věci. Slečno, můžete nám aspoň říci, kde jste vzala tohle lejstro?
 
-EMILIA: Na tom nezáleží.
+_EMILIA_: Já přísahám, že to psala Ellian Mac Gregor!
 
-KOLENATÝ: Záleží, drahá slečno. Hrozně moc na tom záleží. Kdy zemřela Ellian Mac Gregor?
+_KOLENATÝ_: Kdy? Včera ráno?
 
-EMILIA: Jděte! Jděte! Já už neodpovím ani slova!
+_EMILIA_: Na tom nezáleží.
 
-PRUS (vystoupí rychle z ložnice): Prosím, ukažte mi tu listinu.
+_KOLENATÝ_: Záleží, drahá slečno. Hrozně moc na tom záleží. Kdy zemřela Ellian Mac Gregor?
 
-KOLENATÝ (vstane): Propána – vy –
+_EMILIA_: Jděte! Jděte! Já už neodpovím ani slova!
 
-GREGOR: Vy jste byl tady? Emilie, co to znamená?
+_PRUS_ _(vystoupí rychle z ložnice)_: Prosím, ukažte mi tu listinu.
 
-HAUK: Můj ty bože, pan Prus! A to mám radost! Jak se vede?
+_KOLENATÝ_ _(vstane)_: Propána – vy –
 
-GREGOR: Víte, že váš syn –
+_GREGOR_: Vy jste byl tady? Emilie, co to znamená?
 
-PRUS (chladně): Ano. Tu listinu prosím. (Kolenatý mu ji podá.) Děkuju. (Nasadí si skřipec a pozorně čte.)
+_HAUK_: Můj ty bože, pan Prus! A to mám radost! Jak se vede?
 
-GREGOR (přejde k Emilii, tiše): Co tu dělal? Mluvte!
+_GREGOR_: Víte, že váš syn –
 
-EMILIA (měří ho): Jakým právem?
+_PRUS_ _(chladně)_: Ano. Tu listinu prosím. _(Kolenatý mu ji podá.)_ Děkuju. _(Nasadí si skřipec a pozorně čte.)_
 
-GREGOR: Právem toho, kdo šílí.
+_GREGOR_ _(přejde k Emilii, tiše)_: Co tu dělal? Mluvte!
 
-PRUS (odkládá listinu): Ta listina je pravá.
+_EMILIA_ _(měří ho)_: Jakým právem?
 
-KOLENATÝ: I safra! Tak tedy to psala Ellian Mac Gregor?
+_GREGOR_: Právem toho, kdo šílí.
 
-PRUS: Ne. Psala to Řekyně Elina Makropulos. Je to táž ruka jako na mých dopisech. Nesporně.
+_PRUS_ _(odkládá listinu)_: Ta listina je pravá.
 
-KOLENATÝ: Ale ty přece psala –
+_KOLENATÝ_: I safra! Tak tedy to psala Ellian Mac Gregor?
 
-PRUS: – Elina Makropulos. Žádné Elliany Mac Gregor nebylo, pánové. To je omyl.
+_PRUS_: Ne. Psala to Řekyně Elina Makropulos. Je to táž ruka jako na mých dopisech. Nesporně.
 
-KOLENATÝ: To jsem blázen! A podpis na téhle fotografii?
+_KOLENATÝ_: Ale ty přece psala –
 
-PRUS (prohlíží): Nesporně písmo Eliny Makropulos.
+_PRUS_: – Elina Makropulos. Žádné Elliany Mac Gregor nebylo, pánové. To je omyl.
 
-KOLENATÝ: Tak vida! A je to vlastnoruční podpis tuhle té slečny. Viděla, Kristinko?
+_KOLENATÝ_: To jsem blázen! A podpis na téhle fotografii?
 
-KRISTINA: Nechte ji!
+_PRUS_ _(prohlíží)_: Nesporně písmo Eliny Makropulos.
 
-PRUS (vrací fotografii): Děkuju. Odpusťte, že jsem se vmísil. (Usedne stranou, hlavu v dlaních. Pauza.)
+_KOLENATÝ_: Tak vida! A je to vlastnoruční podpis tuhle té slečny. Viděla, Kristinko?
 
-KOLENATÝ: A teď se v tom, prokristapána, někdo vyznejte!
+_KRISTINA_: Nechte ji!
 
-VÍTEK: Snad je to prosím jen náhoda, že – že rukopis slečny Martyové – je tak trochu podobný –
+_PRUS_ _(vrací fotografii)_: Děkuju. Odpusťte, že jsem se vmísil. _(Usedne stranou, hlavu v dlaních. Pauza.)_
 
-KOLENATÝ: To se rozumí, Vítku! A slečnin příchod je taky jen náhoda a tenhle padělek je taky jen náhoda, a víte co, Vítku? Dejte se vůbec tou náhodou vycpat.
+_KOLENATÝ_: A teď se v tom, prokristapána, někdo vyznejte!
 
-EMILIA: Upozorňuju vás, pánové, že chci ještě dnes ráno odejet.
+_VÍTEK_: Snad je to prosím jen náhoda, že – že rukopis slečny Martyové – je tak trochu podobný –
 
-GREGOR: Kam prosím?
+_KOLENATÝ_: To se rozumí, Vítku! A slečnin příchod je taky jen náhoda a tenhle padělek je taky jen náhoda, a víte co, Vítku? Dejte se vůbec tou náhodou vycpat.
 
-EMILIA: Za hranice.
+_EMILIA_: Upozorňuju vás, pánové, že chci ještě dnes ráno odejet.
 
-KOLENATÝ: Propána slečno, to nedělejte! Víte co? Zůstaňte po dobrém, abychom se nemuseli obrátit – abychom nemuseli zavolat –
+_GREGOR_: Kam prosím?
 
-EMILIA: Vy mne chcete dát zatknout?
+_EMILIA_: Za hranice.
 
-GREGOR: Zatím ne. Máte ještě možnost – (Zaklepání.)
+_KOLENATÝ_: Propána slečno, to nedělejte! Víte co? Zůstaňte po dobrém, abychom se nemuseli obrátit – abychom nemuseli zavolat –
 
-KOLENATÝ: Dále!
+_EMILIA_: Vy mne chcete dát zatknout?
 
-KOMORNÁ (vstrčí hlavu): Dva páni hledají pana Hauka.
+_GREGOR_: Zatím ne. Máte ještě možnost – _(Zaklepání.)_
 
-HAUK: Jak prosím? Mne? Já nepůjdu! Já – proboha vás prosím – račte nějak –
+_KOLENATÝ_: Dále!
 
-VÍTEK: Já se jich prosím zeptám. (Jde ven.)
+_KOMORNÁ_ _(vstrčí hlavu)_: Dva páni hledají pana Hauka.
 
-KOLENATÝ (jde ke Kristině): Ale Kristinko, neplakala! Mně je to tak líto –
+_HAUK_: Jak prosím? Mne? Já nepůjdu! Já – proboha vás prosím – račte nějak –
 
-HAUK: Jeje, ta je hezká! Ukažte! Jezus, neračte plakat!
+_VÍTEK_: Já se jich prosím zeptám. _(Jde ven.)_
 
-GREGOR (těsně u Emilie, tiše): Dole auto. Pojedete se mnou za hranice, nebo –
+_KOLENATÝ_ _(jde ke Kristině)_: Ale Kristinko, neplakala! Mně je to tak líto –
 
-EMILIA: Haha, na tos počítal?
+_HAUK_: Jeje, ta je hezká! Ukažte! Jezus, neračte plakat!
 
-GREGOR: Buď já, nebo policie. Pojedeš?
+_GREGOR_ _(těsně u Emilie, tiše)_: Dole auto. Pojedete se mnou za hranice, nebo –
 
-EMILIA: Ne.
+_EMILIA_: Haha, na tos počítal?
 
-VÍTEK (vrací se): Prosím na pana Hauka čeká… jeho lékař… a ještě jeden pán. Že ho mají doprovodit domů.
+_GREGOR_: Buď já, nebo policie. Pojedeš?
 
-HAUK: Tak to vidíte, hihi! Už mne mají. Račte je požádat, aby počkali!
+_EMILIA_: Ne.
 
-VÍTEK: Prosím já jim to už řekl.
+_VÍTEK_ _(vrací se)_: Prosím na pana Hauka čeká… jeho lékař… a ještě jeden pán. Že ho mají doprovodit domů.
 
-GREGOR: Pánové, ježto nám slečna Martyová nehodlá to a ono vysvětlit, budeme tak smělí a prohlédneme si sami její zásuvky a zavazadla.
+_HAUK_: Tak to vidíte, hihi! Už mne mají. Račte je požádat, aby počkali!
 
-KOLENATÝ: Oho! Na to nemáme právo, Gregore! Rušení soukromého a tak dále, víme?
+_VÍTEK_: Prosím já jim to už řekl.
 
-GREGOR: Mám na to zavolat policii?
+_GREGOR_: Pánové, ježto nám slečna Martyová nehodlá to a ono vysvětlit, budeme tak smělí a prohlédneme si sami její zásuvky a zavazadla.
 
-KOLENATÝ: Myju si ruce.
+_KOLENATÝ_: Oho! Na to nemáme právo, Gregore! Rušení soukromého a tak dále, víme?
 
-HAUK: Račte dovolit, pane Gregore, ale jako kavalír –
+_GREGOR_: Mám na to zavolat policii?
 
-GREGOR: Pane, za dveřmi čeká váš doktor s detektivem. Mám je sem pozvat?
+_KOLENATÝ_: Myju si ruce.
 
-HAUK: To ne prosím; ale pan Prus jistě –
+_HAUK_: Račte dovolit, pane Gregore, ale jako kavalír –
 
-PRUS: Dělejte – s tou ženou –, co chcete.
+_GREGOR_: Pane, za dveřmi čeká váš doktor s detektivem. Mám je sem pozvat?
 
-GREGOR: Dobrá. Začneme. (Jde k sekretáři.)
+_HAUK_: To ne prosím; ale pan Prus jistě –
 
-EMILIA: Nechat! (Otvírá zásuvku toaletního stolku.) Opovaž se!
+_PRUS_: Dělejte – s tou ženou –, co chcete.
 
-KOLENATÝ (skočí k ní): A jejej, slečno! (Vymkne jí něco z ruky.)
+_GREGOR_: Dobrá. Začneme. _(Jde k sekretáři.)_
 
-GREGOR (otvírá sekretář, neobraceje se): Co, chtěla střílet? –
+_EMILIA_: Nechat! _(Otvírá zásuvku toaletního stolku.)_ Opovaž se!
 
-KOLENATÝ: Inu je to nabité. Gregore, nechme toho. Já někoho zavolám, ano?
+_KOLENATÝ_ _(skočí k ní)_: A jejej, slečno! _(Vymkne jí něco z ruky.)_
 
-GREGOR: Vyřídíme si to sami. (Prohlíží zásuvky.) Prosím, bavte se zatím.
+_GREGOR_ _(otvírá sekretář, neobraceje se)_: Co, chtěla střílet? –
 
-EMILIA (k Haukovi): Maxi, ty to dovolíš? Cáspita! y usted quiere pasar por caballero?
+_KOLENATÝ_: Inu je to nabité. Gregore, nechme toho. Já někoho zavolám, ano?
 
-HAUK: Cielo de mí, co mám dělat?
+_GREGOR_: Vyřídíme si to sami. _(Prohlíží zásuvky.)_ Prosím, bavte se zatím.
 
-EMILIA (ke Kolenatému): Doktore, vy jste čestný muž –
+_EMILIA_ _(k Haukovi)_: Maxi, ty to dovolíš? Cáspita! y usted quiere pasar por caballero?
 
-KOLENATÝ: Hrozně lituji, slečno, že se mýlíte. Já jsem taškář a světový lupič. Já jsem totiž Arsène Lupin.
+_HAUK_: Cielo de mí, co mám dělat?
 
-EMILIA (k Prusovi): Tedy vy, Pruse! Vy přece jste džentlmen! Vy nemůžete dovolit –
+_EMILIA_ _(ke Kolenatému)_: Doktore, vy jste čestný muž –
 
-PRUS: Prosím, abyste na mne nemluvila.
+_KOLENATÝ_: Hrozně lituji, slečno, že se mýlíte. Já jsem taškář a světový lupič. Já jsem totiž Arsène Lupin.
 
-KRISTINA (vzlyká): To je ohavné, co s ní děláte! Nechte ji!
+_EMILIA_ _(k Prusovi)_: Tedy vy, Pruse! Vy přece jste džentlmen! Vy nemůžete dovolit –
 
-KOLENATÝ: Taky to říkám, Tinkotinko. Je to sprosté, co děláme. Náramně sprosté.
+_PRUS_: Prosím, abyste na mne nemluvila.
 
-GREGOR (hodí na stůl hromadu papírů): Tak, slečno. Ale vy s sebou vozíte celý archív. (Jde do ložnice.)
+_KRISTINA_ _(vzlyká)_: To je ohavné, co s ní děláte! Nechte ji!
 
-KOLENATÝ: To je něco pro vás, Vítku! Prima lahůdkové papíry. Nechcete je roztřídit?
+_KOLENATÝ_: Taky to říkám, Tinkotinko. Je to sprosté, co děláme. Náramně sprosté.
 
-EMILIA: Opovažte se to číst!
+_GREGOR_ _(hodí na stůl hromadu papírů)_: Tak, slečno. Ale vy s sebou vozíte celý archív. _(Jde do ložnice.)_
 
-KOLENATÝ: Drahá slečno, prosím vás snažně, abyste se nehýbala. Jinak bych byl nucen vám nebezpečně vyhrožovat na těle, paragraf 91 trestního zákona.
+_KOLENATÝ_: To je něco pro vás, Vítku! Prima lahůdkové papíry. Nechcete je roztřídit?
 
-EMILIA: To jste advokát?
+_EMILIA_: Opovažte se to číst!
 
-KOLENATÝ: Vidíte, přišel jsem na chuť zločinectví. Myslím, že jsem měl k němu talent odjakživa. Člověk někdy až k stáru pozná své pravé poslání. (Pauza.)
+_KOLENATÝ_: Drahá slečno, prosím vás snažně, abyste se nehýbala. Jinak bych byl nucen vám nebezpečně vyhrožovat na těle, paragraf 91 trestního zákona.
 
-VÍTEK: Račte dovolit, slečno Martyová, kde budete zpívat příště? (Mlčení.)
+_EMILIA_: To jste advokát?
 
-HAUK: Mon dieu, je suis désolé… désolé…
+_KOLENATÝ_: Vidíte, přišel jsem na chuť zločinectví. Myslím, že jsem měl k němu talent odjakživa. Člověk někdy až k stáru pozná své pravé poslání. _(Pauza.)_
 
-VÍTEK: A… četla jste o sobě kritiky?
+_VÍTEK_: Račte dovolit, slečno Martyová, kde budete zpívat příště? _(Mlčení.)_
 
-EMILIA: Ne.
+_HAUK_: Mon dieu, je suis désolé… désolé…
 
-VÍTEK (vyndá z kapsy výstřižky): Jsou velkolepé, slečno. Například tohle: „Hlas úžasné skvělosti a síly, ohromující plnost výšek, suverénní pěvecká jistota…“, a tady dál: „… vynikl nádherný zjev… v bezpříkladné dramatické interpretaci… výkon ojedinělý v dějinách naší opery a snad operního umění vůbec.“ – V dějinách, slečno, považte!
+_VÍTEK_: A… četla jste o sobě kritiky?
 
-KRISTINA: Vždyť je to pravda!
+_EMILIA_: Ne.
 
-GREGOR (vrací se z ložnice s náručí plnou listin): Tak, doktore. To je zatím všechno. (Hodí listiny na stůl.) Dejte se do toho.
+_VÍTEK_ _(vyndá z kapsy výstřižky)_: Jsou velkolepé, slečno. Například tohle: „Hlas úžasné skvělosti a síly, ohromující plnost výšek, suverénní pěvecká jistota…“, a tady dál: „… vynikl nádherný zjev… v bezpříkladné dramatické interpretaci… výkon ojedinělý v dějinách naší opery a snad operního umění vůbec.“ – V dějinách, slečno, považte!
 
-KOLENATÝ: S radostí. (Čichá k listinám.) Máte to, slečno, plné prachu. Vítku, ten prach je historický.
+_KRISTINA_: Vždyť je to pravda!
 
-GREGOR: Dále našlo se pečetítko s iniciálkami E. M., kterážto pečeť je na listině Elliany Mac Gregor.
+_GREGOR_ _(vrací se z ložnice s náručí plnou listin)_: Tak, doktore. To je zatím všechno. _(Hodí listiny na stůl.)_ Dejte se do toho.
 
-PRUS (vstane): Ukažte!
+_KOLENATÝ_: S radostí. _(Čichá k listinám.)_ Máte to, slečno, plné prachu. Vítku, ten prach je historický.
 
-KOLENATÝ (u listin): Propána Vítku, tady je letopočet šestnáct set tři!
+_GREGOR_: Dále našlo se pečetítko s iniciálkami E. M., kterážto pečeť je na listině Elliany Mac Gregor.
 
-PRUS (vrací pečetítko): Je to pečeť Eliny Makropulos. (Usedne.)
+_PRUS_ _(vstane)_: Ukažte!
 
-KOLENATÝ (u listin): Tak vida, co se nenajde.
+_KOLENATÝ_ _(u listin)_: Propána Vítku, tady je letopočet šestnáct set tři!
 
-HAUK: Ale bože božíčku –
+_PRUS_ _(vrací pečetítko)_: Je to pečeť Eliny Makropulos. _(Usedne.)_
 
-GREGOR: Pane Hauku, neznáte tenhle medailón? Myslím, že je na něm váš velevážený bývalý erb.
+_KOLENATÝ_ _(u listin)_: Tak vida, co se nenajde.
 
-HAUK (prohlíží medailón): Ano… to jest… Ale vždyť jsem jí ho sám daroval!
+_HAUK_: Ale bože božíčku –
 
-GREGOR: Kdy?
+_GREGOR_: Pane Hauku, neznáte tenhle medailón? Myslím, že je na něm váš velevážený bývalý erb.
 
-HAUK: Nu tehdy… ve Španělích… před padesáti lety.
+_HAUK_ _(prohlíží medailón)_: Ano… to jest… Ale vždyť jsem jí ho sám daroval!
 
-GREGOR: Komu?
+_GREGOR_: Kdy?
 
-HAUK: Nu přece jí samotné – Eugenii – Eugenii Montez, račte rozumět.
+_HAUK_: Nu tehdy… ve Španělích… před padesáti lety.
 
-KOLENATÝ (vzhlédne od listin): Tady máme něco španělského. Umíte španělsky?
+_GREGOR_: Komu?
 
-HAUK: Ale ano, račte ukázat… Hihi, Eugenie, to je z Madridu!
+_HAUK_: Nu přece jí samotné – Eugenii – Eugenii Montez, račte rozumět.
 
-KOLENATÝ: Copak?
+_KOLENATÝ_ _(vzhlédne od listin)_: Tady máme něco španělského. Umíte španělsky?
 
-HAUK: Od policie… vyhoštění… pro nezřízený život! Ramera Gitana que se llama Eugenia Montez… hihihi! Já vím, to bylo pro tu rvačku, že?
+_HAUK_: Ale ano, račte ukázat… Hihi, Eugenie, to je z Madridu!
 
-KOLENATÝ: Pardon. (Probírá listiny.) Cestovní pas, Elsa Müller, sedmdesát devět. Úmrtní list… Elliany Mac Gregor, 1836. Koukejme! Všecko páté přes deváté. Počkejte, slečno, my vám to srovnáme podle jmen. Ekaterina Myškin, kdo zas je tohle?
+_KOLENATÝ_: Copak?
 
-VÍTEK: Jekatěrina Myškina byla ruská zpěvačka, ve čtyřicátých letech.
+_HAUK_: Od policie… vyhoštění… pro nezřízený život! Ramera Gitana que se llama Eugenia Montez… hihihi! Já vím, to bylo pro tu rvačku, že?
 
-KOLENATÝ: Vy víte všecko, člověče.
+_KOLENATÝ_: Pardon. _(Probírá listiny.)_ Cestovní pas, Elsa Müller, sedmdesát devět. Úmrtní list… Elliany Mac Gregor, 1836. Koukejme! Všecko páté přes deváté. Počkejte, slečno, my vám to srovnáme podle jmen. Ekaterina Myškin, kdo zas je tohle?
 
-GREGOR: To je zvláštní, vždycky začáteční písmena E. M.
+_VÍTEK_: Jekatěrina Myškina byla ruská zpěvačka, ve čtyřicátých letech.
 
-KOLENATÝ: Patrně slečna sbírá jen ty iniciály. Speciální záliba, že? Hopla, „dein Pepi“. To bude váš praprastrýc, Pruse. Mám vám to přečíst? „Meine liebste, liebste Ellian.“
+_KOLENATÝ_: Vy víte všecko, člověče.
 
-PRUS: Snad Elina, ne?
+_GREGOR_: To je zvláštní, vždycky začáteční písmena E. M.
 
-KOLENATÝ: Kdepak, Ellian. A na obálce Ellian Mac Gregor, Wien, Hofoper. Počkejte, Gregore, my to ještě vyhrajeme na Ellianu. „Meine liebste, liebste Ellian –“
+_KOLENATÝ_: Patrně slečna sbírá jen ty iniciály. Speciální záliba, že? Hopla, „dein Pepi“. To bude váš praprastrýc, Pruse. Mám vám to přečíst? „Meine liebste, liebste Ellian.“
 
-EMILIA (vstane): Počkejte. Nečtěte dál. Jsou to moje papíry.
+_PRUS_: Snad Elina, ne?
 
-KOLENATÝ: Když jsou pro nás tak nesmírně zajímavé!
+_KOLENATÝ_: Kdepak, Ellian. A na obálce Ellian Mac Gregor, Wien, Hofoper. Počkejte, Gregore, my to ještě vyhrajeme na Ellianu. „Meine liebste, liebste Ellian –“
 
-EMILIA: Nečtěte. Povím všecko sama. Všecko, nač se budete ptát.
+_EMILIA_ _(vstane)_: Počkejte. Nečtěte dál. Jsou to _moje_ papíry.
 
-KOLENATÝ: Opravdu?
+_KOLENATÝ_: Když jsou pro nás tak nesmírně zajímavé!
 
-EMILIA: Přísahám.
+_EMILIA_: Nečtěte. Povím všecko sama. Všecko, nač se budete ptát.
 
-KOLENATÝ (skládá listiny): Tak tedy vás prosíme, slečno, miliónkrát za odpuštění, že jsme vás k tomu museli takhle donutit.
+_KOLENATÝ_: Opravdu?
 
-EMILIA: Budete mne soudit?
+_EMILIA_: Přísahám.
 
-KOLENATÝ: Chraň bůh! Docela přátelský hovor.
+_KOLENATÝ_ _(skládá listiny)_: Tak tedy vás prosíme, slečno, miliónkrát za odpuštění, že jsme vás k tomu museli takhle donutit.
 
-EMILIA: Ale já chci, abyste mne soudili!
+_EMILIA_: Budete mne soudit?
 
-KOLENATÝ: Ah tak. Vyhovíme v mezích své kompetence. Tak prosím.
+_KOLENATÝ_: Chraň bůh! Docela přátelský hovor.
 
-EMILIA: Ne, to musí vypadat jako u soudu! Kříž a takové věci.
+_EMILIA_: Ale já chci, abyste mne soudili!
 
-KOLENATÝ: Aha. Máte pravdu. Ještě něco?
+_KOLENATÝ_: Ah tak. Vyhovíme v mezích své kompetence. Tak prosím.
 
-EMILIA: A nejdříve mne nechte, abych se najedla a ustrojila. Nebudu před soudem takhle v košili.
+_EMILIA_: Ne, to musí vypadat jako u soudu! Kříž a takové věci.
 
-KOLENATÝ: Zcela správně. Je třeba náležité a důstojné úpravy.
+_KOLENATÝ_: Aha. Máte pravdu. Ještě něco?
 
-GREGOR: Komedie!
+_EMILIA_: A nejdříve mne nechte, abych se najedla a ustrojila. Nebudu před soudem takhle v košili.
 
-KOLENATÝ: Ticho, nezlehčujte soudní akt. Obžalovaná, povoluje se vám deset minut – stačí to pro vaši toaletu?
+_KOLENATÝ_: Zcela správně. Je třeba náležité a důstojné úpravy.
 
-EMILIA: Máte rozum? Aspoň hodinu.
+_GREGOR_: Komedie!
 
-KOLENATÝ: Tedy půl hodiny k přípravám a k rozjímání, než se objevíte před soudem. Pošleme vám komornou. Jděte!
+_KOLENATÝ_: Ticho, nezlehčujte soudní akt. Obžalovaná, povoluje se vám deset minut – stačí to pro vaši toaletu?
 
-EMILIA: Děkuju. (Zajde do ložnice.)
+_EMILIA_: Máte rozum? Aspoň hodinu.
 
-PRUS: Jdu… za Jankem.
+_KOLENATÝ_: Tedy půl hodiny k přípravám a k rozjímání, než se objevíte před soudem. Pošleme vám komornou. Jděte!
 
-KOLENATÝ: Ale vraťte se za půl hodiny.
+_EMILIA_: Děkuju. _(Zajde do ložnice.)_
 
-GREGOR: Doktore, nechtěl byste být aspoň teď trochu vážný?
+_PRUS_: Jdu… za Jankem.
 
-KOLENATÝ: Ticho. Já jsem ohromně vážný, Gregore. Vím, co na ni působí. Je to hysterka. Vítku!
+_KOLENATÝ_: Ale vraťte se za půl hodiny.
 
-VÍTEK: Prosím?
+_GREGOR_: Doktore, nechtěl byste být aspoň teď trochu vážný?
 
-KOLENATÝ: Skočte do pohřebního ústavu, aby sem poslali krucifix, svíčky a nějaké černé sukno. Dále bibli a takové krámy. Rychle!
+_KOLENATÝ_: Ticho. Já jsem ohromně vážný, Gregore. Vím, co na ni působí. Je to hysterka. Vítku!
 
-VÍTEK: Ano prosím.
+_VÍTEK_: Prosím?
 
-KOLENATÝ: A sežeňte nějakou lebku.
+_KOLENATÝ_: Skočte do pohřebního ústavu, aby sem poslali krucifix, svíčky a nějaké černé sukno. Dále bibli a takové krámy. Rychle!
 
-VÍTEK: Lidskou?
+_VÍTEK_: Ano prosím.
 
-KOLENATÝ: Lidskou nebo hovězí, to je jedno. Jen když bude představovat smrt.
+_KOLENATÝ_: A sežeňte nějakou lebku.
 
-Opona.
+_VÍTEK_: Lidskou?
+
+_KOLENATÝ_: Lidskou nebo hovězí, to je jedno. Jen když bude představovat smrt.
+
+_Opona._

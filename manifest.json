@@ -1,0 +1,309 @@
+{
+  "author": "Karel Čapek",
+  "contenttype": "drama",
+  "identifier": "capek-vec-makropulos-b7a689d",
+  "languagecode": "cs",
+  "modified": "2017-11-14T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Věc Makropulos",
+  "revision": "b7a689d",
+  "generatedAt": {
+    "date": "Fri Apr 01 2022 09:42:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648806125434
+  },
+  "documents": [
+    {
+      "title": "Věc Makropulos",
+      "file": "vec_makropulos_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "vec_makropulos_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předmluva vydavatele • Věc Makropulos",
+      "file": "vec_makropulos_005.html",
+      "words": 142,
+      "chars": 942,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 1,
+      "prev": "vec_makropulos_002.html",
+      "next": "vec_makropulos_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva vydavatele",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věc Makropulos",
+      "file": "vec_makropulos_006.html",
+      "words": 8,
+      "chars": 49,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "vec_makropulos_005.html",
+      "next": "vec_makropulos_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předmluva • Věc Makropulos",
+      "file": "vec_makropulos_007.html",
+      "words": 582,
+      "chars": 3628,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "vec_makropulos_006.html",
+      "next": "vec_makropulos_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OSOBY • Věc Makropulos",
+      "file": "vec_makropulos_008.html",
+      "words": 23,
+      "chars": 169,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 4,
+      "prev": "vec_makropulos_007.html",
+      "next": "vec_makropulos_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSOBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DĚJSTVÍ PRVNÍ • Věc Makropulos",
+      "file": "vec_makropulos_009.html",
+      "words": 4600,
+      "chars": 27836,
+      "ideas": 426,
+      "role": "chapter",
+      "order": 5,
+      "prev": "vec_makropulos_008.html",
+      "next": "vec_makropulos_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚJSTVÍ PRVNÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DĚJSTVÍ DRUHÉ • Věc Makropulos",
+      "file": "vec_makropulos_010.html",
+      "words": 4635,
+      "chars": 26388,
+      "ideas": 458,
+      "role": "chapter",
+      "order": 6,
+      "prev": "vec_makropulos_009.html",
+      "next": "vec_makropulos_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚJSTVÍ DRUHÉ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DĚJSTVÍ TŘETÍ • Věc Makropulos",
+      "file": "vec_makropulos_011.html",
+      "words": 2906,
+      "chars": 17188,
+      "ideas": 275,
+      "role": "chapter",
+      "order": 7,
+      "prev": "vec_makropulos_010.html",
+      "next": "vec_makropulos_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚJSTVÍ TŘETÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PROMĚNA • Věc Makropulos",
+      "file": "vec_makropulos_012.html",
+      "words": 4691,
+      "chars": 26924,
+      "ideas": 365,
+      "role": "chapter",
+      "order": 8,
+      "prev": "vec_makropulos_011.html",
+      "next": "vec_makropulos_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PROMĚNA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční\npoznámka • Věc Makropulos",
+      "file": "vec_makropulos_013.html",
+      "words": 77,
+      "chars": 605,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 9,
+      "prev": "vec_makropulos_012.html",
+      "next": "vec_makropulos_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční\npoznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Život a doba spisovatele\nKarla Čapka v datech • Věc Makropulos",
+      "file": "vec_makropulos_014.html",
+      "words": 293,
+      "chars": 2025,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 10,
+      "prev": "vec_makropulos_013.html",
+      "next": "vec_makropulos_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Život a doba spisovatele\nKarla Čapka v datech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První\nvydání knih Karla Čapka • Věc Makropulos",
+      "file": "vec_makropulos_015.html",
+      "words": 233,
+      "chars": 1154,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 11,
+      "prev": "vec_makropulos_014.html",
+      "next": "vec_makropulos_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První\nvydání knih Karla Čapka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věc Makropulos",
+      "file": "vec_makropulos_016.html",
+      "words": 48,
+      "chars": 317,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 12,
+      "prev": "vec_makropulos_015.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Věc Makropulos",
+      "file": "colophon.html",
+      "words": 86,
+      "chars": 579,
+      "ideas": 10,
+      "role": "colophon",
+      "order": null,
+      "prev": "vec_makropulos_016.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 18329,
+      "chars": 107832,
+      "ideas": 1684
+    },
+    "chapters": {
+      "words": 18238,
+      "chars": 107225,
+      "ideas": 1671
+    }
+  }
+}

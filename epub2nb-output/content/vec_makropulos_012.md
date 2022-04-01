@@ -1,733 +1,738 @@
 ---
+title: PROMĚNA
 contentType: prose
 ---
 
-## PROMĚNA
+_Týž pokoj, ale upravený za soudní síň. Stoly, pohovka, židle atd. potaženy černým suknem. Na větším stole vlevo krucifix, bible, hořící svíce a lebka._
 
-Týž pokoj, ale upravený za soudní síň. Stoly, pohovka, židle atd. potaženy černým suknem. Na větším stole vlevo krucifix, bible, hořící svíce a lebka.
+  
 
-(Za stolem Kolenatý jako předseda soudu a Vítek jako zapisovatel, Gregor u menšího stolku ve středu jako veřejný žalobce. Na pohovce Prus, Hauk a Kristina jako votanti. Vpravo prázdná židle.)
+  
 
-KOLENATÝ: Marty by už mohla přijít.
+  
 
-VÍTEK: Proboha, snad nevypila… nějaký jed?
+_(Za stolem Kolenatý jako předseda soudu a Vítek jako zapisovatel, Gregor u menšího stolku ve středu jako veřejný žalobce. Na pohovce Prus, Hauk a Kristina jako votanti. Vpravo prázdná židle.)_
 
-GREGOR: Nesmysl. Ta se má příliš ráda.
+_KOLENATÝ_: Marty by už mohla přijít.
 
-KOLENATÝ: Přiveďte obžalovanou.
+_VÍTEK_: Proboha, snad nevypila… nějaký jed?
 
-(Vítek zaklepe u ložnice a vejde.)
+_GREGOR_: Nesmysl. Ta se má příliš ráda.
 
-PRUS: Nemohli byste mne ušetřit téhle frašky?
+_KOLENATÝ_: Přiveďte obžalovanou.
 
-KOLENATÝ: Ne, musíte být votantem.
+_(Vítek zaklepe u ložnice a vejde.)_
 
-KRISTINA (vzlyká): Je to… jako… pohřeb!
+_PRUS_: Nemohli byste mne ušetřit téhle frašky?
 
-KOLENATÝ: Neplakala, Tinkotinko. Pokoj mrtvým.
+_KOLENATÝ_: Ne, musíte být votantem.
 
-(Vítek přivádí Emilii ve velké toaletě, s lahví a sklenicí v ruce.)
+_KRISTINA_ _(vzlyká)_: Je to… jako… pohřeb!
 
-KOLENATÝ: Doveďte žalovanou na její místo.
+_KOLENATÝ_: Neplakala, Tinkotinko. Pokoj mrtvým.
 
-VÍTEK: Prosím žalovaná pila whisky.
+_(Vítek přivádí Emilii ve velké toaletě, s lahví a sklenicí v ruce.)_
 
-KOLENATÝ: Je opilá?
+_KOLENATÝ_: Doveďte žalovanou na její místo.
 
-VÍTEK: Prosím velmi.
+_VÍTEK_: Prosím žalovaná pila whisky.
 
-EMILIA (opírá se o stěnu): Nechte mne! To jen… pro kuráž. Já mám žízeň.
+_KOLENATÝ_: Je opilá?
 
-KOLENATÝ: Odejměte jí láhev!
+_VÍTEK_: Prosím velmi.
 
-EMILIA (tiskne láhev k prsoum): Ne! Nedám! Nebo nebudu mluvit! Hahaha, vy – vy vypadáte jako funebráci! To je švanda! Hahahaha, koukejte, Bertík! Theotokos, já prasknu!
+_EMILIA_ _(opírá se o stěnu)_: Nechte mne! To jen… pro kuráž. Já mám žízeň.
 
-KOLENATÝ (přísně): Žalovaná, chovejte se slušně!
+_KOLENATÝ_: Odejměte jí láhev!
 
-EMILIA (zaražena): Vy mně chcete nahnat hrůzu, že? Bertíku, viď, to je jenom žert?
+_EMILIA_ _(tiskne láhev k prsoum)_: Ne! Nedám! Nebo nebudu mluvit! Hahaha, vy – vy vypadáte jako funebráci! To je švanda! Hahahaha, koukejte, Bertík! Theotokos, já prasknu!
 
-KOLENATÝ: Mluvte, až se soud otáže. Vaše místo je tady. Můžete sedět. – Prosím veřejného žalobce, aby přednesl žalobu.
+_KOLENATÝ_ _(přísně)_: Žalovaná, chovejte se slušně!
 
-EMILIA (neklidně): Mám přísahat?
+_EMILIA_ _(zaražena)_: Vy mně chcete nahnat hrůzu, že? Bertíku, viď, to je jenom žert?
 
-KOLENATÝ: Žalovaný nepřísahá.
+_KOLENATÝ_: Mluvte, až se soud otáže. Vaše místo je tady. Můžete sedět. – Prosím veřejného žalobce, aby přednesl žalobu.
 
-GREGOR: Žalovaná, řečená Emilia Marty, zpěvačka; je obviněna před bohem a námi, že se dopustila podvodu a padělání listin za účelem zištným; čím se jinak provinila proti veškeré důvěře a slušnosti, proti životu samotnému, nenáleží řádu lidskému; nechť si to vyřídí před soudem strašnějším.
+_EMILIA_ _(neklidně)_: Mám přísahat?
 
-KOLENATÝ: Má někdo poznámku k žalobě? Nikdo. – Přikročme k výslechu. Vstaňte, žalovaná. Jak se jmenujete?
+_KOLENATÝ_: Žalovaný nepřísahá.
 
-EMILIA (vstane): Já?
+_GREGOR_: Žalovaná, řečená Emilia Marty, zpěvačka; je obviněna před bohem a námi, že se dopustila podvodu a padělání listin za účelem zištným; čím se jinak provinila proti veškeré důvěře a slušnosti, proti životu samotnému, nenáleží řádu lidskému; nechť si to vyřídí před soudem strašnějším.
 
-KOLENATÝ: Nu ovšem, vy, vy, vy! Jak se jmenujete?
+_KOLENATÝ_: Má někdo poznámku k žalobě? Nikdo. – Přikročme k výslechu. Vstaňte, žalovaná. Jak se jmenujete?
 
-EMILIA: Elina Makropulos.
+_EMILIA_ _(vstane)_: Já?
 
-KOLENATÝ (hvízdne): Jakže?
+_KOLENATÝ_: Nu ovšem, vy, vy, vy! Jak se jmenujete?
 
-EMILIA: Elina Makropulos.
+_EMILIA_: Elina Makropulos.
 
-KOLENATÝ: Rozená kde?
+_KOLENATÝ_ _(hvízdne)_: Jakže?
 
-EMILIA: Na Krétě.
+_EMILIA_: Elina Makropulos.
 
-KOLENATÝ: Kdy?
+_KOLENATÝ_: Rozená kde?
 
-EMILIA: Kdy?
+_EMILIA_: Na Krétě.
 
-KOLENATÝ: Jak jste stará?
+_KOLENATÝ_: Kdy?
 
-EMILIA: Nu, kolik byste řekli?
+_EMILIA_: Kdy?
 
-KOLENATÝ: Řekněme třicet, ne?
+_KOLENATÝ_: Jak jste stará?
 
-VÍTEK: Prosím přes třicet.
+_EMILIA_: Nu, kolik byste řekli?
 
-KRISTINA: Přes čtyřicet.
+_KOLENATÝ_: Řekněme třicet, ne?
 
-EMILIA (vyplázne na ni jazyk): Žábo!
+_VÍTEK_: Prosím přes třicet.
 
-KOLENATÝ: Chovejte se slušně k soudcům.
+_KRISTINA_: Přes čtyřicet.
 
-EMILIA: Copak vypadám tak staře?
+_EMILIA_ _(vyplázne na ni jazyk)_: Žábo!
 
-KOLENATÝ: Bůj uchovej! Tedy rozená kdy?
+_KOLENATÝ_: Chovejte se slušně k soudcům.
 
-EMILIA: Patnáct set osmdesát pět.
+_EMILIA_: Copak vypadám tak staře?
 
-KOLENATÝ (vyskočí): Kdyže?
+_KOLENATÝ_: Bůj uchovej! Tedy rozená kdy?
 
-EMILIA: Tisíc pět set osmdesát pět.
+_EMILIA_: Patnáct set osmdesát pět.
 
-KOLENATÝ (usedá): Roku osmdesát pět. Tedy stará třicet sedm let, že ano?
+_KOLENATÝ_ _(vyskočí)_: Kdyže?
 
-EMILIA: Tři sta třicet sedm let prosím.
+_EMILIA_: Tisíc pět set osmdesát pět.
 
-KOLENATÝ: Vyzývám vás důtklivě, abyste mluvila vážně. Jak jste stará?
+_KOLENATÝ_ _(usedá)_: Roku osmdesát pět. Tedy stará třicet sedm let, že ano?
 
-EMILIA: Tři sta třicet sedm let.
+_EMILIA_: Tři sta třicet sedm let prosím.
 
-KOLENATÝ: To přestává všecko! A kdo byl váš otec?
+_KOLENATÝ_: Vyzývám vás důtklivě, abyste mluvila vážně. Jak jste stará?
 
-EMILIA: Hieronymus Makropulos, osobní lékař císaře Rudolfa II.
+_EMILIA_: Tři sta třicet sedm let.
 
-KOLENATÝ: Hrom do toho! Lidi, já s ní nemluvím!
+_KOLENATÝ_: To přestává všecko! A kdo byl váš otec?
 
-PRUS: Jak se opravdu jmenujete?
+_EMILIA_: Hieronymus Makropulos, osobní lékař císaře Rudolfa II.
 
-EMILIA: Elina Makropulos.
+_KOLENATÝ_: Hrom do toho! Lidi, já s ní nemluvím!
 
-PRUS: Byla Elina Makropulos, souložnice Josefa Pruse, z vašeho rodu?
+_PRUS_: Jak se opravdu jmenujete?
 
-EMILIA: To jsem přece já.
+_EMILIA_: Elina Makropulos.
 
-PRUS: Jak to?
+_PRUS_: Byla Elina Makropulos, souložnice Josefa Pruse, z vašeho rodu?
 
-EMILIA: No, já sama jsem byla souložnice Pepi Pruse. Vždyť jsem s ním měla toho Gregora.
+_EMILIA_: To jsem přece já.
 
-GREGOR: A Ellian Mac Gregor?
+_PRUS_: Jak to?
 
-EMILIA: To jsem já.
+_EMILIA_: No, já sama jsem byla souložnice Pepi Pruse. Vždyť jsem s ním měla toho Gregora.
 
-GREGOR: Blázníte?
+_GREGOR_: A Ellian Mac Gregor?
 
-EMILIA: Já jsem tvá praprababička nebo co. Ferdi byl můj kluk, rozumíš?
+_EMILIA_: To jsem já.
 
-GREGOR: Který Ferdi?
+_GREGOR_: Blázníte?
 
-EMILIA: No přece Ferdinand Gregor. Ale on je v matrice jako Ferdinand Makropulos, protože… tam jsem musela říci své pravé jméno. To se musí.
+_EMILIA_: Já jsem tvá praprababička nebo co. Ferdi byl můj kluk, rozumíš?
 
-KOLENATÝ: Zajisté. A kdy jste rozena?
+_GREGOR_: Který Ferdi?
 
-EMILIA: Patnáct set osmdesát pět. Christos Sótér, dejte mi s tím už pokoj!
+_EMILIA_: No přece Ferdinand Gregor. Ale on je v matrice jako Ferdinand Makropulos, protože… tam jsem musela říci své pravé jméno. To se musí.
 
-HAUK: A… a… račte dovolit, vždyť vy jste přece Eugenia Montez?
+_KOLENATÝ_: Zajisté. A kdy jste rozena?
 
-EMILIA: Byla jsem, Maxi, byla; ale tehdy mi bylo teprve dvě stě devadesát let. A já jsem taky byla Jekatěrina Myškina a Elsa Müller a všecko možné. Mezi vámi nemůže člověk zůstat naživu tři sta let.
+_EMILIA_: Patnáct set osmdesát pět. Christos Sótér, dejte mi s tím už pokoj!
 
-KOLENATÝ: Zejména zpěvačka ne.
+_HAUK_: A… a… račte dovolit, vždyť vy jste přece Eugenia Montez?
 
-EMILIA: To si myslím. (Pauza.)
+_EMILIA_: Byla jsem, Maxi, byla; ale tehdy mi bylo teprve dvě stě devadesát let. A já jsem taky byla Jekatěrina Myškina a Elsa Müller a všecko možné. Mezi vámi nemůže člověk zůstat naživu tři sta let.
 
-VÍTEK: A vy jste prosím žila taky v osmnáctém století?
+_KOLENATÝ_: Zejména zpěvačka ne.
 
-EMILIA: To se rozumí.
+_EMILIA_: To si myslím. _(Pauza.)_
 
-VÍTEK: Znala jste snad… osobně… Dantona?
+_VÍTEK_: A vy jste prosím žila taky v osmnáctém století?
 
-EMILIA: Znala. Degutantní člověk.
+_EMILIA_: To se rozumí.
 
-PRUS: A jak jste mohla znát obsah zapečetěné závěti?
+_VÍTEK_: Znala jste snad… osobně… Dantona?
 
-EMILIA: Protože mi ji Pepi ukázal, dřív než ji tam uložil. Abych to jednou řekla tomu hloupému Ferdi Gregorovi.
+_EMILIA_: Znala. Degutantní člověk.
 
-GREGOR: Proč jste mu to neřekla?
+_PRUS_: A jak jste mohla znát obsah zapečetěné závěti?
 
-EMILIA: Já jsem se čerta starala o své mladé.
+_EMILIA_: Protože mi ji Pepi ukázal, dřív než ji tam uložil. Abych to jednou řekla tomu hloupému Ferdi Gregorovi.
 
-HAUK: Ah jej, jak to mluvíte?
+_GREGOR_: Proč jste mu to neřekla?
 
-EMILIA: Holenku, já už dávno nejsem dáma.
+_EMILIA_: Já jsem se čerta starala o své mladé.
 
-VÍTEK: Prosím měla jste vícero dětí?
+_HAUK_: Ah jej, jak to mluvíte?
 
-EMILIA: Asi dvacet či kolik. Člověk si někdy nedá pozor. Nechce se někdo napít? Bohorodičko, to sucho v ústech! Já shořím! (Klesne na židli.)
+_EMILIA_: Holenku, já už dávno nejsem dáma.
 
-PRUS: Tedy ty dopisy podepsané E. M. jste psala vy?
+_VÍTEK_: Prosím měla jste vícero dětí?
 
-EMILIA: Psala. Víš, vrať mi je. Já to někdy ráda čtu. Svinstvo, že?
+_EMILIA_: Asi dvacet či kolik. Člověk si někdy nedá pozor. Nechce se někdo napít? Bohorodičko, to sucho v ústech! Já shořím! _(Klesne na židli.)_
 
-PRUS: Psala jste je jako Elina Makropulos, nebo jako Ellian Mac Gregor?
+_PRUS_: Tedy ty dopisy podepsané E. M. jste psala vy?
 
-EMILIA: To je jedno. Pepi věděl, kdo jsem. Pepimu jsem řekla všecko. Jeho jsem měla ráda –
+_EMILIA_: Psala. Víš, vrať mi je. Já to někdy ráda čtu. Svinstvo, že?
 
-HAUK (vstane rozčilený): Eugenie!
+_PRUS_: Psala jste je jako Elina Makropulos, nebo jako Ellian Mac Gregor?
 
-EMILIA: Mlč, Maxi, tebe taky. S tebou se hezky žilo, ty korouhevníku! Ale Pepi… (Rozpláče se.) Toho jsem měla nejradši ze všech! Proto jsem mu půjčila… věc Makropulos,… když tak hrozně chtěl…
+_EMILIA_: To je jedno. Pepi věděl, kdo jsem. Pepimu jsem řekla všecko. Jeho jsem měla ráda –
 
-PRUS: Co jste mu půjčila?
+_HAUK_ _(vstane rozčilený)_: Eugenie!
 
-EMILIA: Věc Makropulos.
+_EMILIA_: Mlč, Maxi, tebe taky. S tebou se hezky žilo, ty korouhevníku! Ale Pepi… _(Rozpláče se.)_ Toho jsem měla nejradši ze všech! Proto jsem mu půjčila… věc Makropulos,… když tak hrozně chtěl…
 
-PRUS: Co je to?
+_PRUS_: Co jste mu půjčila?
 
-EMILIA: Ten list, cos mi dnes vrátil. Ta zapečetěná obálka. Pepi to chtěl zkusit, slíbil, že mi to vrátí,… a zatím to schoval k té závěti! Snad abych si musela pro to přijít – A já jsem přišla až teď! Jak zemřel Pepi?
+_EMILIA_: Věc Makropulos.
 
-PRUS: V horečce… a hrozných křečích.
+_PRUS_: Co je to?
 
-EMILIA: To bylo od toho! To bylo od toho! Aia Maria, já mu to říkala!
+_EMILIA_: Ten list, cos mi dnes vrátil. Ta zapečetěná obálka. Pepi to chtěl zkusit, slíbil, že mi to vrátí,… a zatím to schoval k té závěti! Snad abych si musela pro to přijít – A já jsem přišla až teď! Jak zemřel Pepi?
 
-GREGOR: A vy jste sem přišla jen pro tu řeckou věc?
+_PRUS_: V horečce… a hrozných křečích.
 
-EMILIA: Haha, já vám ji nedám! Teď je má! Jen si nemysli, Bertíku, že mně šlo o ten tvůj hloupý proces. Já kašlu na to, že jsi můj. Já nevím, kolik tisíc mých harantů běhá po světě. Já chtěla dostat tu věc. Já ji musela dostat, nebo – nebo –
+_EMILIA_: To bylo od toho! To bylo od toho! Aia Maria, já mu to říkala!
 
-GREGOR: Proč?
+_GREGOR_: A vy jste sem přišla jen pro tu řeckou věc?
 
-EMILIA: Protože stárnu. Protože jsem na konci. Já to chci zkusit znova. Sáhni, Bertíku, jak ledovatím. (Vstane.) Sáhněte, sáhněte na mé ruce! Ó bože, mé ruce!
+_EMILIA_: Haha, já vám ji nedám! Teď je má! Jen si nemysli, Bertíku, že mně šlo o ten tvůj hloupý proces. Já kašlu na to, že jsi můj. Já nevím, kolik tisíc mých harantů běhá po světě. Já chtěla dostat tu věc. Já ji musela dostat, nebo – nebo –
 
-HAUK: Prosím, co je to věc Makropulos?
+_GREGOR_: Proč?
 
-EMILIA: Tam je napsáno, jak se to dělá.
+_EMILIA_: Protože stárnu. Protože jsem na konci. Já to chci zkusit znova. Sáhni, Bertíku, jak ledovatím. _(Vstane.)_ Sáhněte, sáhněte na mé ruce! Ó bože, mé ruce!
 
-HAUK: Co jak se dělá?
+_HAUK_: Prosím, co je to věc Makropulos?
 
-EMILIA: Aby byl člověk tři sta let živ. Aby byl tři sta let mlád. To napsal můj otec pro toho císaře Rudolfa… ale toho vy neznáte, že?
+_EMILIA_: Tam je napsáno, jak se to dělá.
 
-VÍTEK: Prosím jen z dějin.
+_HAUK_: Co jak se dělá?
 
-EMILIA: Z dějin nevíte nic. To je hloupost. Panaia, co jsem chtěla říci? (Šňupne si z krabičky.) Nechce někdo?
+_EMILIA_: Aby byl člověk tři sta let živ. Aby byl tři sta let mlád. To napsal můj otec pro toho císaře Rudolfa… ale toho vy neznáte, že?
 
-GREGOR: Co to je?
+_VÍTEK_: Prosím jen z dějin.
 
-EMILIA: Nic. Kokain nebo co. O čem jsem mluvila?
+_EMILIA_: Z dějin nevíte nic. To je hloupost. Panaia, co jsem chtěla říci? _(Šňupne si z krabičky.)_ Nechce někdo?
 
-VÍTEK: O císaři Rudolfu.
+_GREGOR_: Co to je?
 
-EMILIA: Aha. Lidi, to byl nemrava! Počkejte, já vím o něm věci –
+_EMILIA_: Nic. Kokain nebo co. O čem jsem mluvila?
 
-KOLENATÝ: Prosím neodbočovat.
+_VÍTEK_: O císaři Rudolfu.
 
-EMILIA: No, a když začal stárnout, tak… hledal pořád elixír života či co. Aby zase omládl, víte? A tehdy k němu přišel můj otec a napsal pro něj tu… věc, to kouzlo, aby zůstal tři sta let mlád. Ale císař Rudolf se bál, že by ho to kouzlo otrávilo, a poručil: Zkus to nejdříve na své dceři. To jsem byla já; tehdy mně bylo šestnáct let. Tak tedy to otec na mně zkusil. Tehdy tomu říkali „kouzlo“, ale byla to docela jiná věc.
+_EMILIA_: Aha. Lidi, to byl nemrava! Počkejte, já vím o něm věci –
 
-HAUK: Co to bylo?
+_KOLENATÝ_: Prosím neodbočovat.
 
-EMILIA (zachvěje se): To neřeknu! To se nemůže říci! Pak jsem ležela týden či jak dlouho bez sebe a v horečce, ale uzdravila jsem se.
+_EMILIA_: No, a když začal stárnout, tak… hledal pořád elixír života či co. Aby zase omládl, víte? A tehdy k němu přišel můj otec a napsal pro něj tu… věc, to kouzlo, aby zůstal tři sta let mlád. Ale císař Rudolf se bál, že by ho to kouzlo otrávilo, a poručil: Zkus to nejdříve na své dceři. To jsem byla já; tehdy mně bylo šestnáct let. Tak tedy to otec na mně zkusil. Tehdy tomu říkali „kouzlo“, ale byla to docela jiná věc.
 
-VÍTEK: A co císař?
+_HAUK_: Co to bylo?
 
-EMILIA: Nic, dopálil se. Jakpak se mohl přesvědčit, že budu tři sta let živa? Tak dal mého otce do věže jako podvodníka, a já jsem utekla se vším, co měl napsáno. Do Uher nebo do Turecka, už ani nevím.
+_EMILIA_ _(zachvěje se)_: To neřeknu! To se nemůže říci! Pak jsem ležela týden či jak dlouho bez sebe a v horečce, ale uzdravila jsem se.
 
-KOLENATÝ: Ukázala jste někdy někomu… věc Makropulos?
+_VÍTEK_: A co císař?
 
-EMILIA: Ukázala. Zkusil to jeden tyrolský páter, to bylo roku 1660 nebo tak někdy; snad je ještě živ, ani nevím, ale jeden čas byl papežem a říkal si Alexandr nebo Pius nebo nějak podobně. Pak jeden důstojník, Ital, ale toho zabili. Ugo se jmenoval. Bože to byl krásný člověk! Počkejte, pak ještě Nägeli, to byl Ondřej, a darebák Bombita, a Pepi Prus, který od toho umřel. Pepi byl poslední, u něho to zůstalo ležet – A já už nic nevím. Zeptejte se Bombity. Bombita je živ, ale nevím, jak se teď jmenuje. Víte, on je – jak se tomu říká? Sňatkový podvodník, že?
+_EMILIA_: Nic, dopálil se. Jakpak se mohl přesvědčit, že budu tři sta let živa? Tak dal mého otce do věže jako podvodníka, a já jsem utekla se vším, co měl napsáno. Do Uher nebo do Turecka, už ani nevím.
 
-KOLENATÝ: Pardon. Vám je tedy dvě stě čtyřicet sedm let, že ano?
+_KOLENATÝ_: Ukázala jste někdy někomu… věc Makropulos?
 
-EMILIA: Ne, tři sta třicet sedm.
+_EMILIA_: Ukázala. Zkusil to jeden tyrolský páter, to bylo roku 1660 nebo tak někdy; snad je ještě živ, ani nevím, ale jeden čas byl papežem a říkal si Alexandr nebo Pius nebo nějak podobně. Pak jeden důstojník, Ital, ale toho zabili. Ugo se jmenoval. Bože to byl krásný člověk! Počkejte, pak ještě Nägeli, to byl Ondřej, a darebák Bombita, a Pepi Prus, který od toho umřel. Pepi byl poslední, u něho to zůstalo ležet – A já už nic nevím. Zeptejte se Bombity. Bombita je živ, ale nevím, jak se teď jmenuje. Víte, on je – jak se tomu říká? Sňatkový podvodník, že?
 
-KOLENATÝ: Jste opilá. Od roku 1585 dodnes, to dělá dvě stě čtyřicet sedm let, rozumíte?
+_KOLENATÝ_: Pardon. Vám je tedy dvě stě čtyřicet sedm let, že ano?
 
-EMILIA: Bože nepleťte mne! Tři sta třicet sedm.
+_EMILIA_: Ne, tři sta třicet sedm.
 
-KOLENATÝ: Proč jste padělala rukopis Elliany Mac Gregor?
+_KOLENATÝ_: Jste opilá. Od roku 1585 dodnes, to dělá dvě stě čtyřicet sedm let, rozumíte?
 
-EMILIA: Vždyť já sama jsem Ellian Mac Gregor!
+_EMILIA_: Bože nepleťte mne! Tři sta třicet sedm.
 
-KOLENATÝ: Nelžete! Vy jste Emilia Marty, rozumíte?
+_KOLENATÝ_: Proč jste padělala rukopis Elliany Mac Gregor?
 
-EMILIA: Ano, ale teprve dvanáct let.
+_EMILIA_: Vždyť já sama jsem Ellian Mac Gregor!
 
-KOLENATÝ: Tedy vy se přiznáváte, že jste ukradla medailón Eugenie Montez, že ano?
+_KOLENATÝ_: Nelžete! Vy jste Emilia Marty, rozumíte?
 
-EMILIA: Svatá panno, to není pravda! Eugenia Montez –
+_EMILIA_: Ano, ale teprve dvanáct let.
 
-KOLENATÝ: Je to v protokolu. Vy jste se přiznala.
+_KOLENATÝ_: Tedy vy se přiznáváte, že jste ukradla medailón Eugenie Montez, že ano?
 
-EMILIA: To není pravda!
+_EMILIA_: Svatá panno, to není pravda! Eugenia Montez –
 
-KOLENATÝ: Jak se jmenuje váš spoluviník?
+_KOLENATÝ_: Je to v protokolu. Vy jste se přiznala.
 
-EMILIA: Není žádný!
+_EMILIA_: To není pravda!
 
-KOLENATÝ: Nezapírejte! My víme všechno. Kdy jste se narodila?
+_KOLENATÝ_: Jak se jmenuje váš spoluviník?
 
-EMILIA (chvěje se): Patnáct set osmdesát pět.
+_EMILIA_: Není žádný!
 
-KOLENATÝ: A teď vypijte plnou sklenici!
+_KOLENATÝ_: Nezapírejte! My víme všechno. Kdy jste se narodila?
 
-EMILIA: Ne – nechci! Nechte mne!
+_EMILIA_ _(chvěje se)_: Patnáct set osmdesát pět.
 
-KOLENATÝ: Musíte! Plnou sklenici. Rychle!
+_KOLENATÝ_: A teď vypijte plnou sklenici!
 
-EMILIA (v úzkosti): Co mně uděláte? Bertíku! (Pije.) Mě se… točí… tohle.
+_EMILIA_: Ne – nechci! Nechte mne!
 
-KOLENATÝ (vstane a jde k ní): Jak se jmenujete?
+_KOLENATÝ_: Musíte! Plnou sklenici. Rychle!
 
-EMILIA: Mně je zle. (Kácí se ze židle.)
+_EMILIA_ _(v úzkosti)_: Co mně uděláte? Bertíku! _(Pije.)_ Mě se… točí… tohle.
 
-KOLENATÝ (zachytí ji a klade volně na zem): Jak se jmenujete?
+_KOLENATÝ_ _(vstane a jde k ní)_: Jak se jmenujete?
 
-EMILIA: Elina… Makro…
+_EMILIA_: Mně je zle. _(Kácí se ze židle.)_
 
-KOLENATÝ: Nelžete! Víte, kdo jsem? Já jsem kněz. Vy se mně zpovídáte!
+_KOLENATÝ_ _(zachytí ji a klade volně na zem)_: Jak se jmenujete?
 
-EMILIA: Patér – hémón – hos – eis – en úranois –
+_EMILIA_: Elina… Makro…
 
-KOLENATÝ: Jak se jmenujete?
+_KOLENATÝ_: Nelžete! Víte, kdo jsem? Já jsem kněz. Vy se mně zpovídáte!
 
-EMILIA: Elina – – pulos.
+_EMILIA_: Patér – hémón – hos – eis – en úranois –
 
-KOLENATÝ: Lebku! – Bože, přijmi duši své nehodné služebnice Emilie Marty hvhvmmmm in… saeculorum amen… Dokonáno. (Otočí lebku černým suknem a nastaví ji Emilii). Vstaň! Kdo jsi?
+_KOLENATÝ_: Jak se jmenujete?
 
-EMILIA: Elina. (Bezvědomí.)
+_EMILIA_: Elina – – pulos.
 
-KOLENATÝ (pustí ji na zem, až to bouchne): Proklatě! (Vstane a odkládá lebku.)
+_KOLENATÝ_: Lebku! – Bože, přijmi duši své nehodné služebnice Emilie Marty hvhvmmmm in… saeculorum amen… Dokonáno. _(Otočí lebku černým suknem a nastaví ji Emilii)_. Vstaň! Kdo jsi?
 
-GREGOR: Co je?
+_EMILIA_: Elina. _(Bezvědomí.)_
 
-KOLENATÝ: Nelže! Sundejte ty hadry, honem! (Zvoní.) Gregore, doktora!
+_KOLENATÝ_ _(pustí ji na zem, až to bouchne)_: Proklatě! _(Vstane a odkládá lebku.)_
 
-KRISTINA: Vy jste ji otrávil?
+_GREGOR_: Co je?
 
-KOLENATÝ: Jen trochu.
+_KOLENATÝ_: Nelže! Sundejte ty hadry, honem! _(Zvoní.)_ Gregore, doktora!
 
-GREGOR (dveřmi do předsíně): Prosím je tu lékař?
+_KRISTINA_: Vy jste ji otrávil?
 
-LÉKAŘ (vejde): Pane Hauku, čekáme na vás už hodinu. Račte domů!
+_KOLENATÝ_: Jen trochu.
 
-KOLENATÝ: Počkat. Nejdřív tohle, doktore.
+_GREGOR_ _(dveřmi do předsíně)_: Prosím je tu lékař?
 
-LÉKAŘ (stane nad Emilií): Mdloby?
+_LÉKAŘ_ _(vejde)_: Pane Hauku, čekáme na vás už hodinu. Račte domů!
 
-KOLENATÝ: Otrava.
+_KOLENATÝ_: Počkat. Nejdřív tohle, doktore.
 
-LÉKAŘ: Čím? (Klekne k Emilii, čichne jí k ústům.) Aha. (Vstane.) Uložte ji někde.
+_LÉKAŘ_ _(stane nad Emilií)_: Mdloby?
 
-KOLENATÝ: Gregore, odneste ji do ložnice! Jakožto nejbližší příbuzný –
+_KOLENATÝ_: Otrava.
 
-LÉKAŘ: Je tam teplá voda?
+_LÉKAŘ_: Čím? _(Klekne k Emilii, čichne jí k ústům.)_ Aha. _(Vstane.)_ Uložte ji někde.
 
-PRUS: Je.
+_KOLENATÝ_: Gregore, odneste ji do ložnice! Jakožto nejbližší příbuzný –
 
-LÉKAŘ: Pěkné, co? Dovolte. (Píše recept.) Černou kávu, ano? A s tímhle do lékárny. (Jde do ložnice.)
+_LÉKAŘ_: Je tam teplá voda?
 
-KOLENATÝ: Tak tedy, pánové –
+_PRUS_: Je.
 
-KOMORNÁ (vejde): Slečna zvonila?
+_LÉKAŘ_: Pěkné, co? Dovolte. _(Píše recept.)_ Černou kávu, ano? A s tímhle do lékárny. _(Jde do ložnice.)_
 
-KOLENATÝ: To se rozumí. Chtěla by černou kávu, Lojzičko. Ohromně silnou černou kávu, ví, Lojzi?
+_KOLENATÝ_: Tak tedy, pánové –
 
-KOMORNÁ: Hihi, jak pán ví –
+_KOMORNÁ_ _(vejde)_: Slečna zvonila?
 
-KOLENATÝ: To se pozná. A s tímhle skočila do lékárny, ano? Tak hopla!
+_KOLENATÝ_: To se rozumí. Chtěla by černou kávu, Lojzičko. Ohromně silnou černou kávu, ví, Lojzi?
 
-(Komorná odejde.)
+_KOMORNÁ_: Hihi, jak pán ví –
 
-KOLENATÝ (sedne si uprostřed): Ať jsem ztracený. Něco na tom je.
+_KOLENATÝ_: To se pozná. A s tímhle skočila do lékárny, ano? Tak hopla!
 
-PRUS: To vím. Proto jste ji nemusel opít.
+_(Komorná odejde.)_
 
-HAUK: Já – já – neračte se smát; ale já jí docela věřím.
+_KOLENATÝ_ _(sedne si uprostřed)_: Ať jsem ztracený. Něco na tom je.
 
-KOLENATÝ: Vy také, Pruse?
+_PRUS_: To vím. Proto jste ji nemusel opít.
 
-PRUS: Úplně.
+_HAUK_: Já – já – neračte se smát; ale já jí docela věřím.
 
-KOLENATÝ: Já také. Víte, co to znamená?
+_KOLENATÝ_: Vy také, Pruse?
 
-PRUS: Že Gregor dostane Loukov.
+_PRUS_: Úplně.
 
-KOLENATÝ: Hm, je vám to tuze nemilé?
+_KOLENATÝ_: Já také. Víte, co to znamená?
 
-PRUS: Nemám už dědice.
+_PRUS_: Že Gregor dostane Loukov.
 
-(Gregor se vrací, s rukou obtočenou šátkem.)
+_KOLENATÝ_: Hm, je vám to tuze nemilé?
 
-HAUK: Prosím jak jí je?
+_PRUS_: Nemám už dědice.
 
-GREGOR: Trochu líp. Ale pokousala mne přitom, zvíře! Víte, že já jí věřím?
+_(Gregor se vrací, s rukou obtočenou šátkem.)_
 
-KOLENATÝ: Bohužel my také. (Pauza.)
+_HAUK_: Prosím jak jí je?
 
-HAUK: Panebože tři sta let! Tři – sta let!
+_GREGOR_: Trochu líp. Ale pokousala mne přitom, zvíře! Víte, že já jí věřím?
 
-KOLENATÝ: Pánové, naprostou diskrétnost, víme? Kristinko!
+_KOLENATÝ_: Bohužel my také. _(Pauza.)_
 
-KRISTINA (zachvěje se): Tři sta let! To je hrozné!
+_HAUK_: Panebože tři sta let! Tři – sta let!
 
-(Komorná vejde s kávou.)
+_KOLENATÝ_: Pánové, naprostou diskrétnost, víme? Kristinko!
 
-KOLENATÝ: Kristipisti, vzala to! Donesla to slečně. Dělala milosrdnou sestru, ano?
+_KRISTINA_ _(zachvěje se)_: Tři sta let! To je hrozné!
 
-(Kristina s kávou do ložnice, Komorná ven.)
+_(Komorná vejde s kávou.)_
 
-KOLENATÝ (přesvědčí se, jsou-li oboje dveře zavřeny): Tak. A teď, pánové, rozum do hrsti: Co s tím uděláme?
+_KOLENATÝ_: Kristipisti, vzala to! Donesla to slečně. Dělala milosrdnou sestru, ano?
 
-GREGOR: S čím?
+_(Kristina s kávou do ložnice, Komorná ven.)_
 
-KOLENATÝ: S věcí Makropulos. Je tu někde recept na třistaletý život. Můžeme jej dostat do rukou.
+_KOLENATÝ_ _(přesvědčí se, jsou-li oboje dveře zavřeny)_: Tak. A teď, pánové, rozum do hrsti: Co s tím uděláme?
 
-PRUS: Má jej za ňadry.
+_GREGOR_: S čím?
 
-KOLENATÝ: I odtamtud to můžeme dostat. Pánové, je to věc… nedomyslitelného dosahu. Co s tím uděláme?
+_KOLENATÝ_: S věcí Makropulos. Je tu někde recept na třistaletý život. Můžeme jej dostat do rukou.
 
-GREGOR: Docela nic. Recept patří mně. Já jsem její dědic.
+_PRUS_: Má jej za ňadry.
 
-KOLENATÝ: I kušte. Dokud je živa, nejste žádný dědic; a může být živa ještě tři sta let, bude-li chtít. Ale my to můžeme dostat, rozumíte?
+_KOLENATÝ_: I odtamtud to můžeme dostat. Pánové, je to věc… nedomyslitelného dosahu. Co s tím uděláme?
 
-GREGOR: Podvodem.
+_GREGOR_: Docela nic. Recept patří mně. Já jsem její dědic.
 
-KOLENATÝ: Dejme tomu. Ale je to něco tak důležitého… pro nás i pro veškerenstvo, že – hm. Pánové, vy mně rozumíte. Máme jí to nechat? Copak má z toho mít prospěch jen ona a nanejvýš ještě nějaký takový darebák Bombita? Kdo to dostane?
+_KOLENATÝ_: I kušte. Dokud je živa, nejste žádný dědic; a může být živa ještě tři sta let, bude-li chtít. Ale _my_ to můžeme dostat, rozumíte?
 
-GREGOR: Především její potomci.
+_GREGOR_: Podvodem.
 
-KOLENATÝ: Holenku, takových by se našlo! S tím se moc neohánějte. Dejme tomu vy, Pruse; kdybyste tu věc měl v rukou vy, půjčil byste mi ji? Víte, abych já byl živ tři sta let.
+_KOLENATÝ_: Dejme tomu. Ale je to něco tak důležitého… pro nás i pro veškerenstvo, že – hm. Pánové, vy mně rozumíte. Máme jí to nechat? Copak má z toho mít prospěch jen ona a nanejvýš ještě nějaký takový darebák Bombita? Kdo to dostane?
 
-PRUS: Ne.
+_GREGOR_: Především její potomci.
 
-KOLENATÝ: Tak vidíte, pánové. Musíme se nějak dohodnout mezi sebou. Co s tím uděláme?
+_KOLENATÝ_: Holenku, takových by se našlo! S tím se moc neohánějte. Dejme tomu vy, Pruse; kdybyste tu věc měl v rukou vy, půjčil byste mi ji? Víte, abych já byl živ tři sta let.
 
-VÍTEK (vstane): Zveřejníme věc Makropulos!
+_PRUS_: Ne.
 
-KOLENATÝ: Nono, to snad ne!
+_KOLENATÝ_: Tak vidíte, pánové. Musíme se nějak dohodnout mezi sebou. Co s tím uděláme?
 
-VÍTEK: Dáme ji všem! Dáme ji lidstvu! Všichni, všichni mají stejný nárok na život! Ah bože, žijeme tak krátce! Jak je to málo, bože jak je to málo být člověkem!
+_VÍTEK_ _(vstane)_: Zveřejníme věc Makropulos!
 
-KOLENATÝ: Co je to platno!
+_KOLENATÝ_: Nono, to snad ne!
 
-VÍTEK: Vždyť je to k pláči, pánové! považte jen – celá ta lidská duše, ta žízeň poznávat, mozek, práce, láska, tvořivost, všecko, všecko – Můj bože, co udělá člověk za těch šedesát let života? Čeho užije? Čemu se naučí? Nedočkáš se ovoce stromu, který jsi zasadil; nedoučíš se všemu, co lidstvo už znalo před tebou; nedokončíš své dílo a nedáš svůj příklad; umíráš, a ani jsi nežil! Ježíši Kriste, žijeme tak maličko!
+_VÍTEK_: Dáme ji všem! Dáme ji lidstvu! Všichni, všichni mají stejný nárok na život! Ah bože, žijeme tak krátce! Jak je to málo, bože jak je to málo být člověkem!
 
-KOLENATÝ: Propánakrále Vítku –
+_KOLENATÝ_: Co je to platno!
 
-VÍTEK: A neměl jsi pokdy pro radost, a neměl jsi pokdy pro myšlenku, a neměl jsi pokdy pro nic, pro nic než pro tu sháňku za kusem chleba! A nic jsi neviděl, nic nepoznal, nic nedokončil, ani sebe ne, ani sebe sama ne, ty zlomku! Proč jsi žil? Stálo to vůbec za to?
+_VÍTEK_: Vždyť je to k pláči, pánové! považte jen – celá ta lidská duše, ta žízeň poznávat, mozek, práce, láska, tvořivost, všecko, všecko – Můj bože, co udělá člověk za těch šedesát let života? Čeho užije? Čemu se naučí? Nedočkáš se ovoce stromu, který jsi zasadil; nedoučíš se všemu, co lidstvo už znalo před tebou; nedokončíš své dílo a nedáš svůj příklad; umíráš, a ani jsi nežil! Ježíši Kriste, žijeme tak maličko!
 
-KOLENATÝ: Člověče, chcete mne rozplakat?
+_KOLENATÝ_: Propánakrále Vítku –
 
-VÍTEK: Umíráme jako zvířata. Kristepane co jiného je posmrtný život, co je nesmrtelnost duše jiného než strašný protest proti krátkosti života? Nikdy a nikdy se lidstvo nesmířilo s tou zvířecí porcí života; nemůže to připustit; je to příliš nespravedlivé. Je děsně nespravedlivé žít tak krátce. Člověk je něco víc než želva nebo havran; člověk potřebuje víc času, aby žil. Šedesát let, to je nevolnictví. To je slabost a zvířectví a nevědomost.
+_VÍTEK_: A neměl jsi pokdy pro radost, a neměl jsi pokdy pro myšlenku, a neměl jsi pokdy pro nic, pro nic než pro tu sháňku za kusem chleba! A nic jsi neviděl, nic nepoznal, nic nedokončil, ani sebe ne, ani sebe sama ne, ty zlomku! Proč jsi žil? Stálo to vůbec za to?
 
-HAUK: Ach jeje, mně už je sedmdesát šest!
+_KOLENATÝ_: Člověče, chcete mne rozplakat?
 
-VÍTEK: Dejme všem tři sta let života! Bude to největší událost od stvoření člověka; bude to osvobození, bude to nové a definitivní stvoření člověka! Bože co se dá z člověka udělat za tři sta let! Padesát let být dítětem a žákem; padesát let poznávat svět a vidět vše, co je; sto let užitečně pracovat pro všechny; a pak sto let, když vše jsme poznali, žít v moudrosti, vládnout, učit a dávat příklad! Oh jak cenný by byl lidský život, kdyby trval tři sta let! Nebylo by válek. Nebylo by té ohavné sháňky. Nebylo by strachu a sobectví. Vědoucí a důstojný byl by každý člověk, (spíná ruce) svrchovaný, dokonalý by byl, pravý syn a ne už potrat boží. Dejte lidem život! Dejte jim plný lidský život!
+_VÍTEK_: Umíráme jako zvířata. Kristepane co jiného je posmrtný život, co je nesmrtelnost duše jiného než strašný protest proti krátkosti života? Nikdy a nikdy se lidstvo nesmířilo s tou zvířecí porcí života; nemůže to připustit; je to příliš nespravedlivé. Je děsně nespravedlivé žít tak krátce. Člověk je něco víc než želva nebo havran; člověk potřebuje víc času, aby žil. Šedesát let, to je nevolnictví. To je slabost a zvířectví a nevědomost.
 
-KOLENATÝ: Inu to je moc krásné. Moc krásné, ale –
+_HAUK_: Ach jeje, mně už je sedmdesát šest!
 
-GREGOR: Děkuju pěkně. Tři sta let být oficiálem nebo plést punčochy!
+_VÍTEK_: Dejme všem tři sta let života! Bude to největší událost od stvoření člověka; bude to osvobození, bude to nové a definitivní stvoření člověka! Bože co se dá z člověka udělat za tři sta let! Padesát let být dítětem a žákem; padesát let poznávat svět a vidět vše, co je; sto let užitečně pracovat pro všechny; a pak sto let, když vše jsme poznali, žít v moudrosti, vládnout, učit a dávat příklad! Oh jak cenný by byl lidský život, kdyby trval tři sta let! Nebylo by válek. Nebylo by té ohavné sháňky. Nebylo by strachu a sobectví. Vědoucí a důstojný byl by každý člověk, _(spíná ruce)_ svrchovaný, dokonalý by byl, pravý syn a ne už potrat boží. Dejte lidem život! Dejte jim plný lidský život!
 
-VÍTEK: Ale –
+_KOLENATÝ_: Inu to je moc krásné. Moc krásné, ale –
 
-GREGOR: Nebo být svrchovaný a vševědoucí, a přitom – Člověče, většina užitečných lidských povolání je možna jen z nevědomosti!
+_GREGOR_: Děkuju pěkně. Tři sta let být oficiálem nebo plést punčochy!
 
-KOLENATÝ: Nechte si sloužit, Vítku; právnicky a hospodářsky je to absurdní. Náš společenský systém je prostě založen na krátkověkosti. Vemte si například… smlouvy, penze, pojistky, platy, dědické právo a já nevím co všechno. A manželství – holenku, nikdo se nebude ženit na tři sta let. Nikdo neudělá smlouvu na tři sta let. Člověče, vy jste anarchista! Vy chcete rozvrátit celý společenský řád!
+_VÍTEK_: Ale –
 
-HAUK: A… račte dovolit; pak by se po třech stech letech každý mohl omladit znova…
+_GREGOR_: Nebo být svrchovaný a vševědoucí, a přitom – Člověče, většina užitečných lidských povolání je možna jen z nevědomosti!
 
-KOLENATÝ: – a žil by fakticky věčně. To prostě nejde.
+_KOLENATÝ_: Nechte si sloužit, Vítku; právnicky a hospodářsky je to absurdní. Náš společenský systém je prostě založen na krátkověkosti. Vemte si například… smlouvy, penze, pojistky, platy, dědické právo a já nevím co všechno. A manželství – holenku, nikdo se nebude ženit na tři sta let. Nikdo neudělá smlouvu na tři sta let. Člověče, vy jste anarchista! Vy chcete rozvrátit celý společenský řád!
 
-VÍTEK: Prosím to by se mohlo zakázat! Po třech stech letech by už každý musel umřít!
+_HAUK_: A… račte dovolit; pak by se po třech stech letech každý mohl omladit znova…
 
-KOLENATÝ: Tak ho vidíte! Ze samé humanity by zakazoval lidem žít!
+_KOLENATÝ_: – a žil by fakticky věčně. To prostě nejde.
 
-HAUK: Račte odpustit, já… já myslím, že by se ten recept dal rozdělit na dávky.
+_VÍTEK_: Prosím to by se mohlo zakázat! Po třech stech letech by už každý musel umřít!
 
-KOLENATÝ: Jak to?
+_KOLENATÝ_: Tak ho vidíte! Ze samé humanity by zakazoval lidem žít!
 
-HAUK: Račte rozumět, na léta. Jedna dávka – deset let života. Tři sta let, to je trochu mnoho, to by někdo… snad ani nechtěl. Ale deset let by si koupil každý člověk, ne?
+_HAUK_: Račte odpustit, já… já myslím, že by se ten recept dal rozdělit na dávky.
 
-KOLENATÝ: A my bychom si založili velkoobchod s léty. Lidi, to je nápad! Já už vidím ty zakázky: „Pošlete nám obratem tisíc dvě stě let života, v lidové úpravě. Kohn a spol.“ „Expres dva milióny let, ff prima A, luxusní balení. Filiálka Vídeň.“ Hauku, to není špatné.
+_KOLENATÝ_: Jak to?
 
-HAUK: Prosím já… já nejsem obchodník, víte? Ale když už je člověk stár, koupil by si rád… trochu života… Ale tři sta let je příliš moc, že ano?
+_HAUK_: Račte rozumět, na léta. Jedna dávka – deset let života. Tři sta let, to je trochu mnoho, to by někdo… snad ani nechtěl. Ale deset let by si koupil každý člověk, ne?
 
-VÍTEK: Pro poznání ne.
+_KOLENATÝ_: A my bychom si založili velkoobchod s léty. Lidi, to je nápad! Já už vidím ty zakázky: „Pošlete nám obratem tisíc dvě stě let života, v lidové úpravě. Kohn a spol.“ „Expres dva milióny let, ff prima A, luxusní balení. Filiálka Vídeň.“ Hauku, to není špatné.
 
-HAUK: Prosím poznání si nikdo nekoupí. Ale deset let rozkoše, to rád, sss jeje, tuze rád.
+_HAUK_: Prosím já… já nejsem obchodník, víte? Ale když už je člověk stár, koupil by si rád… trochu života… Ale tři sta let je příliš moc, že ano?
 
-KOMORNÁ (vejde): Prosím tady je to z lékárny.
+_VÍTEK_: Pro poznání ne.
 
-KOLENATÝ: Děkuju, Lojzičko. Jak dlouho by chtěla být živa?
+_HAUK_: Prosím poznání si nikdo nekoupí. Ale deset let rozkoše, to rád, sss jeje, tuze rád.
 
-KOMORNÁ: Hihi, ještě třicet let.
+_KOMORNÁ_ _(vejde)_: Prosím tady je to z lékárny.
 
-KOLENATÝ: Víc ne?
+_KOLENATÝ_: Děkuju, Lojzičko. Jak dlouho by chtěla být živa?
 
-KOMORNÁ: Ne. Co bych s tím dělala?
+_KOMORNÁ_: Hihi, ještě třicet let.
 
-KOLENATÝ: Tak vidíte, Vítku.
+_KOLENATÝ_: Víc ne?
 
-(Komorná odejde. Kolenatý klepe u ložnice.)
+_KOMORNÁ_: Ne. Co bych s tím dělala?
 
-DOKTOR (ve dveřích): Co je? Aha, dobrá. (Bere lék.)
+_KOLENATÝ_: Tak vidíte, Vítku.
 
-HAUK: Prosím jak je slečně?
+_(Komorná odejde. Kolenatý klepe u ložnice.)_
 
-DOKTOR: Nanic. (Odejde do ložnice.)
+_DOKTOR_ _(ve dveřích)_: Co je? Aha, dobrá. _(Bere lék.)_
 
-HAUK: Ah jeje, chudinka!
+_HAUK_: Prosím jak je slečně?
 
-PRUS (vstane): Pánové, zvláštní… náhoda nám dala do rukou jisté tajemství. Jde tu patrně o prodloužení života. Řekněme, že je to možné. Nikdo z nás, doufám, toho nemíní zneužít pro sebe.
+_DOKTOR_: Nanic. _(Odejde do ložnice.)_
 
-VÍTEK: To právě říkám! Musíme prodloužit život všech!
+_HAUK_: Ah jeje, chudinka!
 
-PRUS: Ne. Jenom život silných. Život nejschopnějších. Pro obyčejnou lidskou chamraď je i ten jepičí život příliš dobrý.
+_PRUS_ _(vstane)_: Pánové, zvláštní… náhoda nám dala do rukou jisté tajemství. Jde tu patrně o prodloužení života. Řekněme, že je to možné. Nikdo z nás, doufám, toho nemíní zneužít pro sebe.
 
-VÍTEK: Oho, dovolte!
+_VÍTEK_: To právě říkám! Musíme prodloužit život všech!
 
-PRUS: Prosím já se nechci hádat. Dovolte, obyčejný, malý, pitomý člověk vůbec neumírá; malý člověk je věčný i bez vaší pomoci; malost se plemení bez oddechu jako mouchy nebo myši. Jen velikost umírá. Jen síla a schopnost umírá, neboť se nenahradí. Snad je v našich rukou ji udržet. Můžeme založit aristokracii dlouhověkosti.
+_PRUS_: Ne. Jenom život silných. Život nejschopnějších. Pro obyčejnou lidskou chamraď je i ten jepičí život příliš dobrý.
 
-VÍTEK: Aristokracii! Slyšíte to? Privilej na život!
+_VÍTEK_: Oho, dovolte!
 
-PRUS: Tak jest. Jen ti nejlepší jsou důležiti pro život. Jen vůdčí, plemenní, výkonní muži. Nemluvím vůbec o ženách. Ale je na světě deset nebo dvacet nebo tisíc mužů, kteří jsou nenahraditelni. Můžeme je udržet. Můžeme je přivést k nadlidskému rozumu a nadpřirozené moci. Můžeme vypěstit deset nebo sto nebo tisíc nadlidských vládců a tvůrců.
+_PRUS_: Prosím já se nechci hádat. Dovolte, obyčejný, malý, pitomý člověk vůbec neumírá; malý člověk je věčný i bez vaší pomoci; malost se plemení bez oddechu jako mouchy nebo myši. Jen velikost umírá. Jen síla a schopnost umírá, neboť se nenahradí. Snad je v našich rukou ji udržet. Můžeme založit aristokracii dlouhověkosti.
 
-VÍTEK: Chov magnátů života!
+_VÍTEK_: Aristokracii! Slyšíte to? Privilej na život!
 
-PRUS: Tak jest. Výběr těch, kteří mají právo na neomezený život.
+_PRUS_: Tak jest. Jen ti nejlepší jsou důležiti pro život. Jen vůdčí, plemenní, výkonní muži. Nemluvím vůbec o ženách. Ale je na světě deset nebo dvacet nebo tisíc mužů, kteří jsou nenahraditelni. Můžeme je udržet. Můžeme je přivést k nadlidskému rozumu a nadpřirozené moci. Můžeme vypěstit deset nebo sto nebo tisíc nadlidských vládců a tvůrců.
 
-KOLENATÝ: A prosím vás, kdo by ty vyvolené jmenoval? Vlády? Plebiscit? Švédská akademie?
+_VÍTEK_: Chov magnátů života!
 
-PRUS: Žádné blbé hlasování! Z ruky do ruky by odevzdávali život nejsilnější nejsilnějším. Vládcové hmoty vládcům ducha. Vynálezci vojákům. Podnikatelé despotům. Byla by to dynastie pánů života. Dynastie nezávislá na jakékoliv civilizované luze.
+_PRUS_: Tak jest. Výběr těch, kteří mají právo na neomezený život.
 
-VÍTEK: Jen až by si ta luza přišla pro své právo na život!
+_KOLENATÝ_: A prosím vás, kdo by ty vyvolené jmenoval? Vlády? Plebiscit? Švédská akademie?
 
-PRUS: Ne, ale pro jejich právo na život. Čas od času by jich pár zabila. Co na tom? Revoluce je právo otroků. Ale jediný možný pokrok světa je nahradit malé a slabé despoty silnými a velkými despoty. Privilegovaná dlouhověkost, to je despocie vyvolených. To je… vláda rozumu. Nadlidská autorita vědění a výkonnosti. Vláda nad lidmi. Dlouhověcí se stanou nespornými vladaři lidstva. Máte to v rukou, pánové. Můžete toho zneužít. Řekl jsem vše. (Usedne.)
+_PRUS_: Žádné blbé hlasování! Z ruky do ruky by odevzdávali život nejsilnější nejsilnějším. Vládcové hmoty vládcům ducha. Vynálezci vojákům. Podnikatelé despotům. Byla by to dynastie pánů života. Dynastie nezávislá na jakékoliv civilizované luze.
 
-KOLENATÝ: Hm. Patřím k těm nejlepším vyvoleným dejme tomu já nebo Gregor?
+_VÍTEK_: Jen až by si ta luza přišla pro své právo na život!
 
-PRUS: Ne.
+_PRUS_: Ne, ale pro _jejich_ právo na život. Čas od času by jich pár zabila. Co na tom? Revoluce je právo otroků. Ale jediný možný pokrok světa je nahradit malé a slabé despoty silnými a velkými despoty. Privilegovaná dlouhověkost, to je despocie vyvolených. To je… vláda rozumu. Nadlidská autorita vědění a výkonnosti. Vláda nad lidmi. Dlouhověcí se stanou nespornými vladaři lidstva. Máte to v rukou, pánové. Můžete toho zneužít. Řekl jsem vše. _(Usedne.)_
 
-GREGOR: Ale vy jistě, že?
+_KOLENATÝ_: Hm. Patřím k těm nejlepším vyvoleným dejme tomu já nebo Gregor?
 
-PRUS: … Dnes už ne.
+_PRUS_: Ne.
 
-GREGOR: Pánové, nechme zbytečných řečí. Tajemství dlouhověkosti je majetek rodiny Makropulos. Nechte, aby si s ním rodina Makropulos dělala, co jí libo.
+_GREGOR_: Ale vy jistě, že?
 
-VÍTEK: Jak to, prosím?
+_PRUS_: … Dnes už ne.
 
-GREGOR: Toho receptu užijí jen členové rodiny. Jen ten, kdo je potomek Eliny Makropulos, ať je to kdo je.
+_GREGOR_: Pánové, nechme zbytečných řečí. Tajemství dlouhověkosti je majetek rodiny Makropulos. Nechte, aby si s ním rodina Makropulos dělala, co jí libo.
 
-KOLENATÝ: A bude žít navěky jen proto, že se vylíhnul z nějakého pobudy nebo barona a z bláznivé, perverzní, hysterické ženské? Panečku, to stojí za to, tahle rodinná zvláštnost.
+_VÍTEK_: Jak to, prosím?
 
-GREGOR: Vše jedno.
+_GREGOR_: Toho receptu užijí jen členové rodiny. Jen ten, kdo je potomek Eliny Makropulos, ať je to kdo je.
 
-KOLENATÝ: Máme čest znát jednoho pána z rodiny. Je to – odpusťte, miláčku, ale čert ho vem; zkrátka degenerovaný subjekt. Čistá familie, co?
+_KOLENATÝ_: A bude žít navěky jen proto, že se vylíhnul z nějakého pobudy nebo barona a z bláznivé, perverzní, hysterické ženské? Panečku, to stojí za to, tahle rodinná zvláštnost.
 
-GREGOR: Jak libo. Ať jsou to třeba blázni nebo paviáni. Ať jsou zvrhlí, zatížení nebo mrzáci nebo idioti nebo co chcete. A ať jsou třeba zlo samo! Na ničem nesejde. Bude to jejich.
+_GREGOR_: Vše jedno.
 
-KOLENATÝ: A tohle je pěkné!
+_KOLENATÝ_: Máme čest znát jednoho pána z rodiny. Je to – odpusťte, miláčku, ale čert ho vem; zkrátka degenerovaný subjekt. Čistá familie, co?
 
-DOKTOR (vejde z ložnice): Je v pořádku. Nechte ji ležet.
+_GREGOR_: Jak libo. Ať jsou to třeba blázni nebo paviáni. Ať jsou zvrhlí, zatížení nebo mrzáci nebo idioti nebo co chcete. A ať jsou třeba zlo samo! Na ničem nesejde. Bude to jejich.
 
-HAUK: Tak tak, ležet. To je dobře.
+_KOLENATÝ_: A tohle je pěkné!
 
-DOKTOR: Pojďte domů, pane Hauku; dovedu vás.
+_DOKTOR_ _(vejde z ložnice)_: Je v pořádku. Nechte ji ležet.
 
-HAUK: Ah jej, my tu máme takovou vážnou poradu, že ano? Račte mne ještě nechat! Já – já jistě –
+_HAUK_: Tak tak, ležet. To je dobře.
 
-DOKTOR: Nu, někdo na vás tady za dveřmi čeká. Žádné hlouposti, staroušku, nebo –
+_DOKTOR_: Pojďte domů, pane Hauku; dovedu vás.
 
-HAUK: Ano, ano – já – já – já hned půjdu.
+_HAUK_: Ah jej, my tu máme takovou vážnou poradu, že ano? Račte mne ještě nechat! Já – já jistě –
 
-DOKTOR: Služebník, pánové. (Odejde.)
+_DOKTOR_: Nu, někdo na vás tady za dveřmi čeká. Žádné hlouposti, staroušku, nebo –
 
-KOLENATÝ: Gregore, mluvil jste vážně?
+_HAUK_: Ano, ano – já – já – já hned půjdu.
 
-GREGOR: Úplně vážně.
+_DOKTOR_: Služebník, pánové. _(Odejde.)_
 
-KRISTINA (vyjde z ložnice): Mluvte tiše. Chtěla by spát.
+_KOLENATÝ_: Gregore, mluvil jste vážně?
 
-KOLENATÝ: Kristinko, šla sem. Chtěla by být živa tři sta let?
+_GREGOR_: Úplně vážně.
 
-KRISTINA: Ne.
+_KRISTINA_ _(vyjde z ložnice)_: Mluvte tiše. Chtěla by spát.
 
-KOLENATÝ: A kdyby měla recept na tak dlouhatánský život, co by s ním dělala?
+_KOLENATÝ_: Kristinko, šla sem. Chtěla by být živa tři sta let?
 
-KRISTINA: Nevím.
+_KRISTINA_: Ne.
 
-VÍTEK: Že bys to dala všem lidem?
+_KOLENATÝ_: A kdyby měla recept na tak dlouhatánský život, co by s ním dělala?
 
-KRISTINA: Já nevím. Byli by šťastnější, kdyby tak dlouho žili?
+_KRISTINA_: Nevím.
 
-KOLENATÝ: Tinkotinko, co naplat, život je přece jen zatracené štěstí.
+_VÍTEK_: Že bys to dala všem lidem?
 
-KRISTINA: Ne – nevím. Mne se neptejte.
+_KRISTINA_: Já nevím. Byli by šťastnější, kdyby tak dlouho žili?
 
-HAUK: Ah jej, slečno, člověk tak hrozně rád žije!
+_KOLENATÝ_: Tinkotinko, co naplat, život je přece jen zatracené štěstí.
 
-KRISTINA (zakryje si oči): Někdy… někdo… ne. (Pauza.)
+_KRISTINA_: Ne – nevím. Mne se neptejte.
 
-PRUS (přistoupí k ní): Děkuju za Janka.
+_HAUK_: Ah jej, slečno, člověk tak hrozně rád žije!
 
-KRISTINA: Proč?
+_KRISTINA_ _(zakryje si oči)_: Někdy… někdo… ne. _(Pauza.)_
 
-PRUS: Že jste si teď na něho vzpomněla.
+_PRUS_ _(přistoupí k ní)_: Děkuju za Janka.
 
-KRISTINA: Vzpomněla? Jako bych vůbec mohla myslet… na něco jiného.
+_KRISTINA_: Proč?
 
-KOLENATÝ: A my se tu hádáme o věčný život!
+_PRUS_: Že jste si teď na něho vzpomněla.
 
-EMILIA (vejde jako stín, s hlavou ovázanou obklady. Všichni vstanou): Odpusťte, že jsem… na chvíli odešla…
+_KRISTINA_: Vzpomněla? Jako bych vůbec mohla myslet… na něco jiného.
 
-GREGOR: Jak je vám?
+_KOLENATÝ_: A my se tu hádáme o věčný život!
 
-EMILIA: Hlava bolí – pusto – ohavně –
+_EMILIA_ _(vejde jako stín, s hlavou ovázanou obklady. Všichni vstanou)_: Odpusťte, že jsem… na chvíli odešla…
 
-HAUK: Nunu, to přejde.
+_GREGOR_: Jak je vám?
 
-EMILIA: Nepřejde. Nikdy nepřejde. Já už to mám dvě stě let.
+_EMILIA_: Hlava bolí – pusto – ohavně –
 
-KOLENATÝ: Co totiž?
+_HAUK_: Nunu, to přejde.
 
-EMILIA: Nudu. Ne, ani nuda to není. Je to – je to – oh vy lidé na to nemáte jména. V žádném jazyce pro to není slova. Bombita o tom také mluvil… Je to odporné.
+_EMILIA_: Nepřejde. Nikdy nepřejde. Já už to mám dvě stě let.
 
-GREGOR: A co to je?
+_KOLENATÝ_: Co totiž?
 
-EMILIA: Nevím. Všecko je tak pitomé, prázdné, zbytečné – Vy jste tu všichni? – Jako byste ani nebyli. Jako byste byli věci nebo stíny… Co mám s vámi dělat?
+_EMILIA_: Nudu. Ne, ani nuda to není. Je to – je to – oh vy lidé na to nemáte jména. V žádném jazyce pro to není slova. Bombita o tom také mluvil… Je to odporné.
 
-KOLENATÝ: Máme snad odejít?
+_GREGOR_: A co to je?
 
-EMILIA: Ne, to je jedno. Umřít nebo odejít za dveře, to je stejné – Vždyť je to jedno, jestli něco je nebo není – A vy se tolik naděláte s každou pitomou smrtí! Vy jste divní – ah!
+_EMILIA_: Nevím. Všecko je tak pitomé, prázdné, zbytečné – Vy jste tu všichni? – Jako byste ani nebyli. Jako byste byli věci nebo stíny… Co mám s vámi dělat?
 
-VÍTEK: Co je vám?
+_KOLENATÝ_: Máme snad odejít?
 
-EMILIA: Nemá, nemá, nemá se tak dlouho žít!
+_EMILIA_: Ne, to je jedno. Umřít nebo odejít za dveře, to je stejné – Vždyť je to jedno, jestli něco je nebo není – A vy se tolik naděláte s každou pitomou smrtí! Vy jste divní – ah!
 
-VÍTEK: Proč?
+_VÍTEK_: Co je vám?
 
-EMILIA: Člověk to nesnese. Do sta, do sta třiceti let to vydrží, ale pak… pak to pozná… pozná, že… A pak v něm umře duše.
+_EMILIA_: Nemá, nemá, nemá se tak dlouho žít!
 
-VÍTEK: Co pozná?
+_VÍTEK_: Proč?
 
-EMILIA: Bože, na to nejsou slova. A pak už člověk nemůže na nic věřit. Na nic. A z toho je ta nuda. Víš, Bertíku, tys povídal, že zpívám, jako by mne při tom záblo. Vidíš, umění má smysl, pokud to člověk neumí. Teprve když to umí, když to dokonale umí, vidí, že je to zbytečné. Je to stejně marné, Kristinko, stejně marné jako chrápat. Zpívat je to samé jako mlčet. Všecko je stejné. V ničem není žádný rozdíl.
+_EMILIA_: Člověk to nesnese. Do sta, do sta třiceti let to vydrží, ale pak… pak to pozná… pozná, že… A pak v něm umře duše.
 
-VÍTEK: To není pravda! Když vy zpíváte,… tak jsou lidé o něco lepší a větší.
+_VÍTEK_: Co pozná?
 
-EMILIA: Lidé nejsou nikdy lepší. Nic se nemůže nikdy změnit. Nic, nic, nic se neděje. Kdyby se teď střílelo, kdyby bylo zemětřesení, kdyby byl konec světa či co, nic se neděje. Ani já se neděju. Vy jste tady, a já jsem nesmírně daleko – ode všeho – tři sta let – Ah bože, kdybyste věděli, jak vám se lehko žije!
+_EMILIA_: Bože, na to nejsou slova. A pak už člověk nemůže na nic věřit. Na nic. A z toho je ta nuda. Víš, Bertíku, tys povídal, že zpívám, jako by mne při tom záblo. Vidíš, umění má smysl, pokud to člověk neumí. Teprve když to umí, když to dokonale umí, vidí, že je to zbytečné. Je to stejně marné, Kristinko, stejně marné jako chrápat. Zpívat je to samé jako mlčet. Všecko je stejné. V ničem není žádný rozdíl.
 
-KOLENATÝ: Proč?
+_VÍTEK_: To není pravda! Když vy zpíváte,… tak jsou lidé o něco lepší a větší.
 
-EMILIA: Vy jste tak blízko všeho! Pro vás má všecko smysl! Pro vás má všecko nějakou cenu, protože za těch pár let toho ani dost neužijete… Oh můj bože, kdybych jen jednou ještě – (Lomí rukama.) Hlupáci, vy jste tak šťastni! Je to až protivné, jak jste šťastni! A všecko jen pro tu pitomou náhodu, že brzo umřete! Všecko vás zajímá jako opice! Ve všecko věříte, věříte v lásku, v sebe, ve ctnost, v pokrok, v lidstvo, já nevím v co, já nevím v co! Ty věříš v rozkoš, Maxi, ty Kristinko, věříš v lásku a věrnost. Ty věříš v sílu. Ty věříš v samé hlouposti, Vítku. Každý, každý, každý v něco věří! Vám se to žije, vy… blázni!
+_EMILIA_: Lidé nejsou nikdy lepší. Nic se nemůže nikdy změnit. Nic, nic, nic se neděje. Kdyby se teď střílelo, kdyby bylo zemětřesení, kdyby byl konec světa či co, nic se neděje. Ani já se neděju. Vy jste tady, a já jsem nesmírně daleko – ode všeho – tři sta let – Ah bože, kdybyste věděli, jak vám se lehko žije!
 
-VÍTEK (rozčilen): Ale dovolte, vždyť přece jsou… vyšší hodnoty… ideály… úkoly…
+_KOLENATÝ_: Proč?
 
-EMILIA: Jsou, ale jen pro vás. Jak vám to mám říci? Je snad láska, ale je jenom ve vás. Jakmile není ve vás, není nikde, není vůbec žádná láska… nikde ve vesmíru… Člověk nemůže milovat tři sta let. Ani doufat, ani tvořit, ani se dívat tři sta let. Nevydrží to. Všecko omrzí. Omrzí být dobrý a omrzí být špatný. Nebe i země tě omrzí. A pak vidíš, že to vlastně není. Není nic. Ani hřích, ani bolest, ani země, vůbec nic. Jen to je, co má nějakou cenu. A pro vás má všecko cenu. Ó bože, já byla jako vy! Já byla děvce, já byla dáma, já byla šťastná, já – já byla člověk! Bože na nebi!
+_EMILIA_: Vy jste tak blízko všeho! Pro vás má všecko smysl! Pro vás má všecko nějakou cenu, protože za těch pár let toho ani dost neužijete… Oh můj bože, kdybych jen jednou ještě – _(Lomí rukama.)_ Hlupáci, vy jste tak šťastni! Je to až protivné, jak jste šťastni! A všecko jen pro tu pitomou náhodu, že brzo umřete! Všecko vás zajímá jako opice! Ve všecko věříte, věříte v lásku, v sebe, ve ctnost, v pokrok, v lidstvo, já nevím v co, já nevím v co! Ty věříš v rozkoš, Maxi, ty Kristinko, věříš v lásku a věrnost. Ty věříš v sílu. Ty věříš v samé hlouposti, Vítku. Každý, každý, každý v něco věří! Vám se to žije, vy… blázni!
 
-HAUK: Proboha copak? Co se vám stalo?
+_VÍTEK_ _(rozčilen)_: Ale dovolte, vždyť přece jsou… vyšší hodnoty… ideály… úkoly…
 
-EMILIA: Kdybyste věděli, co mně řekl Bombita! My – my staří víme příliš mnoho; ale vy znáte víc než my, vy hlupáci! Nekonečně víc! Lásku, velikost, účel, všecko možné. Vy máte všecko! Vždyť ani nemůžete víc chtít! Vy aspoň žijete, ale v nás se život zastavil, Kriste Ježíši! a nemůže dál – Bože, ta hrozná samota!
+_EMILIA_: Jsou, ale jen pro vás. Jak vám to mám říci? Je snad láska, ale je jenom ve vás. Jakmile není ve vás, není nikde, není vůbec žádná láska… nikde ve vesmíru… Člověk nemůže milovat tři sta let. Ani doufat, ani tvořit, ani se dívat tři sta let. Nevydrží to. Všecko omrzí. Omrzí být dobrý a omrzí být špatný. Nebe i země tě omrzí. A pak vidíš, že to vlastně není. Není nic. Ani hřích, ani bolest, ani země, vůbec nic. Jen to je, co má nějakou cenu. A pro vás má všecko cenu. Ó bože, já byla jako vy! Já byla děvce, já byla dáma, já byla šťastná, já – já byla člověk! Bože na nebi!
 
-PRUS: Proč tedy jste si přišla… pro věc Makropulos? Proč chcete ještě jednou žít?
+_HAUK_: Proboha copak? Co se vám stalo?
 
-EMILIA: – – Protože se strašně bojím smrti.
+_EMILIA_: Kdybyste věděli, co mně řekl Bombita! My – my staří víme příliš mnoho; ale vy znáte víc než my, vy hlupáci! Nekonečně víc! Lásku, velikost, účel, všecko možné. Vy máte všecko! Vždyť ani nemůžete víc chtít! Vy aspoň žijete, ale v nás se život zastavil, Kriste Ježíši! a nemůže dál – Bože, ta hrozná samota!
 
-PRUS: Bože, ani to není ušetřeno nesmrtelným?
+_PRUS_: Proč tedy jste si přišla… pro věc Makropulos? Proč chcete ještě jednou žít?
 
-EMILIA: Není. (Pauza.)
+_EMILIA_: – – Protože se strašně bojím smrti.
 
-PRUS: Slečno Makropulos, byli jsme k vám kruti.
+_PRUS_: Bože, ani to není ušetřeno nesmrtelným?
 
-EMILIA: To necítím. A měli jste pravdu. Je to nedůstojné být tak stár. Víte, že se mne děti bojí? Kristinko, že si mě ošklivíš?
+_EMILIA_: Není. _(Pauza.)_
 
-KRISTINA: Ne! Je mi – je mi vás hrozně líto!
+_PRUS_: Slečno Makropulos, byli jsme k vám kruti.
 
-EMILIA: Líto? Tedy tak to je se mnou? Ty ani nezávidíš? (Pauza. Zachvěje se a vyjme ze záňadří složenou listinu.) Tady je to psáno. „Egó Hierónymos Makropúlos, iatros kaisaros Rodolfú…“ A dál, slovo za slovem, co se má dělat – (Vstane.) Vezmi si to, Bertíku. Já to už nechci.
+_EMILIA_: To necítím. A měli jste pravdu. Je to nedůstojné být tak stár. Víte, že se mne děti bojí? Kristinko, že si mě ošklivíš?
 
-GREGOR: Děkuju vám. Ani já to nechci.
+_KRISTINA_: Ne! Je mi – je mi vás hrozně líto!
 
-EMILIA: Ne? Tedy ty, Maxi. Ty tak rád žiješ. Budeš moci milovat, víš? Vem si to.
+_EMILIA_: Líto? Tedy tak to je se mnou? Ty ani nezávidíš? _(Pauza. Zachvěje se a vyjme ze záňadří složenou listinu.)_ Tady je to psáno. „Egó Hierónymos Makropúlos, iatros kaisaros Rodolfú…“ A dál, slovo za slovem, co se má dělat – _(Vstane.)_ Vezmi si to, Bertíku. Já to už nechci.
 
-HAUK: Prosím… může se od toho umřít? A bolí to, když… se to udělá?
+_GREGOR_: Děkuju vám. Ani já to nechci.
 
-EMILIA: Bolí. Ty se toho bojíš?
+_EMILIA_: Ne? Tedy ty, Maxi. Ty tak rád žiješ. Budeš moci milovat, víš? Vem si to.
 
-HAUK: Ano.
+_HAUK_: Prosím… může se od toho umřít? A bolí to, když… se to udělá?
 
-EMILIA: Ale pak budeš tři sta let žít!
+_EMILIA_: Bolí. Ty se toho bojíš?
 
-HAUK: Kdyby… kdyby to nebolelo… Hihi, já nechci.
+_HAUK_: Ano.
 
-EMILIA: Doktore, vy jste chytrý muž. Vy uvážíte,… k čemu se to hodí nebo ne. Chcete to?
+_EMILIA_: Ale pak budeš tři sta let žít!
 
-KOLENATÝ: Jste velmi laskava. Já s tím nechci mít co dělat.
+_HAUK_: Kdyby… kdyby to nebolelo… Hihi, já nechci.
 
-EMILIA: Vy jste takový směšný, Vítku. Já vám to dám. Kdož ví? Třeba s tím obšťastníte celé lidstvo.
+_EMILIA_: Doktore, vy jste chytrý muž. Vy uvážíte,… k čemu se to hodí nebo ne. Chcete to?
 
-VÍTEK (couvá): Ne prosím. Já myslím, že – že – raději ne.
+_KOLENATÝ_: Jste velmi laskava. Já s tím nechci mít co dělat.
 
-EMILIA: Pruse, vy jste tak silný člověk. I vy se bojíte žít tři sta let?
+_EMILIA_: Vy jste takový směšný, Vítku. Já vám to dám. Kdož ví? Třeba s tím obšťastníte celé lidstvo.
 
-PRUS: Ano.
+_VÍTEK_ _(couvá)_: Ne prosím. Já myslím, že – že – raději ne.
 
-EMILIA: Bože, nikdo to tedy nechce? Nikdo o to nestojí? – Ty jsi tu, Kristinko? Ani ses neozvala. Hleď, děvče, vzala jsem ti hocha; vem si to. Jsi krásná, budeš žít tři sta let. Budeš zpívat jako Emilia Marty. Budeš slavná. Považ si, za pár let začneš stárnout; pak budeš litovat… Ber, děvče!
+_EMILIA_: Pruse, vy jste tak silný člověk. I vy se bojíte žít tři sta let?
 
-KRISTINA (vezme listinu): Děkuju.
+_PRUS_: Ano.
 
-VÍTEK: Co s tím uděláš, Kristo?
+_EMILIA_: Bože, nikdo to tedy nechce? Nikdo o to nestojí? – Ty jsi tu, Kristinko? Ani ses neozvala. Hleď, děvče, vzala jsem ti hocha; vem si to. Jsi krásná, budeš žít tři sta let. Budeš zpívat jako Emilia Marty. Budeš slavná. Považ si, za pár let začneš stárnout; pak budeš litovat… Ber, děvče!
 
-KRISTINA (rozevírá listinu): Já nevím.
+_KRISTINA_ _(vezme listinu)_: Děkuju.
 
-GREGOR: Vy to zkusíte?
+_VÍTEK_: Co s tím uděláš, Kristo?
 
-KOLENATÝ: Propána, ona se nebojí? Dala to zpátky!
+_KRISTINA_ _(rozevírá listinu)_: Já nevím.
 
-VÍTEK: Vrať jí to!
+_GREGOR_: Vy to zkusíte?
 
-EMILIA: Nechte ji! (Pauza.)
+_KOLENATÝ_: Propána, ona se nebojí? Dala to zpátky!
 
-(Kristina mlčky dá listinu nad hořící svíčku.)
+_VÍTEK_: Vrať jí to!
 
-VÍTEK: Nepal to! Je to památka!
+_EMILIA_: Nechte ji! _(Pauza.)_
 
-KOLENATÝ: Pozor! Nechala!
+_(Kristina mlčky dá listinu nad hořící svíčku.)_
 
-HAUK: Kristepane!
+_VÍTEK_: Nepal to! Je to památka!
 
-GREGOR: Vemte jí to!
+_KOLENATÝ_: Pozor! Nechala!
 
-PRUS (zadrží je): Nechte ji jednat! (Zdrcené mlčení.)
+_HAUK_: Kristepane!
 
-HAUK: Ah jeje, koukejte, nechce to hořet.
+_GREGOR_: Vemte jí to!
 
-GREGOR: Je to pergamen.
+_PRUS_ _(zadrží je)_: Nechte ji jednat! _(Zdrcené mlčení.)_
 
-KOLENATÝ: Jak pomalu to uhelnatí. Kristinečko, nespálila se!
+_HAUK_: Ah jeje, koukejte, nechce to hořet.
 
-HAUK: Račte mi nechat aspoň kousíček! Aspoň kousíček! (Mlčení.)
+_GREGOR_: Je to pergamen.
 
-VÍTEK: Prodloužení života! Věčně to bude lidstvo hledat, a tady, tady to snad bylo…
+_KOLENATÝ_: Jak pomalu to uhelnatí. Kristinečko, nespálila se!
 
-KOLENATÝ: A my jsme mohli žít věčně. Pěkně děkuju!
+_HAUK_: Račte mi nechat aspoň kousíček! Aspoň kousíček! _(Mlčení.)_
 
-PRUS: Prodloužení života… Máte děti?
+_VÍTEK_: Prodloužení života! Věčně to bude lidstvo hledat, a tady, tady to snad bylo…
 
-KOLENATÝ: Mám.
+_KOLENATÝ_: A my jsme mohli žít věčně. Pěkně děkuju!
 
-PRUS: Tak vidíte, věčný život! Kdybychom mysleli na rození… místo na smrt… Život není krátký. Pokud můžeme být příčinou života…
+_PRUS_: Prodloužení života… Máte děti?
 
-GREGOR: Dohořívá. Byla to přece jen… divoká myšlenka, věčně žít. Bože, je mně i teskno, i jaksi lehčeji, že už to není možno…
+_KOLENATÝ_: Mám.
 
-KOLENATÝ: Nejsme už mladí. Jen mládí může tak nádherně spálit… náš strach před smrtí. Dobře to provedla, Tinkotinko.
+_PRUS_: Tak vidíte, věčný život! Kdybychom mysleli na rození… místo na smrt… Život není krátký. Pokud můžeme být příčinou života…
 
-HAUK: Račte dovolit… tady to… tak divně páchne –
+_GREGOR_: Dohořívá. Byla to přece jen… divoká myšlenka, věčně žít. Bože, je mně i teskno, i jaksi lehčeji, že už to není možno…
 
-VÍTEK (otvírá okno): – spáleninou.
+_KOLENATÝ_: Nejsme už mladí. Jen mládí může tak nádherně spálit… náš strach před smrtí. Dobře to provedla, Tinkotinko.
 
-EMILIA: Hahaha, konec nesmrtelnosti!
+_HAUK_: Račte dovolit… tady to… tak divně páchne –
 
-Opona.
+_VÍTEK_ _(otvírá okno)_: – spáleninou.
+
+_EMILIA_: Hahaha, konec nesmrtelnosti!
+
+_Opona._

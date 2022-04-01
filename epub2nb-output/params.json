@@ -1,28 +1,31 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "drama",
       "title": "Věc Makropulos",
       "identifier": "eb306b49-d5dc-4f21-9694-00ae7e697a77",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2017-11-14T00:00:00.000Z"
+      "modified": "2017-11-14T00:00:00.000Z",
+      "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "mlpuroven2kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "mlptextbez1radku\nmlptextbez1radku1\nmlptextbez1radku2 ",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "",
+      "figure": "mlpobrazky",
+      "em": "ebookpodpiskurziva\nmlpdopispodpisi\nmlptexti\nmlpznakkurziva11b\nmlpznaktucne11b\nmlpscenickepoznamky",
+      "strong": "mlptextbez1radkub\nmlptirazautoranazev",
       "remove": "",
       "ignore": ""
     },
@@ -30,17 +33,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "vec_makropulos_001.md",
             "xhtml": "vec_makropulos_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_002.md",
@@ -48,32 +53,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_003.md",
             "xhtml": "vec_makropulos_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_004.md",
             "xhtml": "vec_makropulos_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_005.md",
@@ -84,7 +92,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_006.md",
@@ -95,7 +104,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_007.md",
@@ -106,7 +116,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_008.md",
@@ -117,7 +128,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_009.md",
@@ -128,7 +140,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_010.md",
@@ -139,7 +152,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_011.md",
@@ -150,7 +164,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_012.md",
@@ -161,7 +176,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_013.md",
@@ -172,7 +188,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_014.md",
@@ -183,7 +200,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_015.md",
@@ -194,7 +212,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vec_makropulos_016.md",
@@ -205,7 +224,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -245,7 +265,7 @@
         "xhtml": "vec_makropulos_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Předmluva vydavatele",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_005.md",
         "xhtml": "vec_makropulos_005.html"
@@ -257,55 +277,55 @@
         "xhtml": "vec_makropulos_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Předmluva",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_007.md",
         "xhtml": "vec_makropulos_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "OSOBY",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_008.md",
         "xhtml": "vec_makropulos_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DĚJSTVÍ PRVNÍ",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_009.md",
         "xhtml": "vec_makropulos_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DĚJSTVÍ DRUHÉ",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_010.md",
         "xhtml": "vec_makropulos_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DĚJSTVÍ TŘETÍ",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_011.md",
         "xhtml": "vec_makropulos_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PROMĚNA",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_012.md",
         "xhtml": "vec_makropulos_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční\npoznámka",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_013.md",
         "xhtml": "vec_makropulos_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Život a doba spisovatele\nKarla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_014.md",
         "xhtml": "vec_makropulos_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "První\nvydání knih Karla Čapka",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_015.md",
         "xhtml": "vec_makropulos_015.html"
@@ -393,6 +413,6 @@
       "user": "books-are-next",
       "repo": "capek-vec-makropulos"
     },
-    "generatedAt": 1648805605182
+    "generatedAt": 1648806069471
   }
 }

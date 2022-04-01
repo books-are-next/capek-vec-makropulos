@@ -1,29 +1,28 @@
 ---
+title: OSOBY
 contentType: prose
 ---
 
-## OSOBY
+**EMILIA MARTY**
 
-EMILIA MARTY
+**JAROSLAV PRUS**
 
-JAROSLAV PRUS
+**JANEK_, jeho syn_**
 
-JANEK, jeho syn
+**ALBERT GREGOR**
 
-ALBERT GREGOR
+**HAUK-ŠENDORF**
 
-HAUK-ŠENDORF
+**_Advokát_ dr. KOLENATÝ**
 
-Advokát dr. KOLENATÝ
+**_Solicitátor_ VÍTEK**
 
-Solicitátor VÍTEK
+**KRISTINA_, jeho dcera_**
 
-KRISTINA, jeho dcera
+**KOMORNÁ**
 
-KOMORNÁ
+**LÉKAŘ**
 
-LÉKAŘ
+**STROJNÍK**
 
-STROJNÍK
-
-POKLÍZEČKA
+**POKLÍZEČKA**
