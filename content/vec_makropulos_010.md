@@ -1,919 +1,924 @@
 ---
+title: DĚJSTVÍ DRUHÉ
 contentType: prose
 ---
 
-## DĚJSTVÍ DRUHÉ
+_Jeviště velkého divadla, prázdné, jen trochu nepořádku po včerejším představení: nějaké praktikáhly, stočené dekorace, osvětlovací tělesa, celý holý a pustý rub divadla. Vpředu divadelní trůn na pódiu._
 
-Jeviště velkého divadla, prázdné, jen trochu nepořádku po včerejším představení: nějaké praktikáhly, stočené dekorace, osvětlovací tělesa, celý holý a pustý rub divadla. Vpředu divadelní trůn na pódiu.
+  
 
-POKLÍZEČKA: Propána to bylo slávy. Viděl ste ty kytice?
+  
 
-STROJNÍK: Neviděl.
+  
 
-POKLÍZEČKA: Jakživa sem neviděla takovou slávu. Lidi řvali; já sem myslela, že to divadlo zbořej. Vona se ta Marty šla nejmíň padesátkrát děkovat, a lidi né a né přestat. Zrouna vám bláznili.
+_POKLÍZEČKA_: Propána to bylo slávy. Viděl ste ty kytice?
 
-STROJNÍK: Poslouchejte, taková ženská musí mít peněz!
+_STROJNÍK_: Neviděl.
 
-POKLÍZEČKA: No Jéžiš! To si myslím, Kudrno. Dyť co se vydá jen za ty kytky. Helejte, támhle jich eště je celá kupa. Ani to šecko nevodvezla.
+_POKLÍZEČKA_: Jakživa sem neviděla takovou slávu. Lidi řvali; já sem myslela, že to divadlo zbořej. Vona se ta Marty šla nejmíň padesátkrát děkovat, a lidi né a né přestat. Zrouna vám bláznili.
 
-STROJNÍK: Šak já sem přišel chvilku poslouchat sem za kulisy; ale vite, v člověku se všechno třese, když vona zpívá.
+_STROJNÍK_: Poslouchejte, taková ženská musí mít peněz!
 
-POKLÍZEČKA: Já vám to řeknu, Kudrno, já sem dočista brečela. Poslouchám a najednou, co mně to teče po tváři; a já brečím.
+_POKLÍZEČKA_: No Jéžiš! To si myslím, Kudrno. Dyť co se vydá jen za ty kytky. Helejte, támhle jich eště je celá kupa. Ani to šecko nevodvezla.
 
-(Prus vejde.)
+_STROJNÍK_: Šak já sem přišel chvilku poslouchat sem za kulisy; ale vite, v člověku se všechno třese, když vona zpívá.
 
-POKLÍZEČKA: Ráčíte hledat?
+_POKLÍZEČKA_: Já vám to řeknu, Kudrno, já sem dočista brečela. Poslouchám a najednou, co mně to teče po tváři; a já brečím.
 
-PRUS: Není tu slečna Marty? V hotelu mně řekli, že šla do divadla.
+_(Prus vejde.)_
 
-POKLÍZEČKA: Vona je u pana ředitele. Ale musí sem přijít, vona má něco v šatně.
+_POKLÍZEČKA_: Ráčíte hledat?
 
-PRUS: Dobrá, počkám. (Postaví se stranou.)
+_PRUS_: Není tu slečna Marty? V hotelu mně řekli, že šla do divadla.
 
-POKLÍZEČKA: To už je pátej. Čekaj na ni jako na klinice.
+_POKLÍZEČKA_: Vona je u pana ředitele. Ale musí sem přijít, vona má něco v šatně.
 
-STROJNÍK: To mně nejde do hlavy, jestli taková ženská má taky mužský.
+_PRUS_: Dobrá, počkám. _(Postaví se stranou.)_
 
-POKLÍZEČKA: A jo. A to jistě jo, Kudrno.
+_POKLÍZEČKA_: To už je pátej. Čekaj na ni jako na klinice.
 
-STROJNÍK: A sakra!
+_STROJNÍK_: To mně nejde do hlavy, jestli taková ženská má taky mužský.
 
-POKLÍZEČKA: Copak? Co ste se tak zakoukal?
+_POKLÍZEČKA_: A jo. A to jistě jo, Kudrno.
 
-STROJNÍK: Mně to ani nejde do hlavy. (Odejde.)
+_STROJNÍK_: A sakra!
 
-POKLÍZEČKA: To víš, to pro tebe není. (Odejde druhou stranou.)
+_POKLÍZEČKA_: Copak? Co ste se tak zakoukal?
 
-KRISTINA (vejde): Janku, pojď sem! Janku! Tady nikdo není.
+_STROJNÍK_: Mně to ani nejde do hlavy. _(Odejde.)_
 
-JANEK PRUS (za ní): Nevyhodí mě nikdo?
+_POKLÍZEČKA_: To víš, to pro tebe není. (_Odejde druhou stranou._)
 
-KRISTINA: Ne, dnes se nezkouší. Ach bože Janku, já jsem nešťastná!
+_KRISTINA_ _(vejde)_: Janku, pojď sem! Janku! Tady nikdo není.
 
-JANEK: Proč? (Chce ji políbit.)
+_JANEK PRUS_ _(za ní)_: Nevyhodí mě nikdo?
 
-KRISTINA: Ne, Janku, nelíbat. S tím už dost. Já – já mám teď jiné starosti. Já už na tebe nesmím myslet.
+_KRISTINA_: Ne, dnes se nezkouší. Ach bože Janku, já jsem nešťastná!
 
-JANEK: Ale Kristo!
+_JANEK_: Proč? _(Chce ji políbit.)_
 
-KRISTINA: Měj rozum, Janku! Když to chci k něčemu přivést – Já se musím docela změnit, vážně. Janku, když člověk pořád na něco myslí, a jen na to a jen na to, že se mu to musí podařit?
+_KRISTINA_: Ne, Janku, nelíbat. S tím už dost. Já – já mám teď jiné starosti. Já už na tebe nesmím myslet.
 
-JANEK: To se rozumí.
+_JANEK_: Ale Kristo!
 
-KRISTINA: Tak vidíš. Tak já musím myslet jenom na umění. Viď, že ta Marty je ohromná?
+_KRISTINA_: Měj rozum, Janku! Když to chci k něčemu přivést – Já se musím docela změnit, vážně. Janku, když člověk pořád na něco myslí, a jen na to a jen na to, že se mu to musí podařit?
 
-JANEK: Je, ale –
+_JANEK_: To se rozumí.
 
-KRISTINA: Tomu ty nerozumíš. To je ohromná technika. Já jsem ti nespala celou noc. Jen jsem se převalovala a trápila se, mám-li jít do divadla, nebo ne – Kdybych aspoň něco maličko dovedla!
+_KRISTINA_: Tak vidíš. Tak já musím myslet jenom na umění. Viď, že ta Marty je ohromná?
 
-JANEK: Ale vždyť dovedeš!
+_JANEK_: Je, ale –
 
-KRISTINA: Myslíš? Myslíš, že mám zpívat dál? Ale pak všecko přestane, rozumíš? Pak musím dělat jen divadlo.
+_KRISTINA_: Tomu ty nerozumíš. To je ohromná technika. Já jsem ti nespala celou noc. Jen jsem se převalovala a trápila se, mám-li jít do divadla, nebo ne – Kdybych aspoň něco maličko dovedla!
 
-JANEK: Ale Kristo! Tu chvilku denně… dvakrát denně se mnou…
+_JANEK_: Ale vždyť dovedeš!
 
-KRISTINA (usedá na trůn): To je právě to, že to není jen chvilka. To je to hrozné, víš, Janku? Já na tebe myslím celý den. Bože ty jsi ničema! Jakpak mám potom něco udělat, když musím pořád na tebe myslet?
+_KRISTINA_: Myslíš? Myslíš, že mám zpívat dál? Ale pak všecko přestane, rozumíš? Pak musím dělat jen divadlo.
 
-JANEK: A kdybys věděla, Kristo, jak já – Já už ani neumím myslet na nic než na tebe.
+_JANEK_: Ale Kristo! Tu chvilku denně… dvakrát denně se mnou…
 
-KRISTINA: Ty můžeš, ty přece nezpíváš, a vůbec – Tak poslyš, Janku, na čem jsem se usnesla. Ale nesmíš nic namítat.
+_KRISTINA_ _(usedá na trůn)_: To je právě to, že to není jen chvilka. To je to hrozné, víš, Janku? Já na tebe myslím celý den. Bože ty jsi ničema! Jakpak mám potom něco udělat, když musím pořád na tebe myslet?
 
-JANEK: Ne, to neplatí! To já nepřipustím! Já –
+_JANEK_: A kdybys věděla, Kristo, jak já – Já už ani neumím myslet na nic než na tebe.
 
-KRISTINA: Prosím tě, Janku, nedělej mně to ještě těžší! Měj rozum, dítě: já už musím začít něco dělat, vážně. A vůbec, já nechci být chudá a neznámá holka, už kvůli tobě – A pak, mně se teprve tvoří hlas, a já nesmím mnoho mluvit.
+_KRISTINA_: Ty můžeš, ty přece nezpíváš, a vůbec – Tak poslyš, Janku, na čem jsem se usnesla. Ale nesmíš nic namítat.
 
-JANEK: Tak já budu mluvit sám!
+_JANEK_: Ne, to neplatí! To já nepřipustím! Já –
 
-KRISTINA: Ne, počkej. Já už jsem se rozhodla. Mezi námi je konec, Janku. Nadobro konec. Budeme se vidět jenom jednou denně.
+_KRISTINA_: Prosím tě, Janku, nedělej mně to ještě těžší! Měj rozum, dítě: já už musím začít něco dělat, vážně. A vůbec, já nechci být chudá a neznámá holka, už kvůli tobě – A pak, mně se teprve tvoří hlas, a já nesmím mnoho mluvit.
 
-JANEK: Ale –
+_JANEK_: Tak já budu mluvit sám!
 
-KRISTINA: A mezitím si musíme být cizí, po celý den. Já budu strašně pracovat, Janku. Zpívat, přemýšlet a učit se a všecko. Já, víš, já bych chtěla být taková dáma, jako je ona. Pojď sem, ty hloupý, tady je ještě místo. Vedle mne. Vždyť tu nikdo není. Myslíš, že ona má někoho ráda?
+_KRISTINA_: Ne, počkej. Já už jsem se rozhodla. Mezi námi je konec, Janku. Nadobro konec. Budeme se vidět jenom jednou denně.
 
-JANEK (usedá na trůn vedle ní): Kdo?
+_JANEK_: Ale –
 
-KRISTINA: Ona, Marty.
+_KRISTINA_: A mezitím si musíme být cizí, po celý den. Já budu strašně pracovat, Janku. Zpívat, přemýšlet a učit se a všecko. Já, víš, já bych chtěla být taková dáma, jako je ona. Pojď sem, ty hloupý, tady je ještě místo. Vedle mne. Vždyť tu nikdo není. Myslíš, že ona má někoho ráda?
 
-JANEK: Marty? To se rozumí.
+_JANEK_ _(usedá na trůn vedle ní)_: Kdo?
 
-KRISTINA: Vážně? Víš, to nechápu: když je tak veliká a slavná, jak by mohla mít někoho opravdu ráda… Ty nevíš, co to je, když má ženská někoho ráda. To ti je tak ponižující –
+_KRISTINA_: Ona, Marty.
 
-JANEK: Ale ani trochu!
+_JANEK_: Marty? To se rozumí.
 
-KRISTINA: Ne, vážně, to vy neznáte. Pak už na sebe nemyslí, šla by za ním jako služka… taková nesvá, taková jeho… Já bych se někdy tloukla!
+_KRISTINA_: Vážně? Víš, to nechápu: když je tak veliká a slavná, jak by mohla mít někoho opravdu ráda… Ty nevíš, co to je, když má ženská někoho ráda. To ti je tak ponižující –
 
-JANEK: Ale –
+_JANEK_: Ale ani trochu!
 
-KRISTINA: A pak, každý se za Marty blázní. Pro ni to nemá žádnou cenu. Každý, na koho se podívá, vážně.
+_KRISTINA_: Ne, vážně, to vy neznáte. Pak už na sebe nemyslí, šla by za ním jako služka… taková nesvá, taková jeho… Já bych se někdy tloukla!
 
-JANEK: To není pravda!
+_JANEK_: Ale –
 
-KRISTINA: Já ti mám takový strach před ní –
+_KRISTINA_: A pak, každý se za Marty blázní. Pro ni to nemá žádnou cenu. Každý, na koho se podívá, vážně.
 
-JANEK: Kristinko! (Kradmo ji políbí.)
+_JANEK_: To není pravda!
 
-KRISTINA (povoluje): Ale Janku! Kdyby nás někdo viděl!
+_KRISTINA_: Já ti mám takový strach před ní –
 
-PRUS (poněkud vystoupí): Já se nedívám.
+_JANEK_: Kristinko! _(Kradmo ji políbí.)_
 
-JANEK (vyskočí): Táta!
+_KRISTINA_ _(povoluje)_: Ale Janku! Kdyby nás někdo viděl!
 
-PRUS: Nemusíš utíkat. (Jde blíže.) Slečno Kristinko, jsem potěšen, že vás poznávám. Bohužel nemohu říci, že bych o vás už věděl. Kluk se mně mohl aspoň pochlubit!
+_PRUS_ _(poněkud vystoupí)_: Já se nedívám.
 
-KRISTINA (sestoupila z trůnu a kryje Janka): Prosím, pan Prus jen přišel, aby – aby –
+_JANEK_ _(vyskočí)_: Táta!
 
-PRUS: Který pan Prus?
+_PRUS_: Nemusíš utíkat. _(Jde blíže.)_ Slečno Kristinko, jsem potěšen, že vás poznávám. Bohužel nemohu říci, že bych o vás už věděl. Kluk se mně mohl aspoň pochlubit!
 
-KRISTINA: Tady pan – pan –
+_KRISTINA_ _(sestoupila z trůnu a kryje Janka)_: Prosím, pan Prus jen přišel, aby – aby –
 
-PRUS: To je jenom Janek, slečno, a žádný pan Prus. Jak dlouho za vámi pálí?
+_PRUS_: Který pan Prus?
 
-KRISTINA: Už rok.
+_KRISTINA_: Tady pan – pan –
 
-PRUS: Tak vida! Ale neberte toho ničemu příliš vážně, slečno; já ho znám. A ty, mládě – Nu, nenechte se vyrušovat; ale tady je opravdu místo poněkud – poněkud nevhodné, že?
+_PRUS_: To je jenom Janek, slečno, a žádný pan Prus. Jak dlouho za vámi pálí?
 
-JANEK: Táto, jestli si myslíš, že mne uvedeš do rozpaků, – – tak se mýlíš.
+_KRISTINA_: Už rok.
 
-PRUS: To je dobře. Muž nemá být nikdy v rozpacích.
+_PRUS_: Tak vida! Ale neberte toho ničemu příliš vážně, slečno; já ho znám. A ty, mládě – Nu, nenechte se vyrušovat; ale tady je opravdu místo poněkud – poněkud nevhodné, že?
 
-JANEK: A nikdy bych si nepomyslil, že mne budeš takhle špehovat.
+_JANEK_: Táto, jestli si myslíš, že mne uvedeš do rozpaků, – – tak se mýlíš.
 
-PRUS: Výborně, Janku! Jen se nedat!
+_PRUS_: To je dobře. Muž nemá být nikdy v rozpacích.
 
-JANEK: Já mluvím vážně. Jsou věci, do kterých si zapovídám které – po kterých nikomu –
+_JANEK_: A nikdy bych si nepomyslil, že mne budeš takhle špehovat.
 
-PRUS: Zcela správně, příteli. Podejte mi ruku.
+_PRUS_: Výborně, Janku! Jen se nedat!
 
-JANEK (náhle s dětskou úzkostí, schovávaje ruce): Ne, tati, prosím –
+_JANEK_: Já mluvím vážně. Jsou věci, do kterých si zapovídám které – po kterých nikomu –
 
-PRUS (podává ruku): Nu tak –?
+_PRUS_: Zcela správně, příteli. Podejte mi ruku.
 
-JANEK: Tati! (Podává mu zdráhavě ruku.)
+_JANEK_ _(náhle s dětskou úzkostí, schovávaje ruce)_: Ne, tati, prosím –
 
-PRUS (sevře mu ruku): Tak je to dobře, vidíš? Kamarádsky a srdečně.
+_PRUS_ _(podává ruku)_: Nu tak –?
 
-JANEK (křiví obličej, přemáhá se, konečně zařve bolestí a celý se zkřiví): Aú!
+_JANEK_: Tati! _(Podává mu zdráhavě ruku.)_
 
-PRUS (pouští ho): Nu hrdina; vydrží dost.
+_PRUS_ _(sevře mu ruku)_: Tak je to dobře, vidíš? Kamarádsky a srdečně.
 
-KRISTINA (se slzami v očích): To je surové!
+_JANEK_ _(křiví obličej, přemáhá se, konečně zařve bolestí a celý se zkřiví)_: Aú!
 
-PRUS (vezme ji lehce za ruku): Tyhle zlaté ručičky mu to po straně vynahradí.
+_PRUS_ _(pouští ho)_: Nu hrdina; vydrží dost.
 
-VÍTEK (vběhne): Kristo! Kristinko! Aha, tady jsi. (Zarazí se.) Pan Prus?
+_KRISTINA_ _(se slzami v očích)_: To je surové!
 
-PRUS: Nebudu rušit. (Ustoupí stranou.)
+_PRUS_ _(vezme ji lehce za ruku)_: Tyhle zlaté ručičky mu to po straně vynahradí.
 
-KRISTINA: Co máš, tati?
+_VÍTEK_ _(vběhne)_: Kristo! Kristinko! Aha, tady jsi. _(Zarazí se.)_ Pan Prus?
 
-VÍTEK: Jsi v novinách, Kristo! Píšou o tobě v novinách! A dokonce v kritice o Martyové! Považ, vedle Martyové!
+_PRUS_: Nebudu rušit. _(Ustoupí stranou.)_
 
-KRISTINA: Ukaž!
+_KRISTINA_: Co máš, tati?
 
-VÍTEK (rozevře noviny): Tadyhle: „Úložku tu a tu – zpívala poprvé slečna Vítková.“ – To je dost hezké, viď?
+_VÍTEK_: Jsi v novinách, Kristo! Píšou o tobě v novinách! A dokonce v kritice o Martyové! Považ, vedle Martyové!
 
-KRISTINA: A co máš tady?
+_KRISTINA_: Ukaž!
 
-VÍTEK: To jsou jiné noviny, tam nic není. To víš, jen Marty, Marty, samá Marty. Jako by na světě nebyl nikdo jiný než Marty.
+_VÍTEK_ _(rozevře noviny)_: Tadyhle: „Úložku tu a tu – zpívala poprvé slečna Vítková.“ – To je dost hezké, viď?
 
-KRISTINA (šťastna): Podívejte se, Janku, tady mne jmenují!
+_KRISTINA_: A co máš tady?
 
-VÍTEK: Kristo, kdo je to?
+_VÍTEK_: To jsou jiné noviny, tam nic není. To víš, jen Marty, Marty, samá Marty. Jako by na světě nebyl nikdo jiný než Marty.
 
-KRISTINA: To je pan Prus.
+_KRISTINA_ _(šťastna)_: Podívejte se, Janku, tady mne jmenují!
 
-JANEK: Janek.
+_VÍTEK_: Kristo, kdo je to?
 
-VÍTEK: Odkud ho znáš?
+_KRISTINA_: To je pan Prus.
 
-JANEK: Prosím, slečna byla tak laskava –
+_JANEK_: Janek.
 
-VÍTEK: Prosím, to mi poví má dcera sama. Pojď, Kristo!
+_VÍTEK_: Odkud ho znáš?
 
-EMILIA (vchází; mluví do kulis): Děkuju vám, pánové, ale nechte mne už odejít. (Uvidí Pruse.) Jak, ještě jeden?
+_JANEK_: Prosím, slečna byla tak laskava –
 
-PRUS: Kdežpak, slečno Martyová; já si netroufám blahopřát. Jdu s něčím jiným.
+_VÍTEK_: Prosím, to mi poví má dcera sama. Pojď, Kristo!
 
-EMILIA: Ale byl jste včera v divadle?
+_EMILIA_ _(vchází; mluví do kulis)_: Děkuju vám, pánové, ale nechte mne už odejít. _(Uvidí Pruse.)_ Jak, ještě jeden?
 
-PRUS: Ovšem.
+_PRUS_: Kdežpak, slečno Martyová; já si netroufám blahopřát. Jdu s něčím jiným.
 
-EMILIA: Nu proto. (Usedne na trůn.) Nikoho sem nevodit. Mám toho už dost. (Dívá se na Janka.) To je váš syn?
+_EMILIA_: Ale byl jste včera v divadle?
 
-PRUS: Ano. Pojď blíž, Janku.
+_PRUS_: Ovšem.
 
-EMILIA: Pojďte sem, Janku, ať vás vidím. Byl jste včera v divadle?
+_EMILIA_: Nu proto. _(Usedne na trůn.)_ Nikoho sem nevodit. Mám toho už dost. _(Dívá se na Janka.)_ To je váš syn?
 
-JANEK: Ano.
+_PRUS_: Ano. Pojď blíž, Janku.
 
-EMILIA: Líbila jsem se vám?
+_EMILIA_: Pojďte sem, Janku, ať vás vidím. Byl jste včera v divadle?
 
-JANEK: Ano.
+_JANEK_: Ano.
 
-EMILIA: Umíte mluvit něco jiného než ano?
+_EMILIA_: Líbila jsem se vám?
 
-JANEK: Ano.
+_JANEK_: Ano.
 
-EMILIA: Váš syn je hloupý.
+_EMILIA_: Umíte mluvit něco jiného než ano?
 
-PRUS: Stydím se za to.
+_JANEK_: Ano.
 
-(Gregor vejde s kyticí.)
+_EMILIA_: Váš syn je hloupý.
 
-EMILIA: Aha, Bertík! Dej sem!
+_PRUS_: Stydím se za to.
 
-GREGOR: Za včerejší večer. (Podává kytici.)
+_(Gregor vejde s kyticí.)_
 
-EMILIA: Ukaž! (Vezme kytici, vyjme z ní etui.) Tohle si vem zpátky. (Vrací mu etui.) To jsi hodný, žes přišel. Děkuju za kytici. (Přivoní k ní a hodí ji na hromadu jiných.) Líbila jsem se ti?
+_EMILIA_: Aha, Bertík! Dej sem!
 
-GREGOR: Nelíbila. Váš zpěv až bolí. Je příliš dokonalý. A přitom –
+_GREGOR_: Za včerejší večer. _(Podává kytici.)_
 
-EMILIA: Nu?
+_EMILIA_: Ukaž! _(Vezme kytici, vyjme z ní etui.)_ Tohle si vem zpátky. _(Vrací mu etui.)_ To jsi hodný, žes přišel. Děkuju za kytici. _(Přivoní k ní a hodí ji na hromadu jiných.)_ Líbila jsem se ti?
 
-GREGOR: Vy se přitom nudíte. Je to nadlidské, co dovedete, je to omračující, ale – vám je strašně nudno. Jako by vás záblo.
+_GREGOR_: Nelíbila. Váš zpěv až bolí. Je příliš dokonalý. A přitom –
 
-EMILIA: Tys to cítil? Nu, snad máš trochu pravdu. Tak už jsem poslala tvému hloupému advokátovi ten dokument, víš? Ten o té Ellian. Co dělá proces?
+_EMILIA_: Nu?
 
-GREGOR: Nevím. Nestarám se o to.
+_GREGOR_: Vy se přitom nudíte. Je to nadlidské, co dovedete, je to omračující, ale – vám je strašně nudno. Jako by vás záblo.
 
-EMILIA: A to už kupuješ hlouposti v etuích, ty osle? Hned to doneseš zpátky! Začs to koupil?
+_EMILIA_: Tys to cítil? Nu, snad máš trochu pravdu. Tak už jsem poslala tvému hloupému advokátovi ten dokument, víš? Ten o té Ellian. Co dělá proces?
 
-GREGOR: Co je vám po tom?
+_GREGOR_: Nevím. Nestarám se o to.
 
-EMILIA: Vypůjčil sis, viď? Běhal jsi celé ráno po lichvářích, že? (Hrabe se v ruční taštičce, vytahuje hrst peněz.) Na, tady máš! Ber honem!
+_EMILIA_: A to už kupuješ hlouposti v etuích, ty osle? Hned to doneseš zpátky! Začs to koupil?
 
-GREGOR (couvá): Jak, vy mně nabízíte peníze? Co si myslíte!
+_GREGOR_: Co je vám po tom?
 
-EMILIA: Říkám ti, ber, nebo tě vytahám za uši!
+_EMILIA_: Vypůjčil sis, viď? Běhal jsi celé ráno po lichvářích, že? _(Hrabe se v ruční taštičce, vytahuje hrst peněz.)_ Na, tady máš! Ber honem!
 
-GREGOR (vzplane): To bych si vyprosil!
+_GREGOR_ _(couvá)_: Jak, vy mně nabízíte peníze? Co si myslíte!
 
-EMILIA: Jen se podívejte, on mně chce poroučet! Bertíku, nedopaluj! Já tě naučím dělat dluhy! Nu tak, vezmeš?
+_EMILIA_: Říkám ti, ber, nebo tě vytahám za uši!
 
-PRUS (ke Gregorovi): Proboha skoncujte to!
+_GREGOR_ _(vzplane)_: To bych si vyprosil!
 
-GREGOR (vytrhne jí peníze): Máte divné rozmary. (Dá peníze Vítkovi.) Odevzdejte to v kanceláři. Depot slečny Martyové.
+_EMILIA_: Jen se podívejte, on mně chce poroučet! Bertíku, nedopaluj! Já tě naučím dělat dluhy! Nu tak, vezmeš?
 
-VÍTEK: Ano prosím.
+_PRUS_ _(ke Gregorovi)_: Proboha skoncujte to!
 
-EMILIA: Hej vy! To je pro něj, rozumíte?
+_GREGOR_ _(vytrhne jí peníze)_: Máte divné rozmary. _(Dá peníze Vítkovi.)_ Odevzdejte to v kanceláři. Depot slečny Martyové.
 
-VÍTEK: Ano prosím.
+_VÍTEK_: Ano prosím.
 
-EMILIA: Byl jste v divadle? Líbila jsem se vám?
+_EMILIA_: Hej vy! To je pro něj, rozumíte?
 
-VÍTEK: Můj bože, a jak! Hotová Strada!
+_VÍTEK_: Ano prosím.
 
-EMILIA: Vy jste slyšel zpívat Stradu? Poslyšte, Strada pískala; to nebyl žádný hlas.
+_EMILIA_: Byl jste v divadle? Líbila jsem se vám?
 
-VÍTEK: Vždyť Strada zemřela už před sto lety!
+_VÍTEK_: Můj bože, a jak! Hotová Strada!
 
-EMILIA: Tím hůř! Měl byste ji slyšet. Strada! Prosím vás, co pořád máte s tou Stradou?
+_EMILIA_: Vy jste slyšel zpívat Stradu? Poslyšte, Strada pískala; to nebyl žádný hlas.
 
-VÍTEK: Prosím za odpuštění, já – já ji samozřejmě neslyšel. Ale podle historie –
+_VÍTEK_: Vždyť Strada zemřela už před sto lety!
 
-EMILIA: Poslyšte, historie lže. Já vám něco řeknu: Strada pískala a Corona měla knedlík. Agujari byla husa a Faustina dýchala jako měch. To je ta vaše historie.
+_EMILIA_: Tím hůř! Měl byste ji slyšet. Strada! Prosím vás, co pořád máte s tou Stradou?
 
-VÍTEK: Oh prosím… v tom oboru… co se týče hudby…
+_VÍTEK_: Prosím za odpuštění, já – já ji samozřejmě neslyšel. Ale podle historie –
 
-PRUS (s úsměvem): Jen když nesáhnete panu Vítkovi na Francouzskou revoluci.
+_EMILIA_: Poslyšte, historie lže. Já vám něco řeknu: Strada pískala a Corona měla knedlík. Agujari byla husa a Faustina dýchala jako měch. To je ta vaše historie.
 
-EMILIA: Nač?
+_VÍTEK_: Oh prosím… v tom oboru… co se týče hudby…
 
-PRUS: Na Francouzskou revoluci. To je jeho koníček.
+_PRUS_ _(s úsměvem)_: Jen když nesáhnete panu Vítkovi na Francouzskou revoluci.
 
-EMILIA: Co na ní má?
+_EMILIA_: Nač?
 
-PRUS: Nevím. Kdybyste se ho zeptala takhle na občana Marata –
+_PRUS_: Na Francouzskou revoluci. To je jeho koníček.
 
-VÍTEK: Oh ne prosím! K čemu to!
+_EMILIA_: Co na ní má?
 
-EMILIA: Marat? Nebyl to ten poslanec, co se mu tak potily ruce?
+_PRUS_: Nevím. Kdybyste se ho zeptala takhle na občana Marata –
 
-VÍTEK: To není pravda!
+_VÍTEK_: Oh ne prosím! K čemu to!
 
-EMILIA: Já už vím. Měl ruce jako ropucha, brr!
+_EMILIA_: Marat? Nebyl to ten poslanec, co se mu tak potily ruce?
 
-VÍTEK: Ale ne, to je omyl! To není o něm nikde psáno! Prosím za odpuštění –
+_VÍTEK_: To není pravda!
 
-EMILIA: Já to snad vím, ne? A jak se jmenoval ten veliký, ten od neštovic?
+_EMILIA_: Já už vím. Měl ruce jako ropucha, brr!
 
-VÍTEK: Který prosím?
+_VÍTEK_: Ale ne, to je omyl! To není o něm nikde psáno! Prosím za odpuštění –
 
-EMILIA: Ten, co mu usekli hlavu.
+_EMILIA_: Já to snad vím, ne? A jak se jmenoval ten veliký, ten od neštovic?
 
-VÍTEK: Danton?
+_VÍTEK_: Který prosím?
 
-EMILIA: Zrovna ten. Ten byl ještě horší.
+_EMILIA_: Ten, co mu usekli hlavu.
 
-PRUS: Proč?
+_VÍTEK_: Danton?
 
-EMILIA: Oh, nadobro zkažené zuby. Degutantní člověk.
+_EMILIA_: Zrovna ten. Ten byl ještě horší.
 
-VÍTEK (rozčilen): Prosím takhle se nesmí mluvit! To není historické! Danton… Danton neměl zkažené zuby. To nemůžete dokázat! A kdyby, tak na tom docela nic nezáleží. Docela nic!
+_PRUS_: Proč?
 
-EMILIA: Jakpak by nezáleželo? Vždyť je to degutantní.
+_EMILIA_: Oh, nadobro zkažené zuby. Degutantní člověk.
 
-VÍTEK: Ne, prosím to nepřipustím! Danton – prosím za odpuštění, ale takhle se nesmí mluvit! Pak by nezbylo nic velkého v dějinách!
+_VÍTEK_ _(rozčilen)_: Prosím takhle se nesmí mluvit! To není historické! Danton… Danton neměl zkažené zuby. To nemůžete dokázat! A kdyby, tak na tom docela nic nezáleží. Docela nic!
 
-EMILIA: Nebylo nic velkého.
+_EMILIA_: Jakpak by nezáleželo? Vždyť je to degutantní.
 
-VÍTEK: Cože?
+_VÍTEK_: Ne, prosím to nepřipustím! Danton – prosím za odpuštění, ale takhle se nesmí mluvit! Pak by nezbylo nic velkého v dějinách!
 
-EMILIA: Jakživo nebylo nic velkého. Já to znám.
+_EMILIA_: Nebylo nic velkého.
 
-VÍTEK: Ale Danton –
+_VÍTEK_: Cože?
 
-EMILIA: Tak to vidíte: ten člověk se chce se mnou hádat.
+_EMILIA_: Jakživo nebylo nic velkého. Já to znám.
 
-PRUS: To je od něho nezdvořilé.
+_VÍTEK_: Ale Danton –
 
-EMILIA: Oh ne, ale hloupé.
+_EMILIA_: Tak to vidíte: ten člověk se chce se mnou hádat.
 
-GREGOR: Mám přivést ještě pár lidí, abyste jim říkala hrubosti?
+_PRUS_: To je od něho nezdvořilé.
 
-EMILIA: Není třeba. Přijdou sami. Přilezou po čtyřech.
+_EMILIA_: Oh ne, ale hloupé.
 
-KRISTINA: Janku, pojďme odtud!
+_GREGOR_: Mám přivést ještě pár lidí, abyste jim říkala hrubosti?
 
-EMILIA (zívá): To je párek, ti dva? Jestlipak už byli v ráji?
+_EMILIA_: Není třeba. Přijdou sami. Přilezou po čtyřech.
 
-VÍTEK: Jak prosím?
+_KRISTINA_: Janku, pojďme odtud!
 
-EMILIA: Jestli už spolu měli.
+_EMILIA_ _(zívá)_: To je párek, ti dva? Jestlipak už byli v ráji?
 
-VÍTEK: Proboha ne!
+_VÍTEK_: Jak prosím?
 
-EMILIA: Vždyť na tom nic není! Vy byste jim to nepřál?
+_EMILIA_: Jestli už spolu měli.
 
-VÍTEK: Kristo, že to není pravda?
+_VÍTEK_: Proboha ne!
 
-KRISTINA: Ale tati – – jak můžeš – –
+_EMILIA_: Vždyť na tom nic není! Vy byste jim to nepřál?
 
-EMILIA: Mlč, ty hloupá; co nebylo, bude. A nestojí to ani za to, víš?
+_VÍTEK_: Kristo, že to není pravda?
 
-PRUS: Co tedy stojí za to?
+_KRISTINA_: Ale tati – – jak můžeš – –
 
-EMILIA: Nic. Vůbec nic.
+_EMILIA_: Mlč, ty hloupá; co nebylo, bude. A nestojí to ani za to, víš?
 
-HAUK-ŠENDORF (vejde s kyticí): Dovolte, dovolte prosím –
+_PRUS_: Co tedy stojí za to?
 
-EMILIA: Kdo to zas je?
+_EMILIA_: Nic. Vůbec nic.
 
-HAUK: Slečno, drahá slečno, dovolte, abych – – (Kleká před trůnem.) Drahá slečno, kdybyste věděla… kdybyste… věděla… (Vzlyká.) Račte… odpustit…
+_HAUK-ŠENDORF_ _(vejde s kyticí)_: Dovolte, dovolte prosím –
 
-EMILIA: Co se mu stalo?
+_EMILIA_: Kdo to zas je?
 
-HAUK: Vy… vy jste jí… tak… tak… podobna!
+_HAUK_: Slečno, drahá slečno, dovolte, abych – – _(Kleká před trůnem.)_ Drahá slečno, kdybyste věděla… kdybyste… věděla… _(Vzlyká.)_ Račte… odpustit…
 
-EMILIA: Komu?
+_EMILIA_: Co se mu stalo?
 
-HAUK: Eu-Eugenii! Eugenii… Montez!
+_HAUK_: Vy… vy jste jí… tak… tak… podobna!
 
-EMILIA (vstane): Cože?
+_EMILIA_: Komu?
 
-HAUK: Eugenii! Já… já ji totiž… znal… Bože, vždyť… vždyť je tomu… padesát let!
+_HAUK_: Eu-Eugenii! Eugenii… Montez!
 
-EMILIA: Kdo je ten dědeček?
+_EMILIA_ _(vstane)_: Cože?
 
-PRUS: Hauk-Šendorf, slečno.
+_HAUK_: Eugenii! Já… já ji totiž… znal… Bože, vždyť… vždyť je tomu… padesát let!
 
-EMILIA: Max? (Sestoupí z trůnu.) Ale bože, vstaňte přec!
+_EMILIA_: Kdo je ten dědeček?
 
-HAUK (zvedá se): Směl… směl bych vám říkat… Eugenia?
+_PRUS_: Hauk-Šendorf, slečno.
 
-EMILIA: Říkejte mi jak chcete. Jsem jí tak podobna?
+_EMILIA_: Max? _(Sestoupí z trůnu.)_ Ale bože, vstaňte přec!
 
-HAUK: Podobna? Drahá slečno, včera… včera v divadle jsem myslel, že… že je to… že je to ona! Ona, Eugenia!… Kdybyste věděla!… I ten hlas… Oči… Byla tak krásná!… Můj bože, a čelo… (Náhle zaražen.) Ale vy jste větší.
+_HAUK_ _(zvedá se)_: Směl… směl bych vám říkat… Eugenia?
 
-EMILIA: Větší? To snad ne.
+_EMILIA_: Říkejte mi jak chcete. Jsem jí tak podobna?
 
-HAUK: O kus větší. Račte dovolit, Eugenia mi šla… potud. Mohl jsem ji políbit na čelo.
+_HAUK_: Podobna? Drahá slečno, včera… včera v divadle jsem myslel, že… že je to… že je to ona! Ona, Eugenia!… Kdybyste věděla!… I ten hlas… Oči… Byla tak krásná!… Můj bože, a čelo… _(Náhle zaražen.)_ Ale vy jste větší.
 
-EMILIA: Jinam ne?
+_EMILIA_: Větší? To snad ne.
 
-HAUK: Jak… jak prosím? Vy jste… celá ona! Drahá slečno, smím vám podat tady tu kytičku?
+_HAUK_: O kus větší. Račte dovolit, Eugenia mi šla… potud. Mohl jsem ji políbit na čelo.
 
-EMILIA (bere kytici): Děkuju.
+_EMILIA_: Jinam ne?
 
-HAUK: Kdybych se na vás mohl vynadívat!
+_HAUK_: Jak… jak prosím? Vy jste… celá ona! Drahá slečno, smím vám podat tady tu kytičku?
 
-EMILIA: Ale sedněte si, můj milý! Bertíku, židli! (Usedá na trůn.)
+_EMILIA_ _(bere kytici)_: Děkuju.
 
-JANEK: Prosím já přinesu. (Běží pro židli.)
+_HAUK_: Kdybych se na vás mohl vynadívat!
 
-KRISTINA: Tam ne! (Běží za ním.)
+_EMILIA_: Ale sedněte si, můj milý! Bertíku, židli! _(Usedá na trůn.)_
 
-PRUS (k Haukovi): Cher comte –
+_JANEK_: Prosím já přinesu. _(Běží pro židli.)_
 
-HAUK: Bože, to je pan Prus! Račte odpustit, já… já jsem vás neviděl. A to mám radost! Jak se vede?
+_KRISTINA_: Tam ne! _(Běží za ním.)_
 
-PRUS: Jak se vede?
+_PRUS_ _(k Haukovi)_: Cher comte –
 
-HAUK: A co dělá váš proces? Zbavil jste se toho chlapa?
+_HAUK_: Bože, to je pan Prus! Račte odpustit, já… já jsem vás neviděl. A to mám radost! Jak se vede?
 
-PRUS: Kdepak! Dovolte, Gregore, abych vás představil…
+_PRUS_: Jak se vede?
 
-HAUK: To je pan Gregor? A to mne těší. Jak se račte?
+_HAUK_: A co dělá váš proces? Zbavil jste se toho chlapa?
 
-GREGOR: Děkuju. (Janek a Kristina přinášejí židle.)
+_PRUS_: Kdepak! Dovolte, Gregore, abych vás představil…
 
-EMILIA: Hej vy, proč jste se pohádali?
+_HAUK_: To je pan Gregor? A to mne těší. Jak se račte?
 
-JANEK: Prosím, to jen tak…
+_GREGOR_: Děkuju. _(Janek a Kristina přinášejí židle.)_
 
-EMILIA: Sedněte si, Maxi.
+_EMILIA_: Hej vy, proč jste se pohádali?
 
-HAUK: Děkuju zdvořile. (Usedá.)
+_JANEK_: Prosím, to jen tak…
 
-EMILIA: Vy tam, posaďte se. Bertík si mně může sednout na klín.
+_EMILIA_: Sedněte si, Maxi.
 
-GREGOR: Příliš laskava.
+_HAUK_: Děkuju zdvořile. _(Usedá.)_
 
-EMILIA: Když nechceš, postůj.
+_EMILIA_: Vy tam, posaďte se. Bertík si mně může sednout na klín.
 
-HAUK: Krásná a božská slečno, na kolenou vás prosím za odpuštění.
+_GREGOR_: Příliš laskava.
 
-EMILIA: Proč?
+_EMILIA_: Když nechceš, postůj.
 
-HAUK: Jsem starý blázen. Co vám je po nějaké dávno mrtvé ženě?
+_HAUK_: Krásná a božská slečno, na kolenou vás prosím za odpuštění.
 
-EMILIA: Copak je mrtva?
+_EMILIA_: Proč?
 
-HAUK: Ano.
+_HAUK_: Jsem starý blázen. Co vám je po nějaké dávno mrtvé ženě?
 
-EMILIA: To je hloupé.
+_EMILIA_: Copak je mrtva?
 
-HAUK: Padesát let mrtva. Já jsem ji totiž miloval. Tehdy, před padesáti lety.
+_HAUK_: Ano.
 
-EMILIA: Ano.
+_EMILIA_: To je hloupé.
 
-HAUK: Říkali jí Gitana. Víte, Cikánka. A ona byla cikánka. Říkali jí La chula negra. Totiž tam dole, v Andalusii. Já jsem byl totiž tehdy na vyslanectví v Madridě, račte rozumět. Před padesáti lety. Osmnáct set – sedmdesát.
+_HAUK_: Padesát let mrtva. Já jsem ji totiž miloval. Tehdy, před padesáti lety.
 
-EMILIA: Ano.
+_EMILIA_: Ano.
 
-HAUK: Víte to, že zpívala a tančila na trzích? Alza! Ola! Bože jak po ní bláznil celý svět! Vaya, Gitana! a do toho kastaněty… Račte rozumět, já byl tehdy mlád… a ona, ona byla…
+_HAUK_: Říkali jí Gitana. Víte, Cikánka. A ona byla cikánka. Říkali jí La chula negra. Totiž tam dole, v Andalusii. Já jsem byl totiž tehdy na vyslanectví v Madridě, račte rozumět. Před padesáti lety. Osmnáct set – sedmdesát.
 
-EMILIA: …cikánka.
+_EMILIA_: Ano.
 
-HAUK: Ano, zcela správně, cikánka. Nic než oheň. Bože to se nezapomene, to se nezapomene… Věřila byste, že se člověk potom už nevzpamatuje? Já jsem pak zůstal pro celý život jako pitomý.
+_HAUK_: Víte to, že zpívala a tančila na trzích? Alza! Ola! Bože jak po ní bláznil celý svět! Vaya, Gitana! a do toho kastaněty… Račte rozumět, já byl tehdy mlád… a ona, ona byla…
 
-EMILIA: Oh!
+_EMILIA_: …cikánka.
 
-HAUK: Já jsem totiž idiot, slečno. Hauk idiot. Já jsem, bože jak se tomu říká?
+_HAUK_: Ano, zcela správně, cikánka. Nic než oheň. Bože to se nezapomene, to se nezapomene… Věřila byste, že se člověk potom už nevzpamatuje? Já jsem pak zůstal pro celý život jako pitomý.
 
-GREGOR: Slabomyslný.
+_EMILIA_: Oh!
 
-HAUK: Zcela správně, slabomyslný. Všecko jsem nechal tam, u ní, račte rozumět? Já už jsem pak nežil, to byla jen dřímota… Vaya, querida! Salero! Mi dios, jak, jak jste jí podobna! Eugenia! Eugenia! (Rozpláče se.)
+_HAUK_: Já jsem totiž idiot, slečno. Hauk idiot. Já jsem, bože jak se tomu říká?
 
-PRUS: Hauku, pozor.
+_GREGOR_: Slabomyslný.
 
-HAUK: Ano, ano… Prosím za odpuštění… Měl bych už jít, že ano?
+_HAUK_: Zcela správně, slabomyslný. Všecko jsem nechal tam, u ní, račte rozumět? Já už jsem pak nežil, to byla jen dřímota… Vaya, querida! Salero! Mi dios, jak, jak jste jí podobna! Eugenia! Eugenia! _(Rozpláče se.)_
 
-EMILIA: Na shledanou, Maxi.
+_PRUS_: Hauku, pozor.
 
-HAUK: Zcela správně. Já… já ještě za vámi přijdu, že? (Vstává.) Račte dovolit, abych se nejuctivěji poroučel. Bože když se tak na vás dívám –
+_HAUK_: Ano, ano… Prosím za odpuštění… Měl bych už jít, že ano?
 
-EMILIA (nakloní se): Polibte mne!
+_EMILIA_: Na shledanou, Maxi.
 
-HAUK: Jak prosím?
+_HAUK_: Zcela správně. Já… já ještě za vámi přijdu, že? _(Vstává.)_ Račte dovolit, abych se nejuctivěji poroučel. Bože když se tak na vás dívám –
 
-EMILIA: Bésame, bobo, bobazo!
+_EMILIA_ _(nakloní se)_: Polibte mne!
 
-HAUK: Jesús mil veces, Eugenia –
+_HAUK_: Jak prosím?
 
-EMILIA: Animal, un besito!
+_EMILIA_: Bésame, bobo, bobazo!
 
-HAUK (políbí ji): Eugenia, moza negra – niňa – querida – carísima –
+_HAUK_: Jesús mil veces, Eugenia –
 
-EMILIA: Chite, tonto! Quita! Fuera!
+_EMILIA_: Animal, un besito!
 
-HAUK: Es ella, es ella! Gitana endiablada, ven conmigo, pronto!
+_HAUK_ _(políbí ji)_: Eugenia, moza negra – niňa – querida – carísima –
 
-EMILIA: Yo no lo soy, loco! Ahora cálate! Vaya! Hasta maňana, entiendes?
+_EMILIA_: Chite, tonto! Quita! Fuera!
 
-HAUK: Vendré, vendré, mis amores!
+_HAUK_: Es ella, es ella! Gitana endiablada, ven conmigo, pronto!
 
-EMILIA: Vaya!
+_EMILIA_: Yo no lo soy, loco! Ahora cálate! Vaya! Hasta maňana, entiendes?
 
-HAUK (couvá): Ay, por dios! Cielo de mí, es ella! Sí, es ella! Eugenia –
+_HAUK_: Vendré, vendré, mis amores!
 
-EMILIA: Caramba, vaya! Fuera!
+_EMILIA_: Vaya!
 
-HAUK (ustupuje): Vendré! Hijo de dios, ella misma! (Odejde.)
+_HAUK_ _(couvá)_: Ay, por dios! Cielo de mí, es ella! Sí, es ella! Eugenia –
 
-EMILIA: Další. Kdo mi co chce?
+_EMILIA_: Caramba, vaya! Fuera!
 
-VÍTEK: Prosím za odpuštění. Kdybyste ráčila podepsat pro mne… pro Kristinku… vaši fotografii.
+_HAUK_ _(ustupuje)_: Vendré! Hijo de dios, ella misma! _(Odejde.)_
 
-EMILIA: Hlouposti. Ale Kristince to udělám. Péro! (Podpisuje.) Tak, sbohem.
+_EMILIA_: Další. Kdo mi co chce?
 
-VÍTEK (uklání se): Tisíceré díky! (Odchází s Kristinou.)
+_VÍTEK_: Prosím za odpuštění. Kdybyste ráčila podepsat pro mne… pro Kristinku… vaši fotografii.
 
-EMILIA: Další. Nikdo víc?
+_EMILIA_: Hlouposti. Ale Kristince to udělám. Péro! _(Podpisuje.)_ Tak, sbohem.
 
-GREGOR: Až budete sama.
+_VÍTEK_ _(uklání se)_: Tisíceré díky! _(Odchází s Kristinou.)_
 
-EMILIA: Až jindy. Nikdo tedy? – Nu, půjdu.
+_EMILIA_: Další. Nikdo víc?
 
-PRUS: Prosím, jen okamžik.
+_GREGOR_: Až budete sama.
 
-EMILIA: Chcete něco?
+_EMILIA_: Až jindy. Nikdo tedy? – Nu, půjdu.
 
-PRUS: Patrně.
+_PRUS_: Prosím, jen okamžik.
 
-EMILIA (zívá): Budiž. Ven s tím!
+_EMILIA_: Chcete něco?
 
-PRUS: Chtěl jsem se vás jenom zeptat – vy totiž víte ledacos o Josefu Prusovi a tak dále, že ano?
+_PRUS_: Patrně.
 
-EMILIA: Možná.
+_EMILIA_ _(zívá)_: Budiž. Ven s tím!
 
-PRUS: Tedy je-li vám náhodou známo jedno jméno.
+_PRUS_: Chtěl jsem se vás jenom zeptat – vy totiž víte ledacos o Josefu Prusovi a tak dále, že ano?
 
-EMILIA: Které?
+_EMILIA_: Možná.
 
-PRUS: Řekněme Makropulos.
+_PRUS_: Tedy je-li vám náhodou známo jedno jméno.
 
-EMILIA (prudce vstane): Cože?
+_EMILIA_: Které?
 
-PRUS (vstane): Je-li vám známo jméno Makropulos.
+_PRUS_: Řekněme Makropulos.
 
-EMILIA (přemáhá se): Mně? – – Ani dost málo… To je poprvé, co slyším… Oh jděte všichni! Jděte! Nechte mne konečně!
+_EMILIA_ _(prudce vstane)_: Cože?
 
-PRUS (uklání se): Lituji neskonale –
+_PRUS_ _(vstane)_: Je-li vám známo jméno Makropulos.
 
-EMILIA: Vy ne! Vy počkat! A co se ten Janek tak omámil? Ať už jde!
+_EMILIA_ _(přemáhá se)_: Mně? – – Ani dost málo… To je poprvé, co slyším… Oh jděte všichni! Jděte! Nechte mne konečně!
 
-(Janek odejde.)
+_PRUS_ _(uklání se)_: Lituji neskonale –
 
-EMILIA (ke Gregorovi): A co ty tu chceš?
+_EMILIA_: Vy ne! Vy počkat! A co se ten Janek tak omámil? Ať už jde!
 
-GREGOR: Musím s vámi mluvit.
+_(Janek odejde.)_
 
-EMILIA: Teď nemám na tebe kdy.
+_EMILIA_ _(ke Gregorovi)_: A co ty tu chceš?
 
-GREGOR: Musím s vámi mluvit.
+_GREGOR_: Musím s vámi mluvit.
 
-EMILIA: Prosím tě, Bertíku, nech mne! Jdi, milý, jdi teď! Přijď třeba za chvíli!
+_EMILIA_: Teď nemám na tebe kdy.
 
-GREGOR: Přijdu. (Chladná poklona k Prusovi, odejde.)
+_GREGOR_: Musím s vámi mluvit.
 
-EMILIA: Konečně! (Pauza.)
+_EMILIA_: Prosím tě, Bertíku, nech mne! Jdi, milý, jdi teď! Přijď třeba za chvíli!
 
-PRUS: Promiňte, slečno; nevěděl jsem, že se vás to jméno tak dotkne.
+_GREGOR_: Přijdu. _(Chladná poklona k Prusovi, odejde.)_
 
-EMILIA: Co víte o věci Makropulos?
+_EMILIA_: Konečně! _(Pauza.)_
 
-PRUS: Na to se přece já ptám vás.
+_PRUS_: Promiňte, slečno; nevěděl jsem, že se vás to jméno tak dotkne.
 
-EMILIA: Co víte o věci Makropulos?
+_EMILIA_: Co víte o věci Makropulos?
 
-PRUS: Prosím, slečno, sedněte si; bude to snad trochu obšírné. (Oba usednou. Pomlčka.) Především, slečno, dovolte mi důvěrnou otázku. Snad příliš důvěrnou.
+_PRUS_: Na to se přece já ptám vás.
 
-(Emilia mlčky kývne.)
+_EMILIA_: Co víte o věci Makropulos?
 
-PRUS: Máte nějaký… zvláštní zájem na osobě pana Gregora?
+_PRUS_: Prosím, slečno, sedněte si; bude to snad trochu obšírné. _(Oba usednou. Pomlčka.)_ Především, slečno, dovolte mi důvěrnou otázku. Snad příliš důvěrnou.
 
-EMILIA: Ne.
+_(Emilia mlčky kývne.)_
 
-PRUS: Záleží vám tuze na tom, aby to vyhrál?
+_PRUS_: Máte nějaký… zvláštní zájem na osobě pana Gregora?
 
-EMILIA: Ne.
+_EMILIA_: Ne.
 
-PRUS: Děkuju vám. Nechci vyzvídat, slečno, odkud víte, co všecko je v zamčených skříních mého domu. Je to patrně vaše tajemství.
+_PRUS_: Záleží vám tuze na tom, aby to vyhrál?
 
-EMILIA: Ano.
+_EMILIA_: Ne.
 
-PRUS: Dobrá. Věděla jste, že tam jsou ty jisté dopisy. Věděla jste, že tam je Prusův odkaz… dokonce pod pečetí! Mimochodem řečeno, věděla jste, že tam je – ještě něco?
+_PRUS_: Děkuju vám. Nechci vyzvídat, slečno, odkud víte, co všecko je v zamčených skříních mého domu. Je to patrně vaše tajemství.
 
-EMILIA (vzrušena vstane): A co? Vy jste tam něco našli? Poslyšte, co je to?
+_EMILIA_: Ano.
 
-PRUS: Nevím. Na to bych se sám rád zeptal.
+_PRUS_: Dobrá. Věděla jste, že tam jsou ty jisté dopisy. Věděla jste, že tam je Prusův odkaz… dokonce pod pečetí! Mimochodem řečeno, věděla jste, že tam je – ještě něco?
 
-EMILIA: Vy nevíte, co to je?
+_EMILIA_ _(vzrušena vstane)_: A co? Vy jste tam něco našli? Poslyšte, co je to?
 
-PRUS: A vy to víte?
+_PRUS_: Nevím. Na to bych se sám rád zeptal.
 
-EMILIA: Vždyť jste mi to dosud neřekl…
+_EMILIA_: Vy nevíte, co to je?
 
-PRUS: Myslil jsem, že vám to řekl Kolenatý… nebo Gregor.
+_PRUS_: A vy to víte?
 
-EMILIA: Ani slova.
+_EMILIA_: Vždyť jste mi to dosud neřekl…
 
-PRUS: Nu, je to jen zapečetěná obálka, a na ní napsáno rukopisem Josefa Pruse: „Do rukou mého syna Ferdinanda.“ Nic víc. Bylo to u té závěti.
+_PRUS_: Myslil jsem, že vám to řekl Kolenatý… nebo Gregor.
 
-EMILIA: A vy jste to neotevřel?
+_EMILIA_: Ani slova.
 
-PRUS: Ne. Nepatří to mně.
+_PRUS_: Nu, je to jen zapečetěná obálka, a na ní napsáno rukopisem Josefa Pruse: „Do rukou mého syna Ferdinanda.“ Nic víc. Bylo to u té závěti.
 
-EMILIA: Tedy mi to dejte!
+_EMILIA_: A vy jste to neotevřel?
 
-PRUS (vstane): Jak to? Proč vám?
+_PRUS_: Ne. Nepatří to mně.
 
-EMILIA: Protože to chci! Protože – protože –
+_EMILIA_: Tedy mi to dejte!
 
-PRUS: Nu?
+_PRUS_ _(vstane)_: Jak to? Proč vám?
 
-EMILIA: Protože mám na to jakési právo!
+_EMILIA_: Protože to chci! Protože – protože –
 
-PRUS: Smím vědět jaké?
+_PRUS_: Nu?
 
-EMILIA: Ne. (Usedá.)
+_EMILIA_: Protože mám na to jakési právo!
 
-PRUS: Hm. (Usedá.) Je to patrně… zas vaše tajemství.
+_PRUS_: Smím vědět jaké?
 
-EMILIA: Ovšem. Dáte mi to?
+_EMILIA_: Ne. _(Usedá.)_
 
-PRUS: Ne.
+_PRUS_: Hm. _(Usedá.)_ Je to patrně… zas vaše tajemství.
 
-EMILIA: Dobrá, tedy mi to dá Bertík. Patří to beztoho jemu.
+_EMILIA_: Ovšem. Dáte mi to?
 
-PRUS: To se ukáže. Můžete mi říci, co je v té obálce?
+_PRUS_: Ne.
 
-EMILIA: Ne. (Pauza.) Co víte o… věci Makropulos.
+_EMILIA_: Dobrá, tedy mi to dá Bertík. Patří to beztoho jemu.
 
-PRUS: Pardon. Co víte vy o té, kterou nazýváte Ellian Mac Gregor?
+_PRUS_: To se ukáže. Můžete mi říci, co je v té obálce?
 
-EMILIA: Máte její dopisy.
+_EMILIA_: Ne. _(Pauza.)_ Co víte o… věci Makropulos.
 
-PRUS: Vy snad víte bližší věci. Je vám něco známo o té… běhně?
+_PRUS_: Pardon. Co víte vy o té, kterou nazýváte Ellian Mac Gregor?
 
-EMILIA (vyskočí): Dovolte!
+_EMILIA_: Máte její dopisy.
 
-PRUS (vstane): Ale drahá slečno –
+_PRUS_: Vy snad víte bližší věci. Je vám něco známo o té… běhně?
 
-EMILIA: Opovažte se! Jen se opovažte tak mluvit!
+_EMILIA_ _(vyskočí)_: Dovolte!
 
-PRUS: Co je vám? Co vám záleží na nějaké pochybné ženě… před sto lety?
+_PRUS_ _(vstane)_: Ale drahá slečno –
 
-EMILIA: Ano. Docela nic. (Usedá.) Byla to tedy běhna?
+_EMILIA_: Opovažte se! Jen se opovažte tak mluvit!
 
-PRUS: Víte, četl jsem její dopisy. Úžasně vášnivý typ, ta ženská.
+_PRUS_: Co je vám? Co vám záleží na nějaké pochybné ženě… před sto lety?
 
-EMILIA: Oh, neměl jste je číst…
+_EMILIA_: Ano. Docela nic. _(Usedá.)_ Byla to tedy běhna?
 
-PRUS: Jsou tam narážky na… prazvláštní intimnosti. Nejsem mladík, slečno, ale přiznám se, že… nejhorší roué nemá tolik… zkušeností v jistých věcech jako ta galantní dívka.
+_PRUS_: Víte, četl jsem její dopisy. Úžasně vášnivý typ, ta ženská.
 
-EMILIA: Chtěl jste říci nevěstka.
+_EMILIA_: Oh, neměl jste je číst…
 
-PRUS: To nestačí, slečno.
+_PRUS_: Jsou tam narážky na… prazvláštní intimnosti. Nejsem mladík, slečno, ale přiznám se, že… nejhorší roué nemá tolik… zkušeností v jistých věcech jako ta galantní dívka.
 
-EMILIA: Víte co? Dejte mi ty dopisy!
+_EMILIA_: Chtěl jste říci nevěstka.
 
-PRUS: Snad vás zajímají… právě ty intimní podrobnosti?
+_PRUS_: To nestačí, slečno.
 
-EMILIA: Možná. (Pauza.)
+_EMILIA_: Víte co? Dejte mi ty dopisy!
 
-PRUS: Víte, co bych rád věděl?
+_PRUS_: Snad vás zajímají… právě ty intimní podrobnosti?
 
-EMILIA: Nu?
+_EMILIA_: Možná. _(Pauza.)_
 
-PRUS: Jaká jste v lásce.
+_PRUS_: Víte, co bych rád věděl?
 
-EMILIA: Teď zase vy myslíte na… intimní podrobnosti.
+_EMILIA_: Nu?
 
-PRUS: Možná.
+_PRUS_: Jaká jste v lásce.
 
-EMILIA: Snad vám připomínám takovou Ellian?
+_EMILIA_: Teď zase vy myslíte na… intimní podrobnosti.
 
-PRUS: Bůh uchovej. (Pauza.)
+_PRUS_: Možná.
 
-EMILIA: Nuže: byla dobrodružka; byla prostopášná; nic horšího?
+_EMILIA_: Snad vám připomínám takovou Ellian?
 
-PRUS: Jak se opravdu jmenovala?
+_PRUS_: Bůh uchovej. _(Pauza.)_
 
-EMILIA: Ellian Mac Gregor. Vždyť to máte na těch dopisech.
+_EMILIA_: Nuže: byla dobrodružka; byla prostopášná; nic horšího?
 
-PRUS: Pardon, tam je jenom E. M. Nic víc.
+_PRUS_: Jak se opravdu jmenovala?
 
-EMILIA: To samozřejmě znamená Ellian Mac Gregor.
+_EMILIA_: Ellian Mac Gregor. Vždyť to máte na těch dopisech.
 
-PRUS: To může samozřejmě znamenat ledacos. Třeba Emilia Marty, Eugenia Montez nebo tisíc jiných jmen.
+_PRUS_: Pardon, tam je jenom E. M. Nic víc.
 
-EMILIA: Ale je to Ellian Mac Gregor, Škotka.
+_EMILIA_: To samozřejmě znamená Ellian Mac Gregor.
 
-PRUS: Nebo spíš – Elina Makropulos, Řekyně z Kréty.
+_PRUS_: To může samozřejmě znamenat ledacos. Třeba Emilia Marty, Eugenia Montez nebo tisíc jiných jmen.
 
-EMILIA: Zlořečeně!
+_EMILIA_: Ale je to Ellian Mac Gregor, Škotka.
 
-PRUS: Hleďme, vy jste to tedy věděla?
+_PRUS_: Nebo spíš – Elina Makropulos, Řekyně z Kréty.
 
-EMILIA (vztekle): Dejte mi pokoj! (Pauza.)
+_EMILIA_: Zlořečeně!
 
-EMILIA (zvedne hlavu): U čerta, jak to víte?
+_PRUS_: Hleďme, vy jste to tedy věděla?
 
-PRUS: Velmi prostě. V té závěti je řeč… o jakémsi Ferdinandovi, narozeném v Loukově 20. listopadu 1816. To bylo včera; a dnes ráno ve tři mne loukovský děkan vedl v košili do matriky; chudák mi svítil lucernou. A tam jsem to našel.
+_EMILIA_ _(vztekle)_: Dejte mi pokoj! _(Pauza.)_
 
-EMILIA: Co jste našel?
+_EMILIA_ _(zvedne hlavu)_: U čerta, jak to víte?
 
-PRUS: Matriční zápis. Tohle. (Vyjme zápisníček a čte.) Nomen infantis: Ferdinand Makropulos. Dies nativitatis: 20. listopad 1816. Torus: nemanželský. Otec vynechán. Mater: Elina Makropulos, rozená na Krétě. To je vše.
+_PRUS_: Velmi prostě. V té závěti je řeč… o jakémsi Ferdinandovi, narozeném v Loukově 20. listopadu 1816. To bylo včera; a dnes ráno ve tři mne loukovský děkan vedl v košili do matriky; chudák mi svítil lucernou. A tam jsem to našel.
 
-EMILIA: Nic víc nevíte?
+_EMILIA_: Co jste našel?
 
-PRUS: Ne, nic víc. Ale tohle stačí.
+_PRUS_: Matriční zápis. Tohle. _(Vyjme zápisníček a čte.)_ Nomen infantis: Ferdinand Makropulos. Dies nativitatis: 20. listopad 1816. Torus: nemanželský. Otec vynechán. Mater: Elina Makropulos, rozená na Krétě. To je vše.
 
-EMILIA: Chudáček Gregor! Teď Loukov zůstane vám, že?
+_EMILIA_: Nic víc nevíte?
 
-PRUS: Aspoň pokud se nepřihlásí nějaký pan Makropulos.
+_PRUS_: Ne, nic víc. Ale tohle stačí.
 
-EMILIA: A ta zavřená obálka?
+_EMILIA_: Chudáček Gregor! Teď Loukov zůstane vám, že?
 
-PRUS: Oh, bude pro něho dobře uložena.
+_PRUS_: Aspoň pokud se nepřihlásí nějaký pan Makropulos.
 
-EMILIA: A nepřihlásí-li se žádný Makropulos?
+_EMILIA_: A ta zavřená obálka?
 
-PRUS: Pak zůstane prostě zavřena. A nikdo jí nedostane.
+_PRUS_: Oh, bude pro něho dobře uložena.
 
-EMILIA: Tedy se přihlásí, rozumíte? A vy přijdete o Loukov!
+_EMILIA_: A nepřihlásí-li se žádný Makropulos?
 
-PRUS: Bohu poručeno.
+_PRUS_: Pak zůstane prostě zavřena. A nikdo jí nedostane.
 
-EMILIA: Jak můžete být tak hloupý! (Pauza.) Poslyšte, dejte mi raději tu obálku!!
+_EMILIA_: Tedy se přihlásí, rozumíte? A vy přijdete o Loukov!
 
-PRUS: Je mi líto, že o tom ještě mluvíte.
+_PRUS_: Bohu poručeno.
 
-EMILIA: Tedy si pro ni přijde ten Makropulos.
+_EMILIA_: Jak můžete být tak hloupý! _(Pauza.)_ Poslyšte, dejte mi raději tu obálku!!
 
-PRUS: Hm, kdo je to? Kde ho máte? V kufru?
+_PRUS_: Je mi líto, že o tom ještě mluvíte.
 
-EMILIA: Chcete to vědět? Je to Bertík Gregor.
+_EMILIA_: Tedy si pro ni přijde ten Makropulos.
 
-PRUS: Hleďme, už zase on?
+_PRUS_: Hm, kdo je to? Kde ho máte? V kufru?
 
-EMILIA: Ano. Elina Makropulos a Ellian Mac Gregor, to byla jedna osoba. Mac Gregor bylo její divadelní jméno, rozumíte?
+_EMILIA_: Chcete to vědět? Je to Bertík Gregor.
 
-PRUS: Dokonale. A Ferdinand Gregor byl její syn?
+_PRUS_: Hleďme, už zase on?
 
-EMILIA: Vždyť vám to říkám.
+_EMILIA_: Ano. Elina Makropulos a Ellian Mac Gregor, to byla jedna osoba. Mac Gregor bylo její divadelní jméno, rozumíte?
 
-PRUS: Pročpak se tedy nejmenoval Makropulos?
+_PRUS_: Dokonale. A Ferdinand Gregor byl její syn?
 
-EMILIA: Protože… protože Ellian chtěla, aby to jméno zmizelo ze světa.
+_EMILIA_: Vždyť vám to říkám.
 
-PRUS: Nu, nechme toho, slečno.
+_PRUS_: Pročpak se tedy nejmenoval Makropulos?
 
-EMILIA: Vy mi nevěříte?
+_EMILIA_: Protože… protože Ellian chtěla, aby to jméno zmizelo ze světa.
 
-PRUS: To jsem neřekl. Ani se dokonce neptám, odkud to víte.
+_PRUS_: Nu, nechme toho, slečno.
 
-EMILIA: Ale bože nač to ještě tajit? Já vám to řeknu, Pruse, ale nechte to pro sebe. Ta Ellian… ta Elina Makropulos byla… má teta.
+_EMILIA_: Vy mi nevěříte?
 
-PRUS: Vaše teta?
+_PRUS_: To jsem neřekl. Ani se dokonce neptám, odkud to víte.
 
-EMILIA: Ano, sestra mé matky. Teď víte všecko.
+_EMILIA_: Ale bože nač to ještě tajit? Já vám to řeknu, Pruse, ale nechte to pro sebe. Ta Ellian… ta Elina Makropulos byla… má teta.
 
-PRUS: Zajisté, tím se všechno náramně prostě vysvětluje.
+_PRUS_: Vaše teta?
 
-EMILIA: Tak vidíte!
+_EMILIA_: Ano, sestra mé matky. Teď víte všecko.
 
-PRUS (vstane): Škoda jen, že to není pravda, slečno Martyová.
+_PRUS_: Zajisté, tím se všechno náramně prostě vysvětluje.
 
-EMILIA: Chcete říci, že lžu?
+_EMILIA_: Tak vidíte!
 
-PRUS: Bohužel. Kdybyste řekla, že byla prababičkou vaší tety, bylo by to aspoň trochu pravděpodobnější.
+_PRUS_ _(vstane)_: Škoda jen, že to není pravda, slečno Martyová.
 
-EMILIA: Oh, máte pravdu. (Pauza. Podá Prusovi ruku.) Sbohem.
+_EMILIA_: Chcete říci, že lžu?
 
-PRUS (líbá jí ruku): Smím vám jindy projevit svou nesmírnou úctu?
+_PRUS_: Bohužel. Kdybyste řekla, že byla prababičkou vaší tety, bylo by to aspoň trochu pravděpodobnější.
 
-EMILIA: Děkuju. (Prus odchází.) Počkejte! Zač byste mi prodal tu zavřenou obálku?
+_EMILIA_: Oh, máte pravdu. _(Pauza. Podá Prusovi ruku.)_ Sbohem.
 
-PRUS (obrátí se): Jak prosím?
+_PRUS_ _(líbá jí ruku)_: Smím vám jindy projevit svou nesmírnou úctu?
 
-EMILIA: Koupím ji! Koupím ty dopisy! Dám, kolik budete chtít!
+_EMILIA_: Děkuju. _(Prus odchází.)_ Počkejte! Zač byste mi prodal tu zavřenou obálku?
 
-PRUS (vrací se k ní): Pardon, slečno, o tom nemohu jednat tady – a s vámi. Prosím pošlete ke mně někoho jiného.
+_PRUS_ _(obrátí se)_: Jak prosím?
 
-EMILIA: Proč?
+_EMILIA_: Koupím ji! Koupím ty dopisy! Dám, kolik budete chtít!
 
-PRUS: Abych s ním vyrazil dveře. (S lehkou poklonou odejde. Pauza. Emilia sedí bez hnutí, s očima zavřenýma. Vejde Gregor, zůstane tiše stát.)
+_PRUS_ _(vrací se k ní)_: Pardon, slečno, o tom nemohu jednat tady – a s vámi. Prosím pošlete ke mně někoho jiného.
 
-EMILIA (po chvíli): To jsi ty, Bertíku?
+_EMILIA_: Proč?
 
-GREGOR: Proč máte zavřené oči? – Vypadáte, jako byste trpěla. – Co je vám?
+_PRUS_: Abych s ním vyrazil dveře. _(S lehkou poklonou odejde. Pauza. Emilia sedí bez hnutí, s očima zavřenýma. Vejde Gregor, zůstane tiše stát.)_
 
-EMILIA: Unavena. Mluv tiše.
+_EMILIA_ _(po chvíli)_: To jsi ty, Bertíku?
 
-GREGOR (blíží se k ní): Tiše? Varuju vás. Budu-li mluvit tiše, nebudu vědět, co mluvím; budu vám říkat bláznivé věci. Slyšíte, Emilie? Zakažte mi mluvit tiše! Já vás miluju. Jsem posedlý. Miluju vás. Vy se nesmějete? Čekal jsem, že vyskočíte a dáte mi pohlavek. Byl bych vás miloval tím zběsileji. Já vás miluju. Copak spíte?
+_GREGOR_: Proč máte zavřené oči? – Vypadáte, jako byste trpěla. – Co je vám?
 
-EMILIA: Zima, Bertíku. Je chladno. Ať se nenachladíš.
+_EMILIA_: Unavena. Mluv tiše.
 
-GREGOR: Já vás miluju. Střezte se, Emilie. Jste ke mně sprostá, ale i to mi dělá rozkoš. Hrozím se vás, ale i to je rozkoš. Chtěl bych vás škrtit, když mne ponižujete. Chtěl bych – – Jsem blázen, Emilie; asi vás zabiju. Ve vás je něco odporného; ale i to je rozkoš. Vy jste zlá, nízká a strašná. Bezcitné zvíře.
+_GREGOR_ _(blíží se k ní)_: Tiše? Varuju vás. Budu-li mluvit tiše, nebudu vědět, co mluvím; budu vám říkat bláznivé věci. Slyšíte, Emilie? Zakažte mi mluvit tiše! Já vás miluju. Jsem posedlý. Miluju vás. Vy se nesmějete? Čekal jsem, že vyskočíte a dáte mi pohlavek. Byl bych vás miloval tím zběsileji. Já vás miluju. Copak spíte?
 
-EMILIA: Nejsem, Bertíku.
+_EMILIA_: Zima, Bertíku. Je chladno. Ať se nenachladíš.
 
-GREGOR: Jste. Nic vám ničím není. Studená jako nůž. Jako byste z hrobu vstala. Poslyšte, je to zvrhlost, vás milovat. A já vás miluju. Já vás miluju, až bych si rval maso z těla.
+_GREGOR_: Já vás miluju. Střezte se, Emilie. Jste ke mně sprostá, ale i to mi dělá rozkoš. Hrozím se vás, ale i to je rozkoš. Chtěl bych vás škrtit, když mne ponižujete. Chtěl bych – – Jsem blázen, Emilie; asi vás zabiju. Ve vás je něco odporného; ale i to je rozkoš. Vy jste zlá, nízká a strašná. Bezcitné zvíře.
 
-EMILIA: Líbí se ti jméno Makropulos? Řekni.
+_EMILIA_: Nejsem, Bertíku.
 
-GREGOR: Přestaňte! Nedrážděte! Nechal bych si život stát, kdybych vás dostal. Budete moci se mnou dělat, co budete chtít. Ať je to cokoliv, cokoliv neslýchaného. Miluju vás; jsem ztracený člověk, Emilie.
+_GREGOR_: Jste. Nic vám ničím není. Studená jako nůž. Jako byste z hrobu vstala. Poslyšte, je to zvrhlost, vás milovat. A já vás miluju. Já vás miluju, až bych si rval maso z těla.
 
-EMILIA: Tedy poslyš, teď běž k tomu svému advokátovi. Aby ti hned vrátil ten dokument, co jsem mu poslala.
+_EMILIA_: Líbí se ti jméno Makropulos? Řekni.
 
-GREGOR: Je falešný, co?
+_GREGOR_: Přestaňte! Nedrážděte! Nechal bych si život stát, kdybych vás dostal. Budete moci se mnou dělat, co budete chtít. Ať je to cokoliv, cokoliv neslýchaného. Miluju vás; jsem ztracený člověk, Emilie.
 
-EMILIA: Na mou duši, Alberte, není. Ale musíme mít jiný, víš, na jméno Makropulos. Počkej, já ti to vysvětlím: Ellian –
+_EMILIA_: Tedy poslyš, teď běž k tomu svému advokátovi. Aby ti hned vrátil ten dokument, co jsem mu poslala.
 
-GREGOR: Nechte si to. Mám až potud vašich kliček.
+_GREGOR_: Je falešný, co?
 
-EMILIA: Ne, počkej. Musíš být bohatý, Bertíku! Já chci, abys byl hrozně bohatý.
+_EMILIA_: Na mou duši, Alberte, není. Ale musíme mít jiný, víš, na jméno Makropulos. Počkej, já ti to vysvětlím: Ellian –
 
-GREGOR: Budete mne milovat?
+_GREGOR_: Nechte si to. Mám až potud vašich kliček.
 
-EMILIA: Přestaň už! Bertíku, tys mně slíbil, že mi opatříš ty řecké papíry. Má je Prus, slyšíš? A ty musíš dědit, abys je dostal!
+_EMILIA_: Ne, počkej. Musíš být bohatý, Bertíku! Já chci, abys byl hrozně bohatý.
 
-GREGOR: Budete mne milovat?
+_GREGOR_: Budete mne milovat?
 
-EMILIA: Nikdy, rozumíš? Nikdy!
+_EMILIA_: Přestaň už! Bertíku, tys mně slíbil, že mi opatříš ty řecké papíry. Má je Prus, slyšíš? A ty musíš dědit, abys je dostal!
 
-GREGOR (usedne): Já vás zabiju, Emilie.
+_GREGOR_: Budete mne milovat?
 
-EMILIA: Hlouposti. Kdybych ti řekla tři slova, bylo by po všem, bylo by po všem – – Koukejme, mne by chtěl zabít! Vidíš tady na krku, tu jizvu? To mne taky chtěl jeden zabít; a já se ti nebudu svlékat donaha, abys viděl, co jich už mám, těch vašich památek! Copak jsem jenom pro vaše zabíjení?
+_EMILIA_: Nikdy, rozumíš? Nikdy!
 
-GREGOR: Já vás miluju.
+_GREGOR_ _(usedne)_: Já vás zabiju, Emilie.
 
-EMILIA: A tak se zab, hlupáku! To toho bude! To je krámů s tou vaší láskou! Oh kdybys věděl… kdybys věděl, jak jste směšni, vy lidé! Kdybys věděl, jak jsem unavena! Kdybys věděl, jak je mi všecko jedno! Oh kdybys věděl!
+_EMILIA_: Hlouposti. Kdybych ti řekla tři slova, bylo by po všem, bylo by po všem – – Koukejme, mne by chtěl zabít! Vidíš tady na krku, tu jizvu? To mne taky chtěl jeden zabít; a já se ti nebudu svlékat donaha, abys viděl, co jich už mám, těch vašich památek! Copak jsem jenom pro vaše zabíjení?
 
-GREGOR: Co je vám?
+_GREGOR_: Já vás miluju.
 
-EMILIA (lomí rukama): Nešťastná Elina!
+_EMILIA_: A tak se zab, hlupáku! To toho bude! To je krámů s tou vaší láskou! Oh kdybys věděl… kdybys věděl, jak jste směšni, vy lidé! Kdybys věděl, jak jsem unavena! Kdybys věděl, jak je mi všecko jedno! Oh kdybys věděl!
 
-GREGOR (tiše): Pojďte, Emilie, odjedeme. Nikdo vás nikdy nemiloval tolik jako já. Já vím – já vím, ve vás je něco zoufalého a strašného. Emilie, jsem mlád a silný; mohu vás zaplavit láskou; vy zapomenete – A pak mne odvrhněte jako slupku. Slyšíte, Emilie?
+_GREGOR_: Co je vám?
 
-(Emilia pravidelně a slyšitelně chrápe.)
+_EMILIA_ _(lomí rukama)_: Nešťastná Elina!
 
-GREGOR (vstane pobouřen): Co je to? – Spí! – Děláte si blázna? – Spí. Jako opilec. (Vztahuje k ní ruce.) Emilie, to jsem já – já – Nikdo tu není – (Naklání se těsně k ní.)
+_GREGOR_ _(tiše)_: Pojďte, Emilie, odjedeme. Nikdo vás nikdy nemiloval tolik jako já. Já vím – já vím, ve vás je něco zoufalého a strašného. Emilie, jsem mlád a silný; mohu vás zaplavit láskou; vy zapomenete – A pak mne odvrhněte jako slupku. Slyšíte, Emilie?
 
-(Poklízečka stojí opodál, varovně a přísně zakašle.)
+_(Emilia pravidelně a slyšitelně chrápe.)_
 
-GREGOR (vztyčí se): Co je? – Ah tak, vy – Slečna usnula. Nebuďte ji. (Políbí Emilii ruku a odběhne.)
+_GREGOR_ _(vstane pobouřen)_: Co je to? – Spí! – Děláte si blázna? – Spí. Jako opilec. _(Vztahuje k ní ruce.)_ Emilie, to jsem já – já – Nikdo tu není – _(Naklání se těsně k ní.)_
 
-POKLÍZEČKA (přiblíží se k Emilii a mlčky na ni pohlíží): A mně jí je tak nějak líto. (Odejde.)
+_(Poklízečka stojí opodál, varovně a přísně zakašle.)_
 
-(Pauza. Ze zákulisí vystoupí Janek, zastaví se na deset kroků a obrátí se na Emilii.)
+_GREGOR_ _(vztyčí se)_: Co je? – Ah tak, vy – Slečna usnula. Nebuďte ji. _(Políbí Emilii ruku a odběhne.)_
 
-EMILIA (pohne se): To jsi ty, Bertíku?
+_POKLÍZEČKA_ _(přiblíží se k Emilii a mlčky na ni pohlíží)_: A mně jí je tak nějak líto. _(Odejde.)_
 
-JANEK (couvne): Ne prosím. Jenom Janek.
+_(Pauza. Ze zákulisí vystoupí Janek, zastaví se na deset kroků a obrátí se na Emilii.)_
 
-EMILIA (posadí se): Janek? Pojďte sem, Janku. Chtěl byste pro mne něco udělat?
+_EMILIA_ _(pohne se)_: To jsi ty, Bertíku?
 
-JANEK: Ano prosím.
+_JANEK_ _(couvne)_: Ne prosím. Jenom Janek.
 
-EMILIA: Všecko, co budu chtít?
+_EMILIA_ _(posadí se)_: Janek? Pojďte sem, Janku. Chtěl byste pro mne něco udělat?
 
-JANEK: Ano.
+_JANEK_: Ano prosím.
 
-EMILIA: Něco velkého, Janku. Hrdinský kousek.
+_EMILIA_: Všecko, co budu chtít?
 
-JANEK: Ano.
+_JANEK_: Ano.
 
-EMILIA: A – budete za to něco žádat?
+_EMILIA_: Něco velkého, Janku. Hrdinský kousek.
 
-JANEK: Ó nic prosím.
+_JANEK_: Ano.
 
-EMILIA: Pojďte blíž. Víte, že to je od vás hezké? Poslyšte, váš táta má doma zavřenou obálku, a na ní je napsáno: „Do rukou mého syna Ferdinanda.“ Má ji ve stole, v pokladně nebo já nevím kde. Compris?
+_EMILIA_: A – budete za to něco žádat?
 
-JANEK: Ano prosím.
+_JANEK_: Ó nic prosím.
 
-EMILIA: Přineste mi ji.
+_EMILIA_: Pojďte blíž. Víte, že to je od vás hezké? Poslyšte, váš táta má doma zavřenou obálku, a na ní je napsáno: „Do rukou mého syna Ferdinanda.“ Má ji ve stole, v pokladně nebo já nevím kde. Compris?
 
-JANEK: Dá mně ji táta?
+_JANEK_: Ano prosím.
 
-EMILIA: Nedá. Musíte mu ji vzít.
+_EMILIA_: Přineste mi ji.
 
-JANEK: To nejde.
+_JANEK_: Dá mně ji táta?
 
-EMILIA: Á, chlapeček se bojí táty.
+_EMILIA_: Nedá. Musíte mu ji vzít.
 
-JANEK: Nebojím, ale –
+_JANEK_: To nejde.
 
-EMILIA: Ale? Janku, na mou čest, je to jen památka – bez ceny – Já bych ji tolik chtěla!
+_EMILIA_: Á, chlapeček se bojí táty.
 
-JANEK: Já – já se pokusím.
+_JANEK_: Nebojím, ale –
 
-EMILIA: Jistě?
+_EMILIA_: Ale? Janku, na mou čest, je to jen památka – bez ceny – Já bych ji tolik chtěla!
 
-PRUS (vystoupí ze stínu): Nenamáhej se, Janku. Je v pokladně.
+_JANEK_: Já – já se pokusím.
 
-JANEK: Táto, už zase –
+_EMILIA_: Jistě?
 
-PRUS: Jdi! (K Emilii.) Hleďte, slečno, náhoda. Myslel jsem, že brousí kolem divadla kvůli své Kristince, a zatím –
+_PRUS_ _(vystoupí ze stínu)_: Nenamáhej se, Janku. Je v pokladně.
 
-EMILIA: A proč vy jste brousil kolem divadla?
+_JANEK_: Táto, už zase –
 
-PRUS: Čekal jsem – na vás.
+_PRUS_: Jdi! _(K Emilii.)_ Hleďte, slečno, náhoda. Myslel jsem, že brousí kolem divadla kvůli své Kristince, a zatím –
 
-EMILIA (přistoupí těsně k němu): Tedy mi dejte tu obálku!
+_EMILIA_: A proč vy jste brousil kolem divadla?
 
-PRUS: Není moje.
+_PRUS_: Čekal jsem – na vás.
 
-EMILIA: Přineste mi ji!
+_EMILIA_ _(přistoupí těsně k němu)_: Tedy mi dejte tu obálku!
 
-PRUS: Ah – Kdy?
+_PRUS_: Není moje.
 
-EMILIA: Dnes v noci.
+_EMILIA_: Přineste mi ji!
 
-PRUS: – – – Platí.
+_PRUS_: Ah – Kdy?
 
-Opona.
+_EMILIA_: Dnes v noci.
+
+_PRUS_: – – – Platí.
+
+_Opona._
