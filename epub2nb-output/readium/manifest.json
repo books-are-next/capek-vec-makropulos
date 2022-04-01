@@ -1,0 +1,156 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Věc Makropulos",
+    "identifier": "eb306b49-d5dc-4f21-9694-00ae7e697a77",
+    "author": "Karel Čapek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2017-11-14T00:00:00.000Z",
+    "published": "2018-01-19T00:00:00.000Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vec_makropulos_016.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva vydavatele",
+      "href": "OEBPS/Text/vec_makropulos_005.html"
+    },
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/vec_makropulos_007.html"
+    },
+    {
+      "title": "OSOBY",
+      "href": "OEBPS/Text/vec_makropulos_008.html"
+    },
+    {
+      "title": "DĚJSTVÍ PRVNÍ",
+      "href": "OEBPS/Text/vec_makropulos_009.html"
+    },
+    {
+      "title": "DĚJSTVÍ DRUHÉ",
+      "href": "OEBPS/Text/vec_makropulos_010.html"
+    },
+    {
+      "title": "DĚJSTVÍ TŘETÍ",
+      "href": "OEBPS/Text/vec_makropulos_011.html"
+    },
+    {
+      "title": "PROMĚNA",
+      "href": "OEBPS/Text/vec_makropulos_012.html"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/vec_makropulos_013.html"
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "href": "OEBPS/Text/vec_makropulos_014.html"
+    },
+    {
+      "title": "První vydání knih Karla Čapka",
+      "href": "OEBPS/Text/vec_makropulos_015.html"
+    }
+  ]
+}
