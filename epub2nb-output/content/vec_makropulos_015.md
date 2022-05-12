@@ -1,7 +1,5 @@
 ---
-title: |-
-  První
-  vydání knih Karla Čapka
+title: První vydání knih Karla Čapka
 contentType: prose
 ---
 

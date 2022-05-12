@@ -51,7 +51,7 @@
             "filename": "vec_makropulos_002.md",
             "xhtml": "vec_makropulos_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -323,19 +323,19 @@
         "xhtml": "vec_makropulos_012.html"
       },
       {
-        "titleSuggest": "Ediční\npoznámka",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_013.md",
         "xhtml": "vec_makropulos_013.html"
       },
       {
-        "titleSuggest": "Život a doba spisovatele\nKarla Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_014.md",
         "xhtml": "vec_makropulos_014.html"
       },
       {
-        "titleSuggest": "První\nvydání knih Karla Čapka",
+        "titleSuggest": "První vydání knih Karla Čapka",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_015.md",
         "xhtml": "vec_makropulos_015.html"
@@ -423,6 +423,6 @@
       "user": "books-are-next",
       "repo": "capek-vec-makropulos"
     },
-    "generatedAt": 1648806330045
+    "generatedAt": 1652351574090
   }
 }

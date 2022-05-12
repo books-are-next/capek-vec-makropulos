@@ -1,21 +1,38 @@
 {
-  "author": "Karel Čapek",
-  "contenttype": "drama",
-  "identifier": "capek-vec-makropulos-8b8be2f",
-  "languagecode": "cs",
-  "modified": "2017-11-14T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Věc Makropulos",
-  "revision": "8b8be2f",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-vec-makropulos-e2f0e3f",
+  "revision": "e2f0e3f",
+  "readingOrder": [
+    "promo.html",
+    "vec_makropulos_005.html",
+    "vec_makropulos_006.html",
+    "vec_makropulos_007.html",
+    "vec_makropulos_008.html",
+    "vec_makropulos_009.html",
+    "vec_makropulos_010.html",
+    "vec_makropulos_011.html",
+    "vec_makropulos_012.html",
+    "vec_makropulos_013.html",
+    "vec_makropulos_014.html",
+    "vec_makropulos_015.html",
+    "vec_makropulos_016.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 01 2022 09:46:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648806378215
+    "date": "Thu May 12 2022 10:41:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352094609
   },
   "documents": [
     {
-      "title": "Věc Makropulos",
-      "file": "vec_makropulos_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +40,17 @@
       "order": 0,
       "prev": null,
       "next": "vec_makropulos_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Předmluva vydavatele • Věc Makropulos",
+      "title": "Předmluva vydavatele",
       "file": "vec_makropulos_005.html",
       "words": 142,
       "chars": 942,
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "vec_makropulos_002.html",
+      "prev": "promo.html",
       "next": "vec_makropulos_006.html",
       "toc": [
         {
@@ -74,7 +83,7 @@
       ]
     },
     {
-      "title": "Předmluva • Věc Makropulos",
+      "title": "Předmluva",
       "file": "vec_makropulos_007.html",
       "words": 582,
       "chars": 3628,
@@ -94,7 +103,7 @@
       ]
     },
     {
-      "title": "OSOBY • Věc Makropulos",
+      "title": "OSOBY",
       "file": "vec_makropulos_008.html",
       "words": 23,
       "chars": 169,
@@ -114,7 +123,7 @@
       ]
     },
     {
-      "title": "DĚJSTVÍ PRVNÍ • Věc Makropulos",
+      "title": "DĚJSTVÍ PRVNÍ",
       "file": "vec_makropulos_009.html",
       "words": 4600,
       "chars": 27836,
@@ -134,7 +143,7 @@
       ]
     },
     {
-      "title": "DĚJSTVÍ DRUHÉ • Věc Makropulos",
+      "title": "DĚJSTVÍ DRUHÉ",
       "file": "vec_makropulos_010.html",
       "words": 4635,
       "chars": 26388,
@@ -154,7 +163,7 @@
       ]
     },
     {
-      "title": "DĚJSTVÍ TŘETÍ • Věc Makropulos",
+      "title": "DĚJSTVÍ TŘETÍ",
       "file": "vec_makropulos_011.html",
       "words": 2906,
       "chars": 17188,
@@ -174,7 +183,7 @@
       ]
     },
     {
-      "title": "PROMĚNA • Věc Makropulos",
+      "title": "PROMĚNA",
       "file": "vec_makropulos_012.html",
       "words": 4691,
       "chars": 26924,
@@ -194,11 +203,11 @@
       ]
     },
     {
-      "title": "Ediční\npoznámka • Věc Makropulos",
+      "title": "Ediční poznámka",
       "file": "vec_makropulos_013.html",
       "words": 77,
-      "chars": 605,
-      "ideas": 5,
+      "chars": 606,
+      "ideas": 4,
       "role": "chapter",
       "order": 9,
       "prev": "vec_makropulos_012.html",
@@ -207,18 +216,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ediční\npoznámka",
+          "name": "Ediční poznámka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Život a doba spisovatele\nKarla Čapka v datech • Věc Makropulos",
+      "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "vec_makropulos_014.html",
       "words": 293,
-      "chars": 2025,
-      "ideas": 32,
+      "chars": 2026,
+      "ideas": 31,
       "role": "chapter",
       "order": 10,
       "prev": "vec_makropulos_013.html",
@@ -227,18 +236,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První\nvydání knih Karla Čapka • Věc Makropulos",
+      "title": "První vydání knih Karla Čapka",
       "file": "vec_makropulos_015.html",
       "words": 233,
-      "chars": 1154,
-      "ideas": 68,
+      "chars": 1155,
+      "ideas": 67,
       "role": "chapter",
       "order": 11,
       "prev": "vec_makropulos_014.html",
@@ -247,7 +256,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První\nvydání knih Karla Čapka",
+          "name": "První vydání knih Karla Čapka",
           "id": null,
           "children": []
         }
@@ -274,11 +283,11 @@
       ]
     },
     {
-      "title": "Tiráž • Věc Makropulos",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 86,
-      "chars": 579,
-      "ideas": 10,
+      "words": 75,
+      "chars": 530,
+      "ideas": 6,
       "role": "colophon",
       "order": null,
       "prev": "vec_makropulos_016.html",
@@ -296,14 +305,14 @@
   ],
   "totals": {
     "all": {
-      "words": 18329,
-      "chars": 107832,
-      "ideas": 1684
+      "words": 18318,
+      "chars": 107786,
+      "ideas": 1677
     },
     "chapters": {
       "words": 18238,
-      "chars": 107225,
-      "ideas": 1671
+      "chars": 107228,
+      "ideas": 1668
     }
   }
 }
