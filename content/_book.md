@@ -13,7 +13,7 @@ meta:
   modified: '2017-11-14T00:00:00.000Z'
   publisherShort: mkp
 readingOrder:
-  - vec_makropulos_002.html
+  - promo.html
   - vec_makropulos_005.html
   - vec_makropulos_006.html
   - vec_makropulos_007.html
