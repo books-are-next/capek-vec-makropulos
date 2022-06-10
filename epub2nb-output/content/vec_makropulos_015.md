@@ -1,7 +1,9 @@
 ---
 title: První vydání knih Karla Čapka
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 **1917**
 
@@ -9,11 +11,15 @@ contentType: prose
 
 **1918**
 
-  
+</section>
+
+<section>
 
 – Pragmatismus čili Filozofie praktického života
 
-  
+</section>
+
+<section>
 
 – Krakonošova zahrada
 
@@ -21,11 +27,15 @@ contentType: prose
 
 **1920**
 
-  
+</section>
+
+<section>
 
 – Loupežník
 
-  
+</section>
+
+<section>
 
 – Kritika slov
 
@@ -33,7 +43,9 @@ contentType: prose
 
 **1921**
 
-  
+</section>
+
+<section>
 
 – Trapné povídky
 
@@ -41,15 +53,21 @@ contentType: prose
 
 **1922**
 
-  
+</section>
+
+<section>
 
 – Lásky hra osudná (společně s Josefem Čapkem)
 
-  
+</section>
+
+<section>
 
 – Zářivé hlubiny a jiné prózy
 
-  
+</section>
+
+<section>
 
 – Továrna na absolutno
 
@@ -61,7 +79,9 @@ contentType: prose
 
 **1924**
 
-  
+</section>
+
+<section>
 
 – Krakatit
 
@@ -69,7 +89,9 @@ contentType: prose
 
 **1925**
 
-  
+</section>
+
+<section>
 
 – Jak vzniká divadelní hra a průvodce po zákulisí
 
@@ -77,7 +99,9 @@ contentType: prose
 
 **1927**
 
-  
+</section>
+
+<section>
 
 – Adam Stvořitel
 
@@ -89,11 +113,15 @@ contentType: prose
 
 **1929**
 
-  
+</section>
+
+<section>
 
 – Povídky z jedné kapsy
 
-  
+</section>
+
+<section>
 
 – Povídky z druhé kapsy
 
@@ -105,7 +133,9 @@ contentType: prose
 
 **1931**
 
-  
+</section>
+
+<section>
 
 – Hovory s T. G. M. (2. díl)
 
@@ -113,15 +143,21 @@ contentType: prose
 
 **1932**
 
-  
+</section>
+
+<section>
 
 – Devatero pohádek a ještě jedna od Josefa Čapka jako přívažek
 
-  
+</section>
+
+<section>
 
 – Obrázky z Holandska
 
-  
+</section>
+
+<section>
 
 – Apokryfy
 
@@ -129,7 +165,9 @@ contentType: prose
 
 **1933**
 
-  
+</section>
+
+<section>
 
 – Dášeňka čili život štěněte
 
@@ -137,7 +175,9 @@ contentType: prose
 
 **1934**
 
-  
+</section>
+
+<section>
 
 – Povětroň
 
@@ -145,7 +185,9 @@ contentType: prose
 
 **1935**
 
-  
+</section>
+
+<section>
 
 – Hovory s T. G. M. (3. díl)
 
@@ -153,7 +195,9 @@ contentType: prose
 
 **1936**
 
-  
+</section>
+
+<section>
 
 – Válka s mloky
 
@@ -161,11 +205,15 @@ contentType: prose
 
 **1937**
 
-  
+</section>
+
+<section>
 
 – Bílá nemoc
 
-  
+</section>
+
+<section>
 
 – Jak se dělají noviny
 
@@ -173,7 +221,9 @@ contentType: prose
 
 **1938**
 
-  
+</section>
+
+<section>
 
 – Matka
 
@@ -181,6 +231,10 @@ contentType: prose
 
 **1939**
 
-  
+</section>
+
+<section>
 
 – posmrtně: Život a dílo skladatele Foltýna (torzo románu)
+
+</section>

@@ -1,15 +1,15 @@
 ---
 title: DĚJSTVÍ PRVNÍ
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 _Solicitátorův pokoj u dr. Kolenatého. V pozadí dveře ven, vlevo do kanceláře. Při zadní stěně vysoká registratura s nesčetnými příhradami abecedně značenými; při ní žebříček. Vlevo stůl solicitátorův, uprostřed dvojitý stůl písařský, vpravo několik křesel pro čekající klienty. Na stěnách různé tarify, vyhlášky, kalendář atd. a telefon. Všude plno listin, knih, fasciklů a aktů._
 
-  
+</section>
 
-  
-
-  
+<section>
 
 _VÍTEK_ _(uklízí akta do registratury)_: Ach je! Ach bože! Jedna hodina… Starý už nepřijde. – Causa Gregor-Prus. G, GR, tady. (_Vylézá po žebříčku.)_ Causa Gregor. Koukej, takys už dodělala. Ahi! Ach bože! _(Listuje ve fasciklu.)_ Osmnáct set dvacet sedm. Osmnáct set dvaatřicet. Dvaatřicet. Osmnáct set čtyřicet. Čtyřicet. Čtyřicet. Čtyřicet sedm. Za pár let jsme mohli mít stoleté jubileum. Škoda tak krásného procesu! _(Zastrkuje fascikl.)_ Zde… odpočívá… causa Gregor-Prus. Ahi, nic netrvá věčně. Vanitas… Prach a popel… _(Usedne zamyšleně na nejvyšší příčli žebříčku.)_ To se ví, šlechta. Stará šlechta. Jak by ne, baron Prus. A soudí se to sto let, špinavci! – _(Pauza.)_ „Citoyen! Občané! Což strpíte nadále, aby tito privilegovaní, tato stará šlechta hýčkaná králi Francie, tento stav, jenž za své výsady neděkuje přírodě ani rozumu, nýbrž tyranii, tento hlouček dvořanů a dědičných hodnostářů, tito držitelé půdy, moci i práv…“ Ahi!
 
@@ -858,3 +858,5 @@ _EMILIA_: Proč?
 _PRUS_: Máte to rozhodně jistější.
 
 _Opona._
+
+</section>

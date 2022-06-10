@@ -1,15 +1,15 @@
 ---
 title: DĚJSTVÍ TŘETÍ
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 _Hotelový pokoj. Vlevo okno, vpravo dveře na chodbu. Ve středu vchod do ložnice Emiliiny, oddělené závěsem._
 
-  
+</section>
 
-  
-
-  
+<section>
 
 _(Emilia vychází z ložnice v peignoiru. Za ní Prus ve smokingu, ale bez límce. Prus usedne mlčky vpravo. Emilia jde k oknu a vytáhne roletu. Slabý ranní úsvit.)_
 
@@ -556,3 +556,5 @@ _VÍTEK_: Lidskou?
 _KOLENATÝ_: Lidskou nebo hovězí, to je jedno. Jen když bude představovat smrt.
 
 _Opona._
+
+</section>

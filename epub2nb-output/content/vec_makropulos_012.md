@@ -1,15 +1,15 @@
 ---
 title: PROMĚNA
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 _Týž pokoj, ale upravený za soudní síň. Stoly, pohovka, židle atd. potaženy černým suknem. Na větším stole vlevo krucifix, bible, hořící svíce a lebka._
 
-  
+</section>
 
-  
-
-  
+<section>
 
 _(Za stolem Kolenatý jako předseda soudu a Vítek jako zapisovatel, Gregor u menšího stolku ve středu jako veřejný žalobce. Na pohovce Prus, Hauk a Kristina jako votanti. Vpravo prázdná židle.)_
 
@@ -736,3 +736,5 @@ _VÍTEK_ _(otvírá okno)_: – spáleninou.
 _EMILIA_: Hahaha, konec nesmrtelnosti!
 
 _Opona._
+
+</section>
