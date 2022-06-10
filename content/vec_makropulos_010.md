@@ -1,15 +1,15 @@
 ---
 title: DĚJSTVÍ DRUHÉ
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 _Jeviště velkého divadla, prázdné, jen trochu nepořádku po včerejším představení: nějaké praktikáhly, stočené dekorace, osvětlovací tělesa, celý holý a pustý rub divadla. Vpředu divadelní trůn na pódiu._
 
-  
+</section>
 
-  
-
-  
+<section>
 
 _POKLÍZEČKA_: Propána to bylo slávy. Viděl ste ty kytice?
 
@@ -922,3 +922,5 @@ _EMILIA_: Dnes v noci.
 _PRUS_: – – – Platí.
 
 _Opona._
+
+</section>

@@ -1,7 +1,9 @@
 ---
 title: OSOBY
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 **EMILIA MARTY**
 
@@ -26,3 +28,5 @@ contentType: prose
 **STROJNÍK**
 
 **POKLÍZEČKA**
+
+</section>

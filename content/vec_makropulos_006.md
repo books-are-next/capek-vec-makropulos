@@ -1,9 +1,13 @@
 ---
 title: ''
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 VĚC MAKROPULOS
 
 Komedie o třech dějstvích  
 s proměnou
+
+</section>

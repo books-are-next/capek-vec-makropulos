@@ -1,7 +1,9 @@
 ---
 title: Předmluva
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 _Tato nová komedie začala mne zaměstnávati asi před třemi nebo čtyřmi roky, tedy ještě před RUR; tehdy ovšem tanula mi na mysli jako román. Patří tedy látkově k věcem, které bych chtěl mít už za sebou; ještě jeden takový úkol mi zbývá, abych se zbavil starých zásob. Podnětem k ní byla teorie tuším prof. Mečnikova, že stárnutí je autointoxikace organismu._
 
@@ -14,3 +16,5 @@ _Tím nemluvím jenom za tuto hru, kterou bych nerad zvlášť podtrhoval; je to
 _Krom toho je jistá pesimistická literatura: to je ta, ve které se život jeví jako beznadějně nezajímavý a člověk i společnost jako cosi složitě a problematicky nudného. Tento vražedný pesimismus je však trpěn._
 
 _K. Č._
+
+</section>
