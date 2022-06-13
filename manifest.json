@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-vec-makropulos-ee21709",
-  "revision": "ee21709",
+  "identifier": "capek-vec-makropulos-bde558c",
+  "revision": "bde558c",
   "readingOrder": [
     "promo.html",
     "vec_makropulos_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 11:51:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948307970
+    "date": "Mon Jun 13 2022 21:52:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157179190
   },
   "documents": [
     {
@@ -285,9 +285,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 44,
-      "chars": 325,
-      "ideas": 5,
+      "words": 75,
+      "chars": 530,
+      "ideas": 6,
       "role": "colophon",
       "order": null,
       "prev": "vec_makropulos_016.html",
@@ -305,9 +305,9 @@
   ],
   "totals": {
     "all": {
-      "words": 18287,
-      "chars": 107581,
-      "ideas": 1676
+      "words": 18318,
+      "chars": 107786,
+      "ideas": 1677
     },
     "chapters": {
       "words": 18238,
