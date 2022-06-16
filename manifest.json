@@ -5,10 +5,11 @@
   "title": "Věc Makropulos",
   "author": "Karel Čapek",
   "publisher": "Městská knihovna v Praze",
+  "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-vec-makropulos-88a1926",
-  "revision": "88a1926",
+  "identifier": "capek-vec-makropulos-0266486",
+  "revision": "0266486",
   "readingOrder": [
     "promo.html",
     "vec_makropulos_005.html",
@@ -26,8 +27,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:47:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272025485
+    "date": "Thu Jun 16 2022 07:28:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364499103
   },
   "documents": [
     {
@@ -305,9 +306,9 @@
   ],
   "totals": {
     "all": {
-      "words": 18333,
-      "chars": 107899,
-      "ideas": 1678
+      "words": 18334,
+      "chars": 107904,
+      "ideas": 1679
     },
     "chapters": {
       "words": 18238,

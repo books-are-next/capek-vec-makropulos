@@ -8,7 +8,8 @@
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2017-11-14T00:00:00.000Z",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "edition": "drama"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
@@ -423,6 +424,6 @@
       "user": "books-are-next",
       "repo": "capek-vec-makropulos"
     },
-    "generatedAt": 1655271126107
+    "generatedAt": 1655364091060
   }
 }
