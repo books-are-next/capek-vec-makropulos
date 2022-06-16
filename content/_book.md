@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2017-11-14T00:00:00.000Z'
   publisherShort: mkp
+  edition: drama
 readingOrder:
   - promo.html
   - vec_makropulos_005.html
