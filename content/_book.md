@@ -27,7 +27,7 @@ readingOrder:
   - vec_makropulos_014.html
   - vec_makropulos_015.html
   - vec_makropulos_016.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
