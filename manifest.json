@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-vec-makropulos-5e13760",
-  "revision": "5e13760",
+  "identifier": "capek-vec-makropulos-0164f21",
+  "revision": "0164f21",
   "readingOrder": [
     "promo.html",
     "vec_makropulos_005.html",
@@ -24,11 +24,11 @@
     "vec_makropulos_014.html",
     "vec_makropulos_015.html",
     "vec_makropulos_016.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:56:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978180644
+    "date": "Thu Jul 07 2022 08:18:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181910549
   },
   "documents": [
     {
@@ -237,7 +237,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
@@ -272,7 +272,7 @@
       "role": "chapter",
       "order": 12,
       "prev": "vec_makropulos_015.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -285,11 +285,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 90,
       "chars": 643,
       "ideas": 7,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "vec_makropulos_016.html",
       "next": null,

@@ -64,7 +64,7 @@
             "filename": "vec_makropulos_003.md",
             "xhtml": "vec_makropulos_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "vec_makropulos_004.md",
             "xhtml": "vec_makropulos_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -424,6 +424,6 @@
       "user": "books-are-next",
       "repo": "capek-vec-makropulos"
     },
-    "generatedAt": 1655978070709
+    "generatedAt": 1657181720563
   }
 }
