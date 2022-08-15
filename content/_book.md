@@ -12,11 +12,10 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2017-11-14T00:00:00.000Z'
   publisherShort: mkp
-  edition: drama
+  edition: Drama
 readingOrder:
   - promo.html
   - vec_makropulos_005.html
-  - vec_makropulos_006.html
   - vec_makropulos_007.html
   - vec_makropulos_008.html
   - vec_makropulos_009.html
@@ -26,7 +25,6 @@ readingOrder:
   - vec_makropulos_013.html
   - vec_makropulos_014.html
   - vec_makropulos_015.html
-  - vec_makropulos_016.html
   - about.html
 tocBase:
   - id: section-1
@@ -53,19 +51,13 @@ tocBase:
         title: PROMĚNA
         hiddenTitle: false
       - link: vec_makropulos_013.html
-        title: |-
-          Ediční
-          poznámka
+        title: Ediční poznámka
         hiddenTitle: false
       - link: vec_makropulos_014.html
-        title: |-
-          Život a doba spisovatele
-          Karla Čapka v datech
+        title: Život a doba spisovatele Karla Čapka v datech
         hiddenTitle: false
       - link: vec_makropulos_015.html
-        title: |-
-          První
-          vydání knih Karla Čapka
+        title: První vydání knih Karla Čapka
         hiddenTitle: false
     isSection: true
     listType: plain
