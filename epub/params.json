@@ -9,7 +9,7 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2017-11-14T00:00:00.000Z",
       "publisherShort": "mkp",
-      "edition": "drama"
+      "edition": "Drama"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
@@ -25,6 +25,8 @@
       "brAfter": "",
       "blockquote": "",
       "figure": "mlpobrazky",
+      "centered": "",
+      "verse": "",
       "em": "ebookpodpiskurziva\nmlpdopispodpisi\nmlptexti\nmlpznakkurziva11b\nmlpznaktucne11b\nmlpscenickepoznamky",
       "strong": "mlptextbez1radkub\nmlptirazautoranazev",
       "remove": "",
@@ -94,14 +96,14 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Předmluva vydavatele"
+            "title": "Předmluva vydavatele",
+            "children": []
           },
           {
             "filename": "vec_makropulos_006.md",
             "xhtml": "vec_makropulos_006.html",
             "id": 5,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -119,8 +121,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Předmluva"
+            "title": "Předmluva",
+            "children": []
           },
           {
             "filename": "vec_makropulos_008.md",
@@ -132,8 +134,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "OSOBY"
+            "title": "OSOBY",
+            "children": []
           },
           {
             "filename": "vec_makropulos_009.md",
@@ -145,8 +147,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "DĚJSTVÍ PRVNÍ"
+            "title": "DĚJSTVÍ PRVNÍ",
+            "children": []
           },
           {
             "filename": "vec_makropulos_010.md",
@@ -158,8 +160,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "DĚJSTVÍ DRUHÉ"
+            "title": "DĚJSTVÍ DRUHÉ",
+            "children": []
           },
           {
             "filename": "vec_makropulos_011.md",
@@ -171,8 +173,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "DĚJSTVÍ TŘETÍ"
+            "title": "DĚJSTVÍ TŘETÍ",
+            "children": []
           },
           {
             "filename": "vec_makropulos_012.md",
@@ -184,8 +186,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "PROMĚNA"
+            "title": "PROMĚNA",
+            "children": []
           },
           {
             "filename": "vec_makropulos_013.md",
@@ -197,8 +199,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ediční\npoznámka"
+            "title": "Ediční poznámka",
+            "children": []
           },
           {
             "filename": "vec_makropulos_014.md",
@@ -210,8 +212,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Život a doba spisovatele\nKarla Čapka v datech"
+            "title": "Život a doba spisovatele Karla Čapka v datech",
+            "children": []
           },
           {
             "filename": "vec_makropulos_015.md",
@@ -223,14 +225,14 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "První\nvydání knih Karla Čapka"
+            "title": "První vydání knih Karla Čapka",
+            "children": []
           },
           {
             "filename": "vec_makropulos_016.md",
             "xhtml": "vec_makropulos_016.html",
             "id": 15,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -325,19 +327,19 @@
         "xhtml": "vec_makropulos_012.html"
       },
       {
-        "titleSuggest": "Ediční\npoznámka",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_013.md",
         "xhtml": "vec_makropulos_013.html"
       },
       {
-        "titleSuggest": "Život a doba spisovatele\nKarla Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_014.md",
         "xhtml": "vec_makropulos_014.html"
       },
       {
-        "titleSuggest": "První\nvydání knih Karla Čapka",
+        "titleSuggest": "První vydání knih Karla Čapka",
         "subtitleSuggest": "",
         "filename": "vec_makropulos_015.md",
         "xhtml": "vec_makropulos_015.html"
@@ -425,6 +427,6 @@
       "user": "books-are-next",
       "repo": "capek-vec-makropulos"
     },
-    "generatedAt": 1648806069471
+    "generatedAt": 1658413252033
   }
 }
