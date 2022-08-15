@@ -2,6 +2,18 @@
 title: Tiráž
 ---
 
+**Karel Čapek**  
+**Věc Makropulos**  
+Edice Bratři Čapkové  
+Obálka Alena Kubíková  
+Redakce Jaroslava Bednářová  
+Vydala _Městská knihovna v Praze_  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 2. opravené vydání  
+V MKP 1. elektronické vydání z 15. 8. 2022.
+
+***
+
 Znění tohoto textu vychází z díla [Věc Makropulos](https://search.mlp.cz/cz/titul/dramata/44185/) tak, jak bylo vydáno v Praze nakladatelstvím Československý spisovatel v roce 1994. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***

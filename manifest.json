@@ -5,15 +5,14 @@
   "title": "Věc Makropulos",
   "author": "Karel Čapek",
   "publisher": "Městská knihovna v Praze",
-  "edition": "drama",
+  "edition": "Drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-vec-makropulos-42b4c65",
-  "revision": "42b4c65",
+  "identifier": "capek-vec-makropulos-11bfb2b",
+  "revision": "11bfb2b",
   "readingOrder": [
     "promo.html",
     "vec_makropulos_005.html",
-    "vec_makropulos_006.html",
     "vec_makropulos_007.html",
     "vec_makropulos_008.html",
     "vec_makropulos_009.html",
@@ -23,12 +22,11 @@
     "vec_makropulos_013.html",
     "vec_makropulos_014.html",
     "vec_makropulos_015.html",
-    "vec_makropulos_016.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:42:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414544348
+    "date": "Mon Aug 15 2022 13:55:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660571726817
   },
   "documents": [
     {
@@ -52,32 +50,12 @@
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
-      "next": "vec_makropulos_006.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Předmluva vydavatele",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Věc Makropulos",
-      "file": "vec_makropulos_006.html",
-      "words": 8,
-      "chars": 49,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "vec_makropulos_005.html",
       "next": "vec_makropulos_007.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Předmluva vydavatele",
           "id": null,
           "children": []
         }
@@ -90,8 +68,8 @@
       "chars": 3628,
       "ideas": 7,
       "role": "chapter",
-      "order": 3,
-      "prev": "vec_makropulos_006.html",
+      "order": 2,
+      "prev": "vec_makropulos_005.html",
       "next": "vec_makropulos_008.html",
       "toc": [
         {
@@ -110,7 +88,7 @@
       "chars": 169,
       "ideas": 13,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "vec_makropulos_007.html",
       "next": "vec_makropulos_009.html",
       "toc": [
@@ -130,7 +108,7 @@
       "chars": 27836,
       "ideas": 426,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "vec_makropulos_008.html",
       "next": "vec_makropulos_010.html",
       "toc": [
@@ -150,7 +128,7 @@
       "chars": 26388,
       "ideas": 458,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "vec_makropulos_009.html",
       "next": "vec_makropulos_011.html",
       "toc": [
@@ -170,7 +148,7 @@
       "chars": 17188,
       "ideas": 275,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "vec_makropulos_010.html",
       "next": "vec_makropulos_012.html",
       "toc": [
@@ -190,7 +168,7 @@
       "chars": 26924,
       "ideas": 365,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "vec_makropulos_011.html",
       "next": "vec_makropulos_013.html",
       "toc": [
@@ -210,7 +188,7 @@
       "chars": 606,
       "ideas": 4,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "vec_makropulos_012.html",
       "next": "vec_makropulos_014.html",
       "toc": [
@@ -230,7 +208,7 @@
       "chars": 2026,
       "ideas": 31,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "vec_makropulos_013.html",
       "next": "vec_makropulos_015.html",
       "toc": [
@@ -250,9 +228,9 @@
       "chars": 1155,
       "ideas": 67,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "vec_makropulos_014.html",
-      "next": "vec_makropulos_016.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -264,34 +242,14 @@
       ]
     },
     {
-      "title": "Věc Makropulos",
-      "file": "vec_makropulos_016.html",
-      "words": 48,
-      "chars": 317,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 12,
-      "prev": "vec_makropulos_015.html",
-      "next": "about.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 90,
-      "chars": 643,
-      "ideas": 7,
+      "words": 129,
+      "chars": 866,
+      "ideas": 16,
       "role": "about",
       "order": null,
-      "prev": "vec_makropulos_016.html",
+      "prev": "vec_makropulos_015.html",
       "next": null,
       "toc": [
         {
@@ -306,14 +264,14 @@
   ],
   "totals": {
     "all": {
-      "words": 18334,
-      "chars": 107904,
-      "ideas": 1679
+      "words": 18317,
+      "chars": 107761,
+      "ideas": 1672
     },
     "chapters": {
-      "words": 18238,
-      "chars": 107228,
-      "ideas": 1668
+      "words": 18182,
+      "chars": 106862,
+      "ideas": 1652
     }
   }
 }
