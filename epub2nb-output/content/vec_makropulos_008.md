@@ -9,17 +9,17 @@ contentType: drama
 
 **JAROSLAV PRUS**
 
-**JANEK_, jeho syn_**
+**JANEK**_, jeho syn_****
 
 **ALBERT GREGOR**
 
 **HAUK-ŠENDORF**
 
-**_Advokát_ dr. KOLENATÝ**
+****_Advokát_** dr. KOLENATÝ**
 
-**_Solicitátor_ VÍTEK**
+****_Solicitátor_** VÍTEK**
 
-**KRISTINA_, jeho dcera_**
+**KRISTINA**_, jeho dcera_****
 
 **KOMORNÁ**
 

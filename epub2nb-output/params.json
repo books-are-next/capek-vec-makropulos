@@ -28,7 +28,7 @@
       "centered": "",
       "verse": "",
       "em": "ebookpodpiskurziva\nmlpdopispodpisi\nmlptexti\nmlpznakkurziva11b\nmlpznaktucne11b\nmlpscenickepoznamky",
-      "strong": "mlptextbez1radkub\nmlptirazautoranazev",
+      "strong": "mlptextbez1radkub\nmlptirazautoranazev\nmlpznaktucne11b",
       "remove": "",
       "ignore": ""
     },
@@ -426,6 +426,6 @@
       "user": "books-are-next",
       "repo": "capek-vec-makropulos"
     },
-    "generatedAt": 1660571626992
+    "generatedAt": 1660660758077
   }
 }
