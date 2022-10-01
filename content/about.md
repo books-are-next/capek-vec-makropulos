@@ -10,7 +10,7 @@ Redakce Jaroslava Bednářová
 Vydala **_Městská knihovna v Praze_**  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 2. opravené vydání  
-V MKP 1. elektronické vydání z 29. 9. 2022.
+V MKP 1. elektronické vydání z 1. 10. 2022.
 
 ***
 
