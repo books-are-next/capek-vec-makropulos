@@ -8,8 +8,8 @@
   "edition": "Drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-vec-makropulos-c62161a",
-  "revision": "c62161a",
+  "identifier": "capek-vec-makropulos-d348dd4",
+  "revision": "d348dd4",
   "readingOrder": [
     "promo.html",
     "vec_makropulos_005.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:50:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150620472
+    "date": "Mon Oct 10 2022 15:43:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416582689
   },
   "documents": [
     {
@@ -245,7 +245,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 127,
-      "chars": 866,
+      "chars": 867,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -265,7 +265,7 @@
   "totals": {
     "all": {
       "words": 18315,
-      "chars": 107757,
+      "chars": 107758,
       "ideas": 1670
     },
     "chapters": {
