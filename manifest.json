@@ -8,8 +8,8 @@
   "edition": "Drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-vec-makropulos-d348dd4",
-  "revision": "d348dd4",
+  "identifier": "capek-vec-makropulos-9b7510e",
+  "revision": "9b7510e",
   "readingOrder": [
     "promo.html",
     "vec_makropulos_005.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:43:02 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416582689
+    "date": "Fri Oct 21 2022 11:27:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351644219
   },
   "documents": [
     {
